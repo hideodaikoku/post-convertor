@@ -1,0 +1,74 @@
+[
+    {   
+        "place": "China - Wuhan",
+        "author": "Shu Wei",
+        "img" : "china",
+        "medium": "https://medium.com/post-quarantine-urbanism/post-quarantine-urbanism-of-china-its-all-about-human-conditions-2e1bb3acdf52",
+        "date": "2020/04/17",
+        "title": "Post-Quarantine Urbanism of China: It’s All About Human Conditions"
+    },
+    {
+        "place": "Switzerland - Zurich",
+        "author": "Melanie Imefeld",
+        "img" : "zurich",
+        "medium": "https://medium.com/post-quarantine-urbanism/zurichs-post-pandemic-balcony-and-what-we-can-learn-about-it-from-this-health-crisis-889e4081bfa3",
+        "date": "2020/04/19",
+        "title": "The impact of the health crisis on urban design: The post-pandemic balcony"
+    },
+    {
+        "place": "Hong Kong",
+        "author": "Stephen Law",
+        "img": "hkg",
+        "medium": "https://medium.com/post-quarantine-urbanism/speculating-hong-kongs-urban-futures-in-a-post-covid-world-9f548f874d6e",
+        "date": "2020/04/20",
+        "title": "Early speculations on how COVID19 can shape Hong Kong’s Urban Future"
+    },
+    {
+        "place": "Greece - Athens",
+        "author": "Anastassis Parmaksizoglou",
+        "img": "athens",
+        "medium": "https://medium.com/post-quarantine-urbanism/greece-in-the-age-of-covid-19-an-unlikely-success-story-and-the-new-challenges-ahead-3c84820b692c",
+        "date": "2020/04/14",
+        "title": "Greece in the age of COVID-19: An unlikely success story and the new challenges ahead"
+    },
+    {
+        "place": "England - London",
+        "author": "Alfie Long",
+        "img": "london",
+        "medium": "https://medium.com/post-quarantine-urbanism/london-parks-space-and-pandemic-94e41bc4e78?source=collection_home---2------0-----------------------",
+        "date": "2020/04/20",
+        "title": "London Parks, Space, and Pandemic"
+    },
+    {
+        "place": "Russia - Moscow",
+        "author": "Yevgeniya Yusova",
+        "img": "russia",
+        "medium": "https://medium.com/post-quarantine-urbanism/quarantine-in-moscow-everyone-is-isolated-everything-is-delivered-cad0013397bb",
+        "date": "2020/04/23",
+        "title": "Quarantine in Moscow: in Delivery We Trust"
+    },
+    {
+        "place": "Australia - Melbourne",
+        "author": "George Reed",
+        "img": "australia",
+        "medium": "https://medium.com/post-quarantine-urbanism/post-pandemic-urbanism-australia-the-merge-scenario-9b783e564e65",
+        "date": "2020/04/24",
+        "title": "Post Pandemic Urbanism Australia: The Merge Scenario"
+    },
+    {
+        "place": "Japan - Tokyo",
+        "author": "Soma Suzuki",
+        "img": "tokyo",
+        "medium": "https://medium.com/post-quarantine-urbanism/where-matters-52eba9406bed",
+        "date": "2020/05/02",
+        "title": "Where Matters."
+    },
+    {
+        "place": "Chile - Santiago",
+        "author": "Carolina Cornelio",
+        "img": "chile",
+        "medium": "https://medium.com/post-quarantine-urbanism/post-quarantine-in-a-segregated-metropolis-mobility-key-factor-to-unite-two-santiagos-today-and-a17d01b742ce",
+        "date": "2020/05/04",
+        "title": "Post-Quarantine in a segregated metropolis: Mobility, key factor to unite two Santiagos today and after the Covid-19 crisis"
+    }
+]

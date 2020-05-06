@@ -1,0 +1,23 @@
+{
+  "name": "post-conversion",
+  "version": "1.0.0",
+  "description": "converts medium articles to markdown",
+  "main": "convert.js",
+  "scripts": {
+    "test": "node convert.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hideodaikoku/post-convertor.git"
+  },
+  "author": "Hideo Daikoku",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hideodaikoku/post-convertor/issues"
+  },
+  "homepage": "https://github.com/hideodaikoku/post-convertor#readme",
+  "dependencies": {
+    "medium-to-markdown": "0.0.3",
+    "showdown": "^1.9.1"
+  }
+}
