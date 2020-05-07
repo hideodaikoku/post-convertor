@@ -5,7 +5,7 @@ London Parks, Space, and Pandemic
 
 [![Alfie Long](https://miro.medium.com/fit/c/96/96/2*jDsrQ0cy_rUt8-dYeBNqiQ.jpeg)](https://medium.com/@aclong?source=post_page-----94e41bc4e78----------------------)[Alfie Long](https://medium.com/@aclong?source=post_page-----94e41bc4e78----------------------)Follow[Apr 20](https://medium.com/post-quarantine-urbanism/london-parks-space-and-pandemic-94e41bc4e78?source=post_page-----94e41bc4e78----------------------) · 5 min read
 
-<img class="s t u he ai" src="https://miro.medium.com/max/8256/1\*uo7Ad4ujSHFf-WONhIcOpg.jpeg" width="4128" height="2322" srcSet="https://miro.medium.com/max/552/1\*uo7Ad4ujSHFf-WONhIcOpg.jpeg 276w, https://miro.medium.com/max/1104/1\*uo7Ad4ujSHFf-WONhIcOpg.jpeg 552w, https://miro.medium.com/max/1280/1\*uo7Ad4ujSHFf-WONhIcOpg.jpeg 640w, https://miro.medium.com/max/1400/1\*uo7Ad4ujSHFf-WONhIcOpg.jpeg 700w" sizes="700px" role="presentation"/>
+<img src="https://miro.medium.com/max/1400/1*uo7Ad4ujSHFf-WONhIcOpg.jpeg" alt="provide an image tag"/>
 
 View towards central London from Hampstead.
 
@@ -25,7 +25,7 @@ _Stay at home_ and _food, health and work reasons_ mean very different things to
 
 “Free”-time in London is often spent in shops, cafes, bars, restaurants, gyms, galleries, and cinemas. You can pay to access these places and experience what they have to offer. If you want to do something for free, your options are limited, but there are the open spaces of London’s parks. The distribution of these parks and green spaces and access to them is [a contentious issue even outside of the quarantine city](http://publications.naturalengland.org.uk/publication/5400445944070144). Inside the quarantine city, who gets to use them and how becomes a greater political issue.
 
-<img class="s t u he ai" src="https://miro.medium.com/max/4894/1\*5QeVVU8OaJMDzFcXD8je5g.jpeg" width="2447" height="2288" srcSet="https://miro.medium.com/max/552/1\*5QeVVU8OaJMDzFcXD8je5g.jpeg 276w, https://miro.medium.com/max/1104/1\*5QeVVU8OaJMDzFcXD8je5g.jpeg 552w, https://miro.medium.com/max/1280/1\*5QeVVU8OaJMDzFcXD8je5g.jpeg 640w, https://miro.medium.com/max/1400/1\*5QeVVU8OaJMDzFcXD8je5g.jpeg 700w" sizes="700px" role="presentation"/>
+<img src="https://miro.medium.com/max/1400/1*5QeVVU8OaJMDzFcXD8je5g.jpeg" alt="provide an image tag"/>
 
 Parakeets on Hampstead Heath in North London (a few months ago).
 
@@ -43,7 +43,7 @@ Access to green space and the outdoors does not stop these situations and crimes
 
 The narrative of _stay at home_ is reiterated by government officials and politicians, often on a video call from an office space within their house. Research shows that in London, wealthier areas are likely to have [a greater amount of private garden space](https://www.theguardian.com/uk-news/2020/apr/10/coronavirus-park-closures-hit-bame-and-poor-londoners-most). An MP (Minister for Parliament) wage places these people in a higher bracket of socioeconomic status than the average UK adult.
 
-<img class="s t u he ai" src="https://miro.medium.com/max/4826/1\*DpC0w\_1beQ4KmhYGrxVWbg.jpeg" width="2413" height="1927" srcSet="https://miro.medium.com/max/552/1\*DpC0w\_1beQ4KmhYGrxVWbg.jpeg 276w, https://miro.medium.com/max/1104/1\*DpC0w\_1beQ4KmhYGrxVWbg.jpeg 552w, https://miro.medium.com/max/1280/1\*DpC0w\_1beQ4KmhYGrxVWbg.jpeg 640w, https://miro.medium.com/max/1400/1\*DpC0w\_1beQ4KmhYGrxVWbg.jpeg 700w" sizes="700px" role="presentation"/>
+<img src="https://miro.medium.com/max/1400/1*DpC0w_1beQ4KmhYGrxVWbg.jpeg" alt="provide an image tag"/>
 
 Crane seen from a park.
 
