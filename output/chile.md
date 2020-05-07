@@ -1,6 +1,6 @@
-Anyone can publish on Medium per our [Policies](https://help.medium.com/hc/en-us/categories/201931128-Policies-Safety?source=post_page-----a17d01b742ce----------------------), but we don’t fact-check every story. For more info about the coronavirus, see [cdc.gov](https://www.cdc.gov/coronavirus/2019-nCoV?source=post_page-----a17d01b742ce----------------------).
+<img src="https://miro.medium.com/max/2912/1*AtJZfYO01weNUsa223jSiA.jpeg" alt="provide an image tag"/>
 
-<img class="s t u eb ai" src="https://miro.medium.com/max/2912/1\*AtJZfYO01weNUsa223jSiA.jpeg" width="1456" height="664" srcSet="https://miro.medium.com/max/552/1\*AtJZfYO01weNUsa223jSiA.jpeg 276w, https://miro.medium.com/max/1104/1\*AtJZfYO01weNUsa223jSiA.jpeg 552w, https://miro.medium.com/max/1280/1\*AtJZfYO01weNUsa223jSiA.jpeg 640w, https://miro.medium.com/max/1456/1\*AtJZfYO01weNUsa223jSiA.jpeg 728w, https://miro.medium.com/max/1632/1\*AtJZfYO01weNUsa223jSiA.jpeg 816w, https://miro.medium.com/max/1808/1\*AtJZfYO01weNUsa223jSiA.jpeg 904w, https://miro.medium.com/max/1984/1\*AtJZfYO01weNUsa223jSiA.jpeg 992w, https://miro.medium.com/max/2160/1\*AtJZfYO01weNUsa223jSiA.jpeg 1080w, https://miro.medium.com/max/2700/1\*AtJZfYO01weNUsa223jSiA.jpeg 1350w, https://miro.medium.com/max/2912/1\*AtJZfYO01weNUsa223jSiA.jpeg 1456w" sizes="1456px" role="presentation"/>
+
 
 Post-Quarantine in a segregated metropolis: Mobility, key factor to unite two Santiagos today and after the Covid-19 crisis
 ===========================================================================================================================
@@ -19,7 +19,7 @@ It is important to take into account that **each city is unrepeatable**, with un
 
 * * *
 
-<img class="s t u eb ai" src="https://miro.medium.com/max/1920/1\*I7eIoWOns0zmiXzCVWqOCQ.jpeg" width="960" height="533" srcSet="https://miro.medium.com/max/552/1\*I7eIoWOns0zmiXzCVWqOCQ.jpeg 276w, https://miro.medium.com/max/1104/1\*I7eIoWOns0zmiXzCVWqOCQ.jpeg 552w, https://miro.medium.com/max/1280/1\*I7eIoWOns0zmiXzCVWqOCQ.jpeg 640w, https://miro.medium.com/max/1400/1\*I7eIoWOns0zmiXzCVWqOCQ.jpeg 700w" sizes="700px" role="presentation"/>
+<img src="https://miro.medium.com/max/1400/1*I7eIoWOns0zmiXzCVWqOCQ.jpeg" alt="provide an image tag"/>
 
 Social outburst in Chile. October, 2019. Photo taken from Google
 
@@ -43,7 +43,7 @@ To date, Chile’s health minister **ensures that the curve remains controlled**
 
 With 34 districts, and a population of more than 6 million inhabitants that extends over 640 square kilometers, Santiago de Chile is characterized by **urban segregation and low mix of social classes within its territory**, leading the ranking of urban segregation among OECD member cities. (Tiznado-Aitkens, I. et al, 2019) With this background, it is being studied how people is operating in a city with wide social, economic, urban and even digital gaps.
 
-<img class="s t u eb ai" src="https://miro.medium.com/max/1056/1\*kxjJfVs\_caUaB4u9FFTFyg.jpeg" width="528" height="528" srcSet="https://miro.medium.com/max/552/1\*kxjJfVs\_caUaB4u9FFTFyg.jpeg 276w, https://miro.medium.com/max/1056/1\*kxjJfVs\_caUaB4u9FFTFyg.jpeg 528w" sizes="528px" role="presentation"/>
+<img src="https://miro.medium.com/max/1056/1*kxjJfVs_caUaB4u9FFTFyg.jpeg" alt="provide an image tag"/>
 
 “The two Santiagos”: Residential segregation in Santiago. In blue and light blue, the wealthiest residence areas. Author: Teodoro Dannemann, Boris Sotomayor-Gómez y Horacio Samaniego. Observatorio UC, 2018
 
@@ -55,7 +55,7 @@ The same happened when schools were closed and the online education system began
 
 Likewise, it is curious that **total quarantines only consider residents to remain at their homes, but they do not prohibit the entry of workers** whose workplaces are located in quarantined districts. This makes us doubt on the effectiveness of quarantines, and the lack of certainty that floating population has not been moving the virus to their districts of residence.
 
-<img class="s t u eb ai" src="https://miro.medium.com/max/1168/1\*jvTcu53myiVI7N4klHxNyw.jpeg" width="584" height="412" srcSet="https://miro.medium.com/max/552/1\*jvTcu53myiVI7N4klHxNyw.jpeg 276w, https://miro.medium.com/max/1104/1\*jvTcu53myiVI7N4klHxNyw.jpeg 552w, https://miro.medium.com/max/1168/1\*jvTcu53myiVI7N4klHxNyw.jpeg 584w" sizes="584px" role="presentation"/>
+<img src="https://miro.medium.com/max/1168/1*jvTcu53myiVI7N4klHxNyw.jpeg" alt="provide an image tag"/>
 
 Twitter capture: pictures showing government’s failed attempt to safeguard social distancing in the subway
 
@@ -68,7 +68,7 @@ Although mobility is not restricted, **measures taken by the government regardin
 
 To study this factor in depth, it must be considered that there is a high rate of **urban** **mobility due to travels to local labor markets**, which are concentrated in the eastern center of the city, creating a **dependent urban structure**. (Fuentes, L. et al. 2017)
 
-<img class="s t u eb ai" src="https://miro.medium.com/max/946/1\*9V0WMAZAyuSZL7f8vBP8EQ.jpeg" width="473" height="525" srcSet="https://miro.medium.com/max/552/1\*9V0WMAZAyuSZL7f8vBP8EQ.jpeg 276w, https://miro.medium.com/max/946/1\*9V0WMAZAyuSZL7f8vBP8EQ.jpeg 473w" sizes="473px" role="presentation"/>
+<img src="https://miro.medium.com/max/946/1*9V0WMAZAyuSZL7f8vBP8EQ.jpeg" alt="provide an image tag"/>
 
 Labor market clusters in Santiago. In pink, the eastern center cluster. Author: Fuentes, L. et al. 2017, modified for your understanding.
 
@@ -86,7 +86,7 @@ This would be a **short-term solution to many citizens, decongesting the coll
 
 Even better, it also represents an excellent opportunity to carry out some _stand-by_ projects, which seek to expand the city’s bikepath network, and discover new areas with **high demand that are surely overlooked today.**
 
-<img class="s t u eb ai" src="https://miro.medium.com/max/3684/1\*FhQ82recHDDnfzTEaJW3gA.jpeg" width="1842" height="2163" srcSet="https://miro.medium.com/max/552/1\*FhQ82recHDDnfzTEaJW3gA.jpeg 276w, https://miro.medium.com/max/1104/1\*FhQ82recHDDnfzTEaJW3gA.jpeg 552w, https://miro.medium.com/max/1280/1\*FhQ82recHDDnfzTEaJW3gA.jpeg 640w, https://miro.medium.com/max/1400/1\*FhQ82recHDDnfzTEaJW3gA.jpeg 700w" sizes="700px" role="presentation"/>
+<img src="https://miro.medium.com/max/1400/1*FhQ82recHDDnfzTEaJW3gA.jpeg" alt="provide an image tag"/>
 
 Santiago city´s bikepath network. In yellow: existing routes, concentrated in the central eastern area, while gray dotted lines represent projected paths. Author: Metropolitan Mayor
 
