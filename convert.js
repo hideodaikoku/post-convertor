@@ -14,5 +14,7 @@ const convert_page =(_url, slug)=>{
 }
 
 data.forEach(element => {
-    convert_page(element.medium, element.img)
+    if(!element.converted){
+        convert_page(element.medium, element.img)
+    }
 });
