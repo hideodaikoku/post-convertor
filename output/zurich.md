@@ -11,7 +11,7 @@ In the light of COVID-19, Switzerland has not been in the focus of the internati
 
 In light of these severe restrictions on activity in public spaces, the media has shifted the attention to our own homes, one example being the popular radio show on Swiss national radio _La vie chez soi_ or “Life at our place”, where people in confinement are talking about their experiences at home. In Zurich, where public outdoor infrastructures such as the lake, the rivers and city parks play a vital role, one particular outdoor space has reclaimed relevance: the balcony.
 
-<img class="s t u ib ai" src="https://miro.medium.com/max/1956/1\*9m0QoKuCeVylBRbUzJwWfA.jpeg" width="978" height="652" srcSet="https://miro.medium.com/max/552/1\*9m0QoKuCeVylBRbUzJwWfA.jpeg 276w, https://miro.medium.com/max/1104/1\*9m0QoKuCeVylBRbUzJwWfA.jpeg 552w, https://miro.medium.com/max/1280/1\*9m0QoKuCeVylBRbUzJwWfA.jpeg 640w, https://miro.medium.com/max/1400/1\*9m0QoKuCeVylBRbUzJwWfA.jpeg 700w" sizes="700px" role="presentation"/>
+<img src="https://miro.medium.com/max/1400/1*9m0QoKuCeVylBRbUzJwWfA.jpeg" alt="provide an image tag"/>
 
 Zurich from the top: Probably not happening this year (Credit: Alessandro della Bella)
 
@@ -21,7 +21,7 @@ Urban researcher Carolin Aronis describes the character of a balcony as _liminal
 
 In Zurich, the balcony is often subject of dispute between residents and city authorities. This is illustrated by a debate in 2016, where the city council amended the zoning plan of 1999 and included a paragraph suggesting that the allowed overhang of balconies should be reduced from 150 centimeters to 120 in order to preserve the architectural heritage of the city. These 30 centimeters triggered a heated political debate ranging from accusations of severe infringement on personal freedom to the question whether balconies are necessary at all. From an architectural perspective, the balcony in Zurich is considered an architectural nuisance: it is something the people demand but really disturbs the architectural form with its obtrusive protrusion and anarchist individualism.
 
-<img class="s t u ib ai" src="https://miro.medium.com/max/3888/1\*nmTjEAfoSjjOvYo6cM6TyA.png" width="1944" height="1463" srcSet="https://miro.medium.com/max/552/1\*nmTjEAfoSjjOvYo6cM6TyA.png 276w, https://miro.medium.com/max/1104/1\*nmTjEAfoSjjOvYo6cM6TyA.png 552w, https://miro.medium.com/max/1280/1\*nmTjEAfoSjjOvYo6cM6TyA.png 640w, https://miro.medium.com/max/1400/1\*nmTjEAfoSjjOvYo6cM6TyA.png 700w" sizes="700px" role="presentation"/>
+<img src="https://miro.medium.com/max/1400/1*nmTjEAfoSjjOvYo6cM6TyA.png" alt="provide an image tag"/>
 
 Typical Zurich balcony as seen from another balcony (Credits: L. Ballmer)
 
@@ -29,7 +29,7 @@ Typical Zurich balcony as seen from another balcony (Credits: L. Ballmer)
 
 In the age of COVID-19, our personal balconies have become essential. A balcony liberates us from the claustrophobia of the apartment and allows us to perform mundane leisurely activities such as domesticating edible plants, barbecuing, practicing yoga, participating in Zoom meetings, drinking our morning coffee, smoking cigarettes and sipping Gin Tonics in the evenings. Recently, a 22-year old started giving exercise lessons to elderly neighbors in which they could take part from their balconies, demonstrating that even if we perform these activities in confinement, it does not have to be in solitude.COVID-19 has also inspired completely new ways of making use of the balcony. Citizens found ways to communicate with others by decorating their balconies with banners stating _Alles wird gut —_ everything will be fine. Posts on Social Media amplified these messages and mobilized others. For example, following the lead of Italian cities, a Facebook post encouraged people to organize small ad-hoc concerts from their balconies. Even religious events are transplanted to the homes. A local church in Zurich held a sermon from the central courtyard of an elderly care home. The inhabitants joined the sermon from their balconies facing the courtyard. This year, the Orthodox Jewish community held their annual Pesach festivities on their loggias. Other countries report similar stories about balconies that play a significant role in the social and cultural life. They are stories of newfound love across rooftops, balcony drone delivery or that of a Frenchman running an entire marathon on his balcony.
 
-<img class="s t u ib ai" src="https://miro.medium.com/max/1500/1\*j1Uu0FEMYVB6dCngEiWHsg.png" width="750" height="1189" srcSet="https://miro.medium.com/max/552/1\*j1Uu0FEMYVB6dCngEiWHsg.png 276w, https://miro.medium.com/max/1104/1\*j1Uu0FEMYVB6dCngEiWHsg.png 552w, https://miro.medium.com/max/1280/1\*j1Uu0FEMYVB6dCngEiWHsg.png 640w, https://miro.medium.com/max/1400/1\*j1Uu0FEMYVB6dCngEiWHsg.png 700w" sizes="700px" role="presentation"/>
+<img src="https://miro.medium.com/max/1400/1*j1Uu0FEMYVB6dCngEiWHsg.png" alt="provide an image tag"/>
 
 Everything will be fine: People connecting physically and digitally (Credit: M. Switalski)
 
@@ -37,7 +37,7 @@ Everything will be fine: People connecting physically and digitally (Credit: M. 
 
 These anecdotal reports raise the question of how we can leverage our COVID-19 learnings for the design of a post-pandemic city. Today, institutional public infrastructure serves our needs for leisure and social interaction with others. In a future where we will spend more time in confinement, will balconies become a replacement for public infrastructure? How can design reflect the new responsibilities of the post-pandemic balcony? Are we moving towards eco-urbanism, just like the Italian architect Stefano Boeri’s vertical forest utopia in Milan?
 
-<img class="s t u ib ai" src="https://miro.medium.com/max/4096/1\*yeT0ZLB5v2xjQyVV7CMr4Q.jpeg" width="2048" height="1080" srcSet="https://miro.medium.com/max/552/1\*yeT0ZLB5v2xjQyVV7CMr4Q.jpeg 276w, https://miro.medium.com/max/1104/1\*yeT0ZLB5v2xjQyVV7CMr4Q.jpeg 552w, https://miro.medium.com/max/1280/1\*yeT0ZLB5v2xjQyVV7CMr4Q.jpeg 640w, https://miro.medium.com/max/1400/1\*yeT0ZLB5v2xjQyVV7CMr4Q.jpeg 700w" sizes="700px" role="presentation"/>
+<img src="https://miro.medium.com/max/1400/1*yeT0ZLB5v2xjQyVV7CMr4Q.jpeg" alt="provide an image tag"/>
 
 Vertical Forests in Milano (Credit: Stefano Boeri)
 
