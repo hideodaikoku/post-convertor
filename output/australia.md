@@ -5,7 +5,7 @@ Post Pandemic Urbanism Australia: The Merge Scenario
 
 [![George Reed](https://miro.medium.com/fit/c/96/96/2*BJq6OcewVF193RmWgl2h6A.jpeg)](https://medium.com/@reedgeo100?source=post_page-----9b783e564e65----------------------)[George Reed](https://medium.com/@reedgeo100?source=post_page-----9b783e564e65----------------------)Follow[Apr 22](https://medium.com/post-quarantine-urbanism/post-pandemic-urbanism-australia-the-merge-scenario-9b783e564e65?source=post_page-----9b783e564e65----------------------) · 5 min read
 
-<img class="s t u he ai" src="https://miro.medium.com/max/8050/1\*yssEGFAPwgWEPFBSe-HlyA.jpeg" width="4025" height="2843" srcSet="https://miro.medium.com/max/552/1\*yssEGFAPwgWEPFBSe-HlyA.jpeg 276w, https://miro.medium.com/max/1104/1\*yssEGFAPwgWEPFBSe-HlyA.jpeg 552w, https://miro.medium.com/max/1280/1\*yssEGFAPwgWEPFBSe-HlyA.jpeg 640w, https://miro.medium.com/max/1400/1\*yssEGFAPwgWEPFBSe-HlyA.jpeg 700w" sizes="700px" role="presentation"/>
+<img src="https://miro.medium.com/max/1400/1*yssEGFAPwgWEPFBSe-HlyA.jpeg" alt="provide an image tag"/>
 
 Melbourne CBD 2019
 
@@ -31,7 +31,7 @@ Cities’ virtual replicas, or ‘[digital twins](http://www.resccue.eu/blog/dig
 
 As early examples, Hong Kong’s MTR has begun [deploying](https://www.reuters.com/video/watch/idOVC6A3TY7) hydrogen-peroxide mist robots to disinfect trains once an infection has been reported in an area; and the UK’s University of Newcastle is [enabling](https://techxplore.com/news/2020-04-smart-city-technology-social-distancing.html) urban sensor arrays, through machine learning, to measure social distancing adherence.
 
-<img class="s t u he ai" src="https://miro.medium.com/max/3478/1\*DrdwET\_fMAjOF0K1Tz7OMw.png" width="1739" height="1250" srcSet="https://miro.medium.com/max/552/1\*DrdwET\_fMAjOF0K1Tz7OMw.png 276w, https://miro.medium.com/max/1104/1\*DrdwET\_fMAjOF0K1Tz7OMw.png 552w, https://miro.medium.com/max/1280/1\*DrdwET\_fMAjOF0K1Tz7OMw.png 640w, https://miro.medium.com/max/1400/1\*DrdwET\_fMAjOF0K1Tz7OMw.png 700w" sizes="700px" role="presentation"/>
+<img src="https://miro.medium.com/max/1400/1*DrdwET_fMAjOF0K1Tz7OMw.png" alt="provide an image tag"/>
 
 As the distinction becomes less clear between urban environments and the populations within, perhaps we must view cities as emergent networks of individuals that increasingly resemble living organisms; with this analogy becoming less abstract in the age of automation and epidemiology centred governance.
 
