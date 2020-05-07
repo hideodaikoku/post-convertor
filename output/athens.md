@@ -5,7 +5,9 @@ Greece in the age of COVID-19: An unlikely success story and the new challenges 
 
 [![Anastassis Parmaksizoglou](https://miro.medium.com/fit/c/96/96/2*UDMT5QORbn1M0QTT2OoumA.png)](https://medium.com/@parmatop?source=post_page-----3c84820b692c----------------------)[Anastassis Parmaksizoglou](https://medium.com/@parmatop?source=post_page-----3c84820b692c----------------------)Follow[Apr 14](https://medium.com/post-quarantine-urbanism/greece-in-the-age-of-covid-19-an-unlikely-success-story-and-the-new-challenges-ahead-3c84820b692c?source=post_page-----3c84820b692c----------------------) · 8 min read
 
-<img class="s t u he ai" src="https://miro.medium.com/max/1926/1\*jJZwI1y9gbpAxdAKPqZLHw.jpeg" width="963" height="541" srcSet="https://miro.medium.com/max/552/1\*jJZwI1y9gbpAxdAKPqZLHw.jpeg 276w, https://miro.medium.com/max/1104/1\*jJZwI1y9gbpAxdAKPqZLHw.jpeg 552w, https://miro.medium.com/max/1280/1\*jJZwI1y9gbpAxdAKPqZLHw.jpeg 640w, https://miro.medium.com/max/1400/1\*jJZwI1y9gbpAxdAKPqZLHw.jpeg 700w" sizes="700px" role="presentation"/>
+<img src="https://miro.medium.com/max/1400/1*jJZwI1y9gbpAxdAKPqZLHw.jpeg" alt="provide an image tag"/>
+
+
 
 Source: (William Faithful,2020)
 
@@ -28,6 +30,10 @@ f) On 19 March, the economical support of businesses and employees with a series
 g) On 23 March, the restriction of all nonessential transport and movement across the country and suspension of all passenger flights from the United Kingdom. Any movement should be accompanied by a movement certificate.
 
 <img class="s t u he ai" src="https://miro.medium.com/max/1310/1\*T1bs20-2-\_tLSxVf4Gh16g.png" width="655" height="403" srcSet="https://miro.medium.com/max/552/1\*T1bs20-2-\_tLSxVf4Gh16g.png 276w, https://miro.medium.com/max/1104/1\*T1bs20-2-\_tLSxVf4Gh16g.png 552w, https://miro.medium.com/max/1280/1\*T1bs20-2-\_tLSxVf4Gh16g.png 640w, https://miro.medium.com/max/1310/1\*T1bs20-2-\_tLSxVf4Gh16g.png 655w" sizes="655px" role="presentation"/>
+
+
+
+
 
 Figure 2: Logo of the “ΜΕΝΟΥΜΕ ΣΠΙΤΙ” (We Stay Home) campaign and the cell broadcast message by the Hellenic Ministry of Health
 
