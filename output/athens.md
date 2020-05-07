@@ -1,4 +1,3 @@
-Anyone can publish on Medium per our [Policies](https://help.medium.com/hc/en-us/categories/201931128-Policies-Safety?source=post_page-----3c84820b692c----------------------), but we don’t fact-check every story. For more info about the coronavirus, see [cdc.gov](https://www.cdc.gov/coronavirus/2019-nCoV?source=post_page-----3c84820b692c----------------------).
 
 Greece in the age of COVID-19: An unlikely success story and the new challenges ahead
 =====================================================================================
@@ -29,21 +28,17 @@ f) On 19 March, the economical support of businesses and employees with a series
 
 g) On 23 March, the restriction of all nonessential transport and movement across the country and suspension of all passenger flights from the United Kingdom. Any movement should be accompanied by a movement certificate.
 
-<img class="s t u he ai" src="https://miro.medium.com/max/1310/1\*T1bs20-2-\_tLSxVf4Gh16g.png" width="655" height="403" srcSet="https://miro.medium.com/max/552/1\*T1bs20-2-\_tLSxVf4Gh16g.png 276w, https://miro.medium.com/max/1104/1\*T1bs20-2-\_tLSxVf4Gh16g.png 552w, https://miro.medium.com/max/1280/1\*T1bs20-2-\_tLSxVf4Gh16g.png 640w, https://miro.medium.com/max/1310/1\*T1bs20-2-\_tLSxVf4Gh16g.png 655w" sizes="655px" role="presentation"/>
-
-
-
-
+<img src="https://miro.medium.com/max/1310/1*T1bs20-2-_tLSxVf4Gh16g.png" alt="provide an image tag"/>
 
 Figure 2: Logo of the “ΜΕΝΟΥΜΕ ΣΠΙΤΙ” (We Stay Home) campaign and the cell broadcast message by the Hellenic Ministry of Health
 
 The measures that were taken have proven to be quite effective and they were put in effect earlier compared to other countries. Thus, the infection and fatality curves for Greece seem quite linear, compared with other European countries of a similar population like the Netherlands, Belgium and Portugal, where the curve has an exponential behaviour. Some argue, however, that the incidents are more since there hasn’t been an extensive campaign of testing in the population e.g. South Korea has launched an extensive campaign of testing in the general population (Lifo, 2020). Be that as it may, the number of deaths is still very indicating of the situation.
 
-<img class="s t u he ai" src="https://miro.medium.com/max/2560/1\*1hXcWWRy9rYFVVaB1W9cNQ.jpeg" width="1280" height="853" srcSet="https://miro.medium.com/max/552/1\*1hXcWWRy9rYFVVaB1W9cNQ.jpeg 276w, https://miro.medium.com/max/1104/1\*1hXcWWRy9rYFVVaB1W9cNQ.jpeg 552w, https://miro.medium.com/max/1280/1\*1hXcWWRy9rYFVVaB1W9cNQ.jpeg 640w, https://miro.medium.com/max/1456/1\*1hXcWWRy9rYFVVaB1W9cNQ.jpeg 728w, https://miro.medium.com/max/1632/1\*1hXcWWRy9rYFVVaB1W9cNQ.jpeg 816w, https://miro.medium.com/max/1808/1\*1hXcWWRy9rYFVVaB1W9cNQ.jpeg 904w, https://miro.medium.com/max/1984/1\*1hXcWWRy9rYFVVaB1W9cNQ.jpeg 992w, https://miro.medium.com/max/2000/1\*1hXcWWRy9rYFVVaB1W9cNQ.jpeg 1000w" sizes="1000px" role="presentation"/>
+<img src="https://miro.medium.com/max/2000/1*1hXcWWRy9rYFVVaB1W9cNQ.jpeg" alt="provide an image tag"/>
 
 Figure 3: Number of incidents in Belgium, the Netherlands, Portugal and Greece (Source: CNN Greece)
 
-<img class="s t u he ai" src="https://miro.medium.com/max/2560/1\*sCngLz9WXNl-Rf\_nklidsg.jpeg" width="1280" height="853" srcSet="https://miro.medium.com/max/552/1\*sCngLz9WXNl-Rf\_nklidsg.jpeg 276w, https://miro.medium.com/max/1104/1\*sCngLz9WXNl-Rf\_nklidsg.jpeg 552w, https://miro.medium.com/max/1280/1\*sCngLz9WXNl-Rf\_nklidsg.jpeg 640w, https://miro.medium.com/max/1456/1\*sCngLz9WXNl-Rf\_nklidsg.jpeg 728w, https://miro.medium.com/max/1632/1\*sCngLz9WXNl-Rf\_nklidsg.jpeg 816w, https://miro.medium.com/max/1808/1\*sCngLz9WXNl-Rf\_nklidsg.jpeg 904w, https://miro.medium.com/max/1984/1\*sCngLz9WXNl-Rf\_nklidsg.jpeg 992w, https://miro.medium.com/max/2000/1\*sCngLz9WXNl-Rf\_nklidsg.jpeg 1000w" sizes="1000px" role="presentation"/>
+<img src="https://miro.medium.com/max/2000/1*sCngLz9WXNl-Rf_nklidsg.jpeg" alt="provide an image tag"/>
 
 Figure 4: Number of fatalities in the Netherlands, Belgium, Portugal and Greece (Source: CNN Greece)
 
@@ -63,17 +58,19 @@ The COVID-19 pandemic was the motive for the Greek government to launch two new 
 
 Citizens could also use the SMS service for every movement but work, by sending at 13033 the number indicating their movement type, their name and their address and receiving a text that acts as movement certificate.
 
-<img class="s t u he ai" src="https://miro.medium.com/max/3798/1\*RZYZDkfIU8OOqKaQyzqWHQ.png" width="1899" height="942" srcSet="https://miro.medium.com/max/552/1\*RZYZDkfIU8OOqKaQyzqWHQ.png 276w, https://miro.medium.com/max/1104/1\*RZYZDkfIU8OOqKaQyzqWHQ.png 552w, https://miro.medium.com/max/1280/1\*RZYZDkfIU8OOqKaQyzqWHQ.png 640w, https://miro.medium.com/max/1400/1\*RZYZDkfIU8OOqKaQyzqWHQ.png 700w" sizes="700px" role="presentation"/>
+<img src="https://miro.medium.com/max/1400/1*RZYZDkfIU8OOqKaQyzqWHQ.png" alt="provide an image tag"/>
 
 Figure 5: The web-portal of gov.gr (Source: gov.gr)
 
-<img class="s t u he ai" src="https://miro.medium.com/max/1204/0\*LrX2u\_vbfS2Tr3O9.jpg" width="602" height="760" srcSet="https://miro.medium.com/max/552/0\*LrX2u\_vbfS2Tr3O9.jpg 276w, https://miro.medium.com/max/1104/0\*LrX2u\_vbfS2Tr3O9.jpg 552w, https://miro.medium.com/max/1204/0\*LrX2u\_vbfS2Tr3O9.jpg 602w" sizes="602px" role="presentation"/>
+<img src="https://miro.medium.com/max/1204/0*LrX2u_vbfS2Tr3O9.jpg" alt="provide an image tag"/>
+
 
 Figure 6: The movement certificate
 
 The second online platform was an initiative that the ministry of tourism took to keep potential travellers engaged to essentially all things greek. The platform is supported by Google and publicly praised by Bill Gates. The visitor has the chance to discover and be inspired by the attractions, and for tourism-professionals to enhance their digital skills — and all this while staying home. Important greek athletes have supported the idea including tennis ace Stefanos Tsitsipas and NBA star Giannis Antetokounmpo who feature in YouTube videos in the platform’s channel. (ekathimerini.com, 2020).
 
-<img class="s t u he ai" src="https://miro.medium.com/max/3764/1\*-aDL4v3lvwP150TU1VILAA.png" width="1882" height="920" srcSet="https://miro.medium.com/max/552/1\*-aDL4v3lvwP150TU1VILAA.png 276w, https://miro.medium.com/max/1104/1\*-aDL4v3lvwP150TU1VILAA.png 552w, https://miro.medium.com/max/1280/1\*-aDL4v3lvwP150TU1VILAA.png 640w, https://miro.medium.com/max/1400/1\*-aDL4v3lvwP150TU1VILAA.png 700w" sizes="700px" role="presentation"/>
+<img src="https://miro.medium.com/max/1400/1*-aDL4v3lvwP150TU1VILAA.png" alt="provide an image tag"/>
+
 
 Figure 7: The online platform of #greecefromhome (greecefromhome.com, 2020)
 
