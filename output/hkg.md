@@ -5,13 +5,13 @@ Anyone can publish on Medium per our [Policies](https://help.medium.com/hc/en-us
 
 [![Stephenlawdesign](https://miro.medium.com/fit/c/96/96/2*wRuJKeNzXmQgYTuGOR-aNg.jpeg)](https://medium.com/@stephenlawdesign?source=post_page-----9f548f874d6e----------------------)[Stephenlawdesign](https://medium.com/@stephenlawdesign?source=post_page-----9f548f874d6e----------------------)Follow[Apr 20](https://medium.com/post-quarantine-urbanism/speculating-hong-kongs-urban-futures-in-a-post-covid-world-9f548f874d6e?source=post_page-----9f548f874d6e----------------------) · 7 min read
 
-<img class="s t u he ai" src="https://miro.medium.com/max/3862/1\*wk60gOEfd5c9uvvRB-qrFw.jpeg" width="1931" height="1062" srcSet="https://miro.medium.com/max/552/1\*wk60gOEfd5c9uvvRB-qrFw.jpeg 276w, https://miro.medium.com/max/1104/1\*wk60gOEfd5c9uvvRB-qrFw.jpeg 552w, https://miro.medium.com/max/1280/1\*wk60gOEfd5c9uvvRB-qrFw.jpeg 640w, https://miro.medium.com/max/1400/1\*wk60gOEfd5c9uvvRB-qrFw.jpeg 700w" sizes="700px" role="presentation"/>
+<img src="https://miro.medium.com/max/1400/1*wk60gOEfd5c9uvvRB-qrFw.jpeg" alt="provide an image tag"/>
 
 What does Hong Kong’s urban future hold in a Post COVID world?
 
 Historically, health issues have facilitated major changes in cities. For example, the Cholera outbreak in the 19th century had led to improvements in sanitation condition and the desire for a healthier environment motivated the city garden movement in the early 20th century (Howard 1902). Ones might ask what will happen to cities after the COVID19 health pandemic where many lives had been lost? How will this health crisis influence our daily lives in the short term and how will cities respond in the long term? This article will provide some early thoughts focusing on, Hong Kong, the hyper-dense city-region that faced a similar pandemic in 2003.
 
-<img class="s t u he ai" src="https://miro.medium.com/max/1644/1\*C4449UwpOOf4\_9Ow6VGAzA.png" width="822" height="522" srcSet="https://miro.medium.com/max/552/1\*C4449UwpOOf4\_9Ow6VGAzA.png 276w, https://miro.medium.com/max/1104/1\*C4449UwpOOf4\_9Ow6VGAzA.png 552w, https://miro.medium.com/max/1280/1\*C4449UwpOOf4\_9Ow6VGAzA.png 640w, https://miro.medium.com/max/1400/1\*C4449UwpOOf4\_9Ow6VGAzA.png 700w" sizes="700px" role="presentation"/>
+<img src="https://miro.medium.com/max/1400/1*C4449UwpOOf4_9Ow6VGAzA.png" alt="provide an image tag"/>
 
 _Fig 1. Geographical distribution of coronavirus cases in Hong Kong and its hospital location. (Source: SCMP)_ [_https://multimedia.scmp.com/infographics/news/hong-kong/article/3050053/hong-kong-coronavirus-infected-cases/index.html_](https://multimedia.scmp.com/infographics/news/hong-kong/article/3050053/hong-kong-coronavirus-infected-cases/index.html)
 
@@ -21,7 +21,7 @@ During the pandemic period, people’s behaviour changed. Many of such changes m
 
 At the end of the day, the stimulus package is a short-term solution, the socio-economic consequences from the health pandemic will last much longer. Socially, the mental wellbeing had taken a severe toll in the past year both from the trauma of the social unrest and the pandemic. While politically, the handling of the health pandemic seemed to have worsened the distrust with the government where social unrests can occur again. Economically, Hong Kong being a city region that relies heavily on the service economy, trade and tourism sector, will be negatively affected in the long term. There will undoubtedly be many business closures, job losses, and social distresses. The city region is thus not only managing a public health crisis but a deeper societal and economic one. Help will be needed to support people’s mental wellbeing and economically for businesses to adapt (eg. online economy, local/home production, outdoor activities, robotics and health technology are potential growth sectors).
 
-<img class="s t u he ai" src="https://miro.medium.com/max/1332/1\*HhSDxvtfW9cKY3DJ0dkQfw.png" width="666" height="677" srcSet="https://miro.medium.com/max/552/1\*HhSDxvtfW9cKY3DJ0dkQfw.png 276w, https://miro.medium.com/max/1104/1\*HhSDxvtfW9cKY3DJ0dkQfw.png 552w, https://miro.medium.com/max/1280/1\*HhSDxvtfW9cKY3DJ0dkQfw.png 640w, https://miro.medium.com/max/1332/1\*HhSDxvtfW9cKY3DJ0dkQfw.png 666w" sizes="666px" role="presentation"/>
+<img src="https://miro.medium.com/max/1332/1*HhSDxvtfW9cKY3DJ0dkQfw.png" alt="provide an image tag"/>
 
 _Fig 2. Concrete Jungle, Hong Kong_
 
