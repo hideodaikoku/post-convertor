@@ -7,7 +7,7 @@ Post-Quarantine Urbanism of China: It’s All About Human Conditions
 
 April 7 2020, one day before the official lockdown lift on Wuhan, China, people were counting down towards midnight as if there was another exclusive New Year’s Eve. The night was brightened up by a light show to pay tribute to the key workers with the headline ‘City of Heroes’ projected through LED; At the same time, BBC News was live-streaming the update about the UK prime minister’s health condition — one day after Boris Johnson was taken to the intensive care. Millions of live comments from all over the world were stacked up to pray for Boris for a speedy recovery, followed by the second popular trend — ‘It’s the time to blame on China’.
 
-<img class="s t u hv ai" src="https://miro.medium.com/max/1074/1\*YL1mp99BPXB-8Bj3RJWhNw.gif" width="537" height="239" srcSet="https://miro.medium.com/max/552/1\*YL1mp99BPXB-8Bj3RJWhNw.gif 276w, https://miro.medium.com/max/1074/1\*YL1mp99BPXB-8Bj3RJWhNw.gif 537w" sizes="537px" role="presentation"/>
+<img src="https://miro.medium.com/max/1074/1*YL1mp99BPXB-8Bj3RJWhNw.gif" alt="provide an image tag"/>
 
 Light show to celebrate Wuhan’s lockdown release (sourced from Twoeggz Media)
 
@@ -17,7 +17,7 @@ Yes, we will be zooming into the ongoing coronavirus pandemic, national measures
 
 Urban researcher Bratton (2020) from UCSD described the COVID-19 pandemic as the largest comparative experiment to examine different governance systems with the virus being “the control variable”. Simply looking at the output data from its virus battle, China has presented an effective centralized governance model which achieved an 0 local infection on March 19 — around only one month after it hit the daily infection peak of 14,108 on Feb 12.
 
-<img class="s t u hv ai" src="https://miro.medium.com/max/3026/1\*4VYxMo1lrw0PsagGnfYfyQ.jpeg" width="1513" height="417" srcSet="https://miro.medium.com/max/552/1\*4VYxMo1lrw0PsagGnfYfyQ.jpeg 276w, https://miro.medium.com/max/1104/1\*4VYxMo1lrw0PsagGnfYfyQ.jpeg 552w, https://miro.medium.com/max/1280/1\*4VYxMo1lrw0PsagGnfYfyQ.jpeg 640w, https://miro.medium.com/max/1456/1\*4VYxMo1lrw0PsagGnfYfyQ.jpeg 728w, https://miro.medium.com/max/1632/1\*4VYxMo1lrw0PsagGnfYfyQ.jpeg 816w, https://miro.medium.com/max/1808/1\*4VYxMo1lrw0PsagGnfYfyQ.jpeg 904w, https://miro.medium.com/max/1984/1\*4VYxMo1lrw0PsagGnfYfyQ.jpeg 992w, https://miro.medium.com/max/2000/1\*4VYxMo1lrw0PsagGnfYfyQ.jpeg 1000w" sizes="1000px" role="presentation"/>
+<img src="https://miro.medium.com/max/2000/1*4VYxMo1lrw0PsagGnfYfyQ.jpeg" alt="provide an image tag"/>
 
 COVID-19 data of China (graph sourced from World Data Meter)
 
@@ -31,7 +31,7 @@ Besides the macro-management of the governmental order, China’s success of its
 
 Although the lock-down has been gradually lifted across all the cities in China now, normal life has not yet returned to normal. First launched in Hangzhou in early Feb, developed by its local government and the leading tech company Alibaba, the _Health Code_ app serves as a safety proof for daily mobility. Applied voluntarily through the online platform, it will first issue the user a colored status (green, yellow or red) based on a self-reported health questionnaire. The status will then get updated dynamically based on the user’s ongoing activities traced through mobile GPS. While acquiring the digital health code is not compulsory for the citizens, a green color code is required for accessing public transport, traveling across cities as well as entering the most public sphere (supermarket, shopping mall, office building, etc.).
 
-<img alt="health code explanation" class="s t u hv ai" src="https://miro.medium.com/max/3582/1\*-bkVLdWBY4IuNu3YYOpWmw.png" width="1791" height="768" srcSet="https://miro.medium.com/max/552/1\*-bkVLdWBY4IuNu3YYOpWmw.png 276w, https://miro.medium.com/max/1104/1\*-bkVLdWBY4IuNu3YYOpWmw.png 552w, https://miro.medium.com/max/1280/1\*-bkVLdWBY4IuNu3YYOpWmw.png 640w, https://miro.medium.com/max/1400/1\*-bkVLdWBY4IuNu3YYOpWmw.png 700w" sizes="700px"/>
+<img src="https://miro.medium.com/max/1400/1*-bkVLdWBY4IuNu3YYOpWmw.png" alt="provide an image tag"/>
 
 _Health code capture (green: safe, free to travel; yellow: pending for longer self-monitoring; red: dangerous, may have recent physical contact with the virus carrier)_
 
@@ -47,7 +47,7 @@ _\- Within the epic pandemic, everyone who witnesses the story become the story 
 
 _\- When the physical distancing becomes inevitable, people turn to pursue the sense of co-presence (virtually sharing the same time and space) with strangers in the cyber world._
 
-<img class="s t u hv ai" src="https://miro.medium.com/max/1452/1\*sJwUfF9ZJyaGh8SysZUjkg.png" width="726" height="455" srcSet="https://miro.medium.com/max/552/1\*sJwUfF9ZJyaGh8SysZUjkg.png 276w, https://miro.medium.com/max/1104/1\*sJwUfF9ZJyaGh8SysZUjkg.png 552w, https://miro.medium.com/max/1280/1\*sJwUfF9ZJyaGh8SysZUjkg.png 640w, https://miro.medium.com/max/1400/1\*sJwUfF9ZJyaGh8SysZUjkg.png 700w" sizes="700px" role="presentation"/>
+<img src="https://miro.medium.com/max/1400/1*sJwUfF9ZJyaGh8SysZUjkg.png" alt="provide an image tag"/>
 
 User adoption increase rate during China’s quarantine — Video sharing platform DouYin ranks the top with an average daily increase rate of 76%（sourced from QuestMobile Research)
 
@@ -57,7 +57,7 @@ Another emerging social trend post-quarantine is the connection through ideas ha
 
 With the COVID-19 outbreak expanding worldwide from China, there is also something sentimental rising beyond the virus itself — Chinese restaurants in the western countries are suffering huge sells drop due to a general association between Chinese food and virus carriers; UC Berkeley was making an Instagram post (already deleted) to comfort their international students by saying it is frustrating but also normal to experience some xenophobia under the pandemic; ‘It’s all China’s fault’ became a frequently-seen comment during the streaming update of UK PM Borris Johnson’s health condition in Twitter. Meanwhile, the continuous daily death increase in Europe and North America kept triggering everyone’s nerve under the social-economic shock, which reinforced the negativity towards China’s people and culture, forgetting they were once the most desperate victims in the first place.
 
-<img class="s t u hv ai" src="https://miro.medium.com/max/5108/1\*tmKRyTuXAcHk1GbD6IdeMQ.png" width="2554" height="1360" srcSet="https://miro.medium.com/max/552/1\*tmKRyTuXAcHk1GbD6IdeMQ.png 276w, https://miro.medium.com/max/1104/1\*tmKRyTuXAcHk1GbD6IdeMQ.png 552w, https://miro.medium.com/max/1280/1\*tmKRyTuXAcHk1GbD6IdeMQ.png 640w, https://miro.medium.com/max/1400/1\*tmKRyTuXAcHk1GbD6IdeMQ.png 700w" sizes="700px" role="presentation"/>
+<img src="https://miro.medium.com/max/1400/1*tmKRyTuXAcHk1GbD6IdeMQ.png" alt="provide an image tag"/>
 
 A Chinese-Italian man protests coronavirus-related prejudice ([https://www.youtube.com/watch?v=lULceASXv88](https://www.youtube.com/watch?v=lULceASXv88))
 
@@ -69,51 +69,3 @@ However, the regional racism is not coming from nowhere. Interestingly, there is
 
 * * *
 
-**You may also interested to read:**
-
-[
-
-China, coronavirus and surveillance: the messy reality of personal data
------------------------------------------------------------------------
-
-### Three days after the Chinese government locked down Hubei, the province at the centre of the coronavirus outbreak, a…
-
-#### www.ft.com
-
-](https://www.ft.com/content/760142e6-740e-11ea-95fe-fcd274e920ca)[
-
-陌生人社交不再只是一门荷尔蒙生意 | 超级观点\_详细解读\_最新资讯\_热点事件\_36氪
-----------------------------------------------
-
-### 文 | 特约观察员 药师（"寸角群组"APP创始人） 编辑 | 吕方…
-
-#### www.36kr.com
-
-](https://www.36kr.com/p/1725396713473)[
-
-The coronavirus exposes the history of racism and "cleanliness"
----------------------------------------------------------------
-
-### The coronavirus outbreak has created global anxiety since the first cases were reported in Wuhan, China, late last…
-
-#### www.vox.com
-
-](https://www.vox.com/2020/2/7/21126758/coronavirus-xenophobia-racism-china-asians)[
-
-18 Lessons of Quarantine Urbanism
----------------------------------
-
-### To what world will we reemerge after the distress and devastation of the COVID-19 pandemic? Calling for a geopolitics…
-
-#### strelkamag.com
-
-](https://strelkamag.com/en/article/18-lessons-from-quarantine-urbanism)[
-
-Apple makes mobility data available to aid COVID-19 efforts
------------------------------------------------------------
-
-### Apple today released a mobility data trends tool from Apple Maps to support the impactful work happening around the…
-
-#### www.apple.com
-
-](https://www.apple.com/uk/newsroom/2020/04/apple-makes-mobility-data-available-to-aid-covid-19-efforts/)
