@@ -3,7 +3,7 @@ Where Matters.
 
 [![Placy](https://miro.medium.com/fit/c/96/96/2*4furBW9To-ai78nPf0-57g.png)](https://medium.com/@placy_city?source=post_page-----52eba9406bed----------------------)[Placy](https://medium.com/@placy_city?source=post_page-----52eba9406bed----------------------)Follow[May 2](https://medium.com/post-quarantine-urbanism/where-matters-52eba9406bed?source=post_page-----52eba9406bed----------------------) · 5 min read
 
-<img class="s t u gp ai" src="https://miro.medium.com/max/2396/1\*uVO4MgfbhBWh7YLca6DxSg.png" width="1198" height="896" srcSet="https://miro.medium.com/max/552/1\*uVO4MgfbhBWh7YLca6DxSg.png 276w, https://miro.medium.com/max/1104/1\*uVO4MgfbhBWh7YLca6DxSg.png 552w, https://miro.medium.com/max/1280/1\*uVO4MgfbhBWh7YLca6DxSg.png 640w, https://miro.medium.com/max/1400/1\*uVO4MgfbhBWh7YLca6DxSg.png 700w" sizes="700px" role="presentation"/>
+<img src="https://miro.medium.com/max/1400/1*uVO4MgfbhBWh7YLca6DxSg.png" alt="provide an image tag"/>
 
 I wake, eat and fall asleep, all in the same place. I expect exhaustion after spending so long indoors, but a local takeout meal restores my energy. I am repeating these days.
 
@@ -11,7 +11,7 @@ Freelance friends are considering life in rural areas when the functioning world
 
 Does creating a work from ‘anywhere’ culture automatically lead to a geographical dispersion of populations? Can human decisions be so easily parameterised, as in a simulation game?
 
-<img class="s t u gp ai" src="https://miro.medium.com/max/4080/1\*quliaAcVc7G-gnuUp1YS9g.jpeg" width="2040" height="1530" srcSet="https://miro.medium.com/max/552/1\*quliaAcVc7G-gnuUp1YS9g.jpeg 276w, https://miro.medium.com/max/1104/1\*quliaAcVc7G-gnuUp1YS9g.jpeg 552w, https://miro.medium.com/max/1280/1\*quliaAcVc7G-gnuUp1YS9g.jpeg 640w, https://miro.medium.com/max/1400/1\*quliaAcVc7G-gnuUp1YS9g.jpeg 700w" sizes="700px" role="presentation"/>
+<img src="https://miro.medium.com/max/1400/1*quliaAcVc7G-gnuUp1YS9g.jpeg" alt="provide an image tag"/>
 
 「Density」
 =========
@@ -32,7 +32,7 @@ In contrast, skeptic of urban density Joel Kotkin highlights the possibility tha
 
 This simple contrast does not account for more complex scenarios such as city/suburban hybrid living. This scenario, increasingly popular in Japan, offers not a choice of ‘either-or,’ but in the proportion of time spent in each domain.
 
-<img class="s t u gp ai" src="https://miro.medium.com/max/5720/1\*DTQHkYJrauqgyJ8eaJaNkg.png" width="2860" height="1560" srcSet="https://miro.medium.com/max/552/1\*DTQHkYJrauqgyJ8eaJaNkg.png 276w, https://miro.medium.com/max/1104/1\*DTQHkYJrauqgyJ8eaJaNkg.png 552w, https://miro.medium.com/max/1280/1\*DTQHkYJrauqgyJ8eaJaNkg.png 640w, https://miro.medium.com/max/1400/1\*DTQHkYJrauqgyJ8eaJaNkg.png 700w" sizes="700px" role="presentation"/>
+<img src="https://miro.medium.com/max/1400/1*DTQHkYJrauqgyJ8eaJaNkg.png" alt="provide an image tag"/>
 
 Tokyo and suburbs-Through comparison with foreign countries
 ===========================================================
@@ -51,7 +51,8 @@ Despite a rapid decline in population, London’s city centre saw a successful c
 
 It is clear from these examples that a diverse range of triggers cause fluctuations in urban populations. If Covid19 triggers an exodus to the suburbs, which cities will be most affected; and will the benefits of density be compelling enough to attract people back to city centres?
 
-<img class="s t u gp ai" src="https://miro.medium.com/max/2126/1\*k7RENYvq20N3oTjq8w0TSQ.jpeg" width="1063" height="797" srcSet="https://miro.medium.com/max/552/1\*k7RENYvq20N3oTjq8w0TSQ.jpeg 276w, https://miro.medium.com/max/1104/1\*k7RENYvq20N3oTjq8w0TSQ.jpeg 552w, https://miro.medium.com/max/1280/1\*k7RENYvq20N3oTjq8w0TSQ.jpeg 640w, https://miro.medium.com/max/1400/1\*k7RENYvq20N3oTjq8w0TSQ.jpeg 700w" sizes="700px" role="presentation"/>
+<img src="https://miro.medium.com/max/1400/1*k7RENYvq20N3oTjq8w0TSQ.jpeg" alt="provide an image tag"/>
+
 
 **Sense of Place**
 ==================
