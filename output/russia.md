@@ -1,17 +1,17 @@
+#### Anyone can publish on Medium per our [Policies](https://help.medium.com/hc/en-us/categories/201931128-Policies-Safety?source=post_page-----cad0013397bb----------------------), but we don’t fact-check every story. For more info about the coronavirus, see [cdc.gov](https://www.cdc.gov/coronavirus/2019-nCoV?source=post_page-----cad0013397bb----------------------).
+
 Quarantine in Moscow: in Delivery We Trust
 ==========================================
 
-[![Yevgenyia Yusova](https://miro.medium.com/fit/c/96/96/0*19404gPQr2nOi5rE.)](https://medium.com/@yevgenyiayusova?source=post_page-----cad0013397bb----------------------)
-[Yevgenyia Yusova](https://medium.com/@yevgenyiayusova?source=post_page-----cad0013397bb----------------------)
+[![Yevgenyia Yusova](https://miro.medium.com/fit/c/96/96/0*19404gPQr2nOi5rE.)](https://medium.com/@yevgenyiayusova?source=post_page-----cad0013397bb----------------------)[Yevgenyia Yusova](https://medium.com/@yevgenyiayusova?source=post_page-----cad0013397bb----------------------)Follow[Apr 22](https://medium.com/post-quarantine-urbanism/quarantine-in-moscow-everyone-is-isolated-everything-is-delivered-cad0013397bb?source=post_page-----cad0013397bb----------------------) · 9 min read
 
-<img src="https://miro.medium.com/max/1400/0*FH0zsqYZheAoWcbC" alt="provide an image tag"/>
+<img class="s t u gy ai" src="https://miro.medium.com/max/1600/0\*FH0zsqYZheAoWcbC" width="800" height="534" srcSet="https://miro.medium.com/max/552/0\*FH0zsqYZheAoWcbC 276w, https://miro.medium.com/max/1104/0\*FH0zsqYZheAoWcbC 552w, https://miro.medium.com/max/1280/0\*FH0zsqYZheAoWcbC 640w, https://miro.medium.com/max/1400/0\*FH0zsqYZheAoWcbC 700w" sizes="700px" role="presentation"/>
 
 [“Welcome to Moscow”](https://twitter.com/turbojedi/status/1251105485702512645)
 
 This brief report covers the situation in Moscow, Russia. The active measures against the pandemic were dated the 3rd week of March. To be precise with the current status, the report is dated the 14th of April.
 
-<img src="https://miro.medium.com/max/1400/0*3pV_DFcsJB7n6rOW" alt="provide an image tag"/>
-
+<img class="s t u gy ai" src="https://miro.medium.com/max/1684/0\*3pV\_DFcsJB7n6rOW" width="842" height="595" srcSet="https://miro.medium.com/max/552/0\*3pV\_DFcsJB7n6rOW 276w, https://miro.medium.com/max/1104/0\*3pV\_DFcsJB7n6rOW 552w, https://miro.medium.com/max/1280/0\*3pV\_DFcsJB7n6rOW 640w, https://miro.medium.com/max/1400/0\*3pV\_DFcsJB7n6rOW 700w" sizes="700px" role="presentation"/>
 
 Retrieved from [https://www.cashin.ru/virus/timing/?fbclid=IwAR0PNZuptupEdouJH9B8l-Pv87Xql5MPFhe93QVzTNP7gnDgX72VUbHzFc8](https://www.cashin.ru/virus/timing/?fbclid=IwAR0PNZuptupEdouJH9B8l-Pv87Xql5MPFhe93QVzTNP7gnDgX72VUbHzFc8)
 
@@ -31,7 +31,7 @@ Regulations
 
 On the 15th of April Moscow launched a digital pass system for all citizens. It means that those who have destinations to travel such as work (doctors), medical facilities, post office, etc. must generate digital pass online using the unified government website. There is no need to use the pass to shop in the local supermarket or pharmacy, but for dog owners, the maximum walking distance is set to 100m from home.
 
-<img src="https://miro.medium.com/max/1400/0*kmjvwbqWZNqp2GeL" alt="provide an image tag"/>
+<img class="s t u gy ai" src="https://miro.medium.com/max/1400/0\*kmjvwbqWZNqp2GeL" width="700" height="431" srcSet="https://miro.medium.com/max/552/0\*kmjvwbqWZNqp2GeL 276w, https://miro.medium.com/max/1104/0\*kmjvwbqWZNqp2GeL 552w, https://miro.medium.com/max/1280/0\*kmjvwbqWZNqp2GeL 640w, https://miro.medium.com/max/1400/0\*kmjvwbqWZNqp2GeL 700w" sizes="700px" role="presentation"/>
 
 [Digital pass](https://ecotonkosti.ru/kak-oformit-cifrovoj-propusk-v-moskve.html)
 
@@ -42,13 +42,13 @@ Mobility
 
 Total self-isolation affected mobility and public transport services. According to Apple statistics on mobility in Moscow, both walking and driving have dropped significantly.
 
-<img src="https://miro.medium.com/max/1400/0*oJePjtT_ueE3oMaj" alt="provide an image tag"/>
+<img class="s t u gy ai" src="https://miro.medium.com/max/3120/0\*oJePjtT\_ueE3oMaj" width="1560" height="950" srcSet="https://miro.medium.com/max/552/0\*oJePjtT\_ueE3oMaj 276w, https://miro.medium.com/max/1104/0\*oJePjtT\_ueE3oMaj 552w, https://miro.medium.com/max/1280/0\*oJePjtT\_ueE3oMaj 640w, https://miro.medium.com/max/1400/0\*oJePjtT\_ueE3oMaj 700w" sizes="700px" role="presentation"/>
 
 [Mobility report by Apple](https://www.apple.com/covid19/mobility)
 
 It’s important to note that Moscow authorities decided not to close the metro as the major means of public transport. Ridership is now almost twice lower, while the intervals between trains remain 60–90 sec. Empty carriages are equipped with notifications and stickers reminding passengers to keep the distance.
 
-<img src="https://miro.medium.com/max/1400/0*fc9joNNznfmxaFXK" alt="provide an image tag"/>
+<img class="s t u gy ai" src="https://miro.medium.com/max/3200/0\*fc9joNNznfmxaFXK" width="1600" height="1067" srcSet="https://miro.medium.com/max/552/0\*fc9joNNznfmxaFXK 276w, https://miro.medium.com/max/1104/0\*fc9joNNznfmxaFXK 552w, https://miro.medium.com/max/1280/0\*fc9joNNznfmxaFXK 640w, https://miro.medium.com/max/1400/0\*fc9joNNznfmxaFXK 700w" sizes="700px" role="presentation"/>
 
 “Keep the distance, don’t seat here”, [Moscow Metro](https://moslenta.ru/news/na-sidenyakh-poezdov-moskovskogo-metro-poyavilis-nakleiki-derzhite-distanciyu-31-03-2020.htm)
 
@@ -61,7 +61,7 @@ Moscow uses several [video surveillance systems](https://video.dit.mos.ru/about/
 
 Even if it seems like these initiatives are sufficient for control, the federal government has enforced the police to patrol the city. The Ministry of Emergency Situations (MES) and the National Guard of Russia are also involved, which means they can take actions against citizens who violate quarantine.
 
-<img src="https://miro.medium.com/max/1400/0*KMb5NOVz9zXXki5b" alt="provide an image tag"/>
+<img class="s t u gy ai" src="https://miro.medium.com/max/2048/0\*KMb5NOVz9zXXki5b" width="1024" height="683" srcSet="https://miro.medium.com/max/552/0\*KMb5NOVz9zXXki5b 276w, https://miro.medium.com/max/1104/0\*KMb5NOVz9zXXki5b 552w, https://miro.medium.com/max/1280/0\*KMb5NOVz9zXXki5b 640w, https://miro.medium.com/max/1400/0\*KMb5NOVz9zXXki5b 700w" sizes="700px" role="presentation"/>
 
 The members of the National Guard of the Russian Federation [issue fines](https://lenta.ru/news/2020/03/26/gribakinsaid/)
 
@@ -84,7 +84,7 @@ As it was fairly noticed by Yuval Noah Harari, authoritarian regimes will highly
 
 Thinking about the tendencies observed in Moscow it’s worth noting that during summer 2019 there was a series of protests against fraud in the Moscow City Duma elections. The protests were suppressed by unlawful and ungrounded violence (elderly people, students and school pupils were also violently arrested).
 
-<img src="https://miro.medium.com/max/1400/0*W--yj6LbIfF6saY9" alt="provide an image tag"/>
+<img class="s t u gy ai" src="https://miro.medium.com/max/3200/0\*W--yj6LbIfF6saY9" width="1600" height="1200" srcSet="https://miro.medium.com/max/552/0\*W--yj6LbIfF6saY9 276w, https://miro.medium.com/max/1104/0\*W--yj6LbIfF6saY9 552w, https://miro.medium.com/max/1280/0\*W--yj6LbIfF6saY9 640w, https://miro.medium.com/max/1400/0\*W--yj6LbIfF6saY9 700w" sizes="700px" role="presentation"/>
 
 [Meeting in Moscow](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%B5%D1%81%D1%82%D1%8B_%D0%B2_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5_(2019)#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Rally_for_right_to_vote_in_Moscow_(2019-08-10)_144610.jpg) on 10th of August, 2019
 
@@ -104,7 +104,7 @@ Isolation put families together 3 weeks ago without the right to leave the house
 **Change in urban design after covid19**
 ========================================
 
-<img src="https://miro.medium.com/max/1400/0*EEPnHb0V7GjBm_3q" alt="provide an image tag"/>
+<img class="s t u gy ai" src="https://miro.medium.com/max/2160/0\*EEPnHb0V7GjBm\_3q" width="1080" height="1057" srcSet="https://miro.medium.com/max/552/0\*EEPnHb0V7GjBm\_3q 276w, https://miro.medium.com/max/1104/0\*EEPnHb0V7GjBm\_3q 552w, https://miro.medium.com/max/1280/0\*EEPnHb0V7GjBm\_3q 640w, https://miro.medium.com/max/1400/0\*EEPnHb0V7GjBm\_3q 700w" sizes="700px" role="presentation"/>
 
 Empty lane, retrieved from [https://www.yaplakal.com/forum2/topic2092025.html](https://www.yaplakal.com/forum2/topic2092025.html)
 
@@ -114,8 +114,7 @@ If the new regulations are implemented, companies and proprietors will become re
 
 One of the features of the capital of Russia is the abundance of residential complexes with the protected closed territory. The isolation results in the pursuit of maximum functionality in the immediate surroundings, thus, these complexes win, as they can offer various services and leisure ensuring high safety standards.
 
-<img src="https://miro.medium.com/max/1400/0*HDPRgEdq_aU0t2jB" alt="provide an image tag"/>
-
+<img class="s t u gy ai" src="https://miro.medium.com/max/2328/0\*HDPRgEdq\_aU0t2jB" width="1164" height="776" srcSet="https://miro.medium.com/max/552/0\*HDPRgEdq\_aU0t2jB 276w, https://miro.medium.com/max/1104/0\*HDPRgEdq\_aU0t2jB 552w, https://miro.medium.com/max/1280/0\*HDPRgEdq\_aU0t2jB 640w, https://miro.medium.com/max/1400/0\*HDPRgEdq\_aU0t2jB 700w" sizes="700px" role="presentation"/>
 
 “Khelzavod №9 / Presnya City”, a new apartment complex, retrieved from [https://ricci-estate.ru/catalog/zhk-presnya-siti/](https://ricci-estate.ru/catalog/zhk-presnya-siti/)
 
@@ -240,3 +239,4 @@ Air con may have spread coronavirus to 3 families at 1 restaurant: study
 
 ](https://ria.ru/20200415/1570064889.html?fbclid=IwAR2IdfkzTPaXTcLaYMAjNYTZPTCdMWVjS4tmbHT0SaXE1dRKXnv0HLsZn6E)
 
+References:
