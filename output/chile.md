@@ -1,15 +1,17 @@
-<img src="https://miro.medium.com/max/2912/1*AtJZfYO01weNUsa223jSiA.jpeg" alt="provide an image tag"/>
+
 
 
 
 Post-Quarantine in a segregated metropolis: Mobility, key factor to unite two Santiagos today and after the Covid-19 crisis
 ===========================================================================================================================
 
-[
-
-![Carolina Cornelio Guillermo](https://miro.medium.com/fit/c/96/96/0*FpxI3No91dELR9gs)](https://medium.com/@jmcornelio?source=post_page-----a17d01b742ce----------------------)[Carolina Cornelio Guillermo](https://medium.com/@jmcornelio?source=post_page-----a17d01b742ce----------------------)Follow[Apr 22](https://medium.com/post-quarantine-urbanism/post-quarantine-in-a-segregated-metropolis-mobility-key-factor-to-unite-two-santiagos-today-and-a17d01b742ce?source=post_page-----a17d01b742ce----------------------) · 7 min read
-
+![Carolina Cornelio Guillermo](https://miro.medium.com/fit/c/96/96/0*FpxI3No91dELR9gs)
+[Carolina Cornelio Guillermo](https://medium.com/@jmcornelio?source=post_page-----a17d01b742ce----------------------)
 * * *
+  
+
+<img src="https://miro.medium.com/max/2912/1*AtJZfYO01weNUsa223jSiA.jpeg" alt="provide an image tag"/>
+
 
 The health crisis that is plaguing the world today and particularly the large metropolises, forces us to ask ourselves, what should be the next actions to be taken after the quarantine ends and the COVID 19 pandemic has been controlled? **Measures from an urban approach are crucial**, as the disease spread pattern in large cities has revealed — again — the great disadvantages of high density and coexistence with our peers in less km2.
 

@@ -2,7 +2,8 @@
 Greece in the age of COVID-19: An unlikely success story and the new challenges ahead
 =====================================================================================
 
-[![Anastassis Parmaksizoglou](https://miro.medium.com/fit/c/96/96/2*UDMT5QORbn1M0QTT2OoumA.png)](https://medium.com/@parmatop?source=post_page-----3c84820b692c----------------------)[Anastassis Parmaksizoglou](https://medium.com/@parmatop?source=post_page-----3c84820b692c----------------------)Follow[Apr 14](https://medium.com/post-quarantine-urbanism/greece-in-the-age-of-covid-19-an-unlikely-success-story-and-the-new-challenges-ahead-3c84820b692c?source=post_page-----3c84820b692c----------------------) · 8 min read
+[![Anastassis Parmaksizoglou](https://miro.medium.com/fit/c/96/96/2*UDMT5QORbn1M0QTT2OoumA.png)](https://medium.com/@parmatop?source=post_page-----3c84820b692c----------------------)
+[Anastassis Parmaksizoglou](https://medium.com/@parmatop?source=post_page-----3c84820b692c----------------------)
 
 <img src="https://miro.medium.com/max/1400/1*jJZwI1y9gbpAxdAKPqZLHw.jpeg" alt="provide an image tag"/>
 

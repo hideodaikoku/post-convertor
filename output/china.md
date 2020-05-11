@@ -1,9 +1,8 @@
-Anyone can publish on Medium per our [Policies](https://help.medium.com/hc/en-us/categories/201931128-Policies-Safety?source=post_page-----2e1bb3acdf52----------------------), but we don’t fact-check every story. For more info about the coronavirus, see [cdc.gov](https://www.cdc.gov/coronavirus/2019-nCoV?source=post_page-----2e1bb3acdf52----------------------).
-
 Post-Quarantine Urbanism of China: It’s All About Human Conditions
 ==================================================================
 
-[![Shu. W](https://miro.medium.com/fit/c/96/96/2*7i1bPy6AjQIPD8qfkshBRQ.png)](https://medium.com/@shuwei1215?source=post_page-----2e1bb3acdf52----------------------)[Shu. W](https://medium.com/@shuwei1215?source=post_page-----2e1bb3acdf52----------------------)Follow[Apr 16](https://medium.com/post-quarantine-urbanism/post-quarantine-urbanism-of-china-its-all-about-human-conditions-2e1bb3acdf52?source=post_page-----2e1bb3acdf52----------------------) · 8 min read
+[![Shu. W](https://miro.medium.com/fit/c/96/96/2*7i1bPy6AjQIPD8qfkshBRQ.png)](https://medium.com/@shuwei1215?source=post_page-----2e1bb3acdf52----------------------)
+[Shu. W](https://medium.com/@shuwei1215?source=post_page-----2e1bb3acdf52----------------------)
 
 April 7 2020, one day before the official lockdown lift on Wuhan, China, people were counting down towards midnight as if there was another exclusive New Year’s Eve. The night was brightened up by a light show to pay tribute to the key workers with the headline ‘City of Heroes’ projected through LED; At the same time, BBC News was live-streaming the update about the UK prime minister’s health condition — one day after Boris Johnson was taken to the intensive care. Millions of live comments from all over the world were stacked up to pray for Boris for a speedy recovery, followed by the second popular trend — ‘It’s the time to blame on China’.
 

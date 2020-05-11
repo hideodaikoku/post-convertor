@@ -1,9 +1,8 @@
-Anyone can publish on Medium per our [Policies](https://help.medium.com/hc/en-us/categories/201931128-Policies-Safety?source=post_page-----889e4081bfa3----------------------), but we don’t fact-check every story. For more info about the coronavirus, see [cdc.gov](https://www.cdc.gov/coronavirus/2019-nCoV?source=post_page-----889e4081bfa3----------------------).
-
 **_Zurich’s post-pandemic balcony and what we can learn about it from this health crisis_**
 ===========================================================================================
 
-[![Melanie I.](https://miro.medium.com/fit/c/96/96/2*b0TtwxwB_LacHXKaWVHFug.jpeg)](https://medium.com/@indemfeld?source=post_page-----889e4081bfa3----------------------)[Melanie I.](https://medium.com/@indemfeld?source=post_page-----889e4081bfa3----------------------)Follow[Apr 19](https://medium.com/post-quarantine-urbanism/zurichs-post-pandemic-balcony-and-what-we-can-learn-about-it-from-this-health-crisis-889e4081bfa3?source=post_page-----889e4081bfa3----------------------) · 5 min read
+[![Melanie I.](https://miro.medium.com/fit/c/96/96/2*b0TtwxwB_LacHXKaWVHFug.jpeg)](https://medium.com/@indemfeld?source=post_page-----889e4081bfa3----------------------)
+[Melanie I.](https://medium.com/@indemfeld?source=post_page-----889e4081bfa3----------------------)
 
 **The current situation in Switzerland**
 

@@ -1,9 +1,8 @@
-Anyone can publish on Medium per our [Policies](https://help.medium.com/hc/en-us/categories/201931128-Policies-Safety?source=post_page-----cad0013397bb----------------------), but we don’t fact-check every story. For more info about the coronavirus, see [cdc.gov](https://www.cdc.gov/coronavirus/2019-nCoV?source=post_page-----cad0013397bb----------------------).
-
 Quarantine in Moscow: in Delivery We Trust
 ==========================================
 
-[![Yevgenyia Yusova](https://miro.medium.com/fit/c/96/96/0*19404gPQr2nOi5rE.)](https://medium.com/@yevgenyiayusova?source=post_page-----cad0013397bb----------------------)[Yevgenyia Yusova](https://medium.com/@yevgenyiayusova?source=post_page-----cad0013397bb----------------------)Follow[Apr 22](https://medium.com/post-quarantine-urbanism/quarantine-in-moscow-everyone-is-isolated-everything-is-delivered-cad0013397bb?source=post_page-----cad0013397bb----------------------) · 9 min read
+[![Yevgenyia Yusova](https://miro.medium.com/fit/c/96/96/0*19404gPQr2nOi5rE.)](https://medium.com/@yevgenyiayusova?source=post_page-----cad0013397bb----------------------)
+[Yevgenyia Yusova](https://medium.com/@yevgenyiayusova?source=post_page-----cad0013397bb----------------------)
 
 <img src="https://miro.medium.com/max/1400/0*FH0zsqYZheAoWcbC" alt="provide an image tag"/>
 

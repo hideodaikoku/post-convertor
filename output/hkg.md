@@ -1,10 +1,8 @@
-Anyone can publish on Medium per our [Policies](https://help.medium.com/hc/en-us/categories/201931128-Policies-Safety?source=post_page-----9f548f874d6e----------------------), but we don’t fact-check every story. For more info about the coronavirus, see [cdc.gov](https://www.cdc.gov/coronavirus/2019-nCoV?source=post_page-----9f548f874d6e----------------------).
-
 **Speculating Hong Kong’s urban futures in a Post-COVID World**
 ===============================================================
 
-[![Stephenlawdesign](https://miro.medium.com/fit/c/96/96/2*wRuJKeNzXmQgYTuGOR-aNg.jpeg)](https://medium.com/@stephenlawdesign?source=post_page-----9f548f874d6e----------------------)[Stephenlawdesign](https://medium.com/@stephenlawdesign?source=post_page-----9f548f874d6e----------------------)Follow[Apr 20](https://medium.com/post-quarantine-urbanism/speculating-hong-kongs-urban-futures-in-a-post-covid-world-9f548f874d6e?source=post_page-----9f548f874d6e----------------------) · 7 min read
-
+[![Stephenlawdesign](https://miro.medium.com/fit/c/96/96/2*wRuJKeNzXmQgYTuGOR-aNg.jpeg)](https://medium.com/@stephenlawdesign?source=post_page-----9f548f874d6e----------------------)
+[Stephenlawdesign](https://medium.com/@stephenlawdesign?source=post_page-----9f548f874d6e----------------------)
 <img src="https://miro.medium.com/max/1400/1*wk60gOEfd5c9uvvRB-qrFw.jpeg" alt="provide an image tag"/>
 
 What does Hong Kong’s urban future hold in a Post COVID world?

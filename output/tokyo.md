@@ -1,7 +1,8 @@
 Where Matters.
 ==============
 
-[![Placy](https://miro.medium.com/fit/c/96/96/2*4furBW9To-ai78nPf0-57g.png)](https://medium.com/@placy_city?source=post_page-----52eba9406bed----------------------)[Placy](https://medium.com/@placy_city?source=post_page-----52eba9406bed----------------------)Follow[May 2](https://medium.com/post-quarantine-urbanism/where-matters-52eba9406bed?source=post_page-----52eba9406bed----------------------) · 5 min read
+[![Placy](https://miro.medium.com/fit/c/96/96/2*4furBW9To-ai78nPf0-57g.png)](https://medium.com/@placy_city?source=post_page-----52eba9406bed----------------------)
+[Placy](https://medium.com/@placy_city?source=post_page-----52eba9406bed----------------------)
 
 <img src="https://miro.medium.com/max/1400/1*uVO4MgfbhBWh7YLca6DxSg.png" alt="provide an image tag"/>
 

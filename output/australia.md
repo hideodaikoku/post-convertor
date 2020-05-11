@@ -1,9 +1,9 @@
-Anyone can publish on Medium per our [Policies](https://help.medium.com/hc/en-us/categories/201931128-Policies-Safety?source=post_page-----9b783e564e65----------------------), but we don’t fact-check every story. For more info about the coronavirus, see [cdc.gov](https://www.cdc.gov/coronavirus/2019-nCoV?source=post_page-----9b783e564e65----------------------).
 
 Post Pandemic Urbanism Australia: The Merge Scenario
 ====================================================
 
-[![George Reed](https://miro.medium.com/fit/c/96/96/2*BJq6OcewVF193RmWgl2h6A.jpeg)](https://medium.com/@reedgeo100?source=post_page-----9b783e564e65----------------------)[George Reed](https://medium.com/@reedgeo100?source=post_page-----9b783e564e65----------------------)Follow[Apr 22](https://medium.com/post-quarantine-urbanism/post-pandemic-urbanism-australia-the-merge-scenario-9b783e564e65?source=post_page-----9b783e564e65----------------------) · 5 min read
+[![George Reed](https://miro.medium.com/fit/c/96/96/2*BJq6OcewVF193RmWgl2h6A.jpeg)](https://medium.com/@reedgeo100?source=post_page-----9b783e564e65----------------------)
+[George Reed](https://medium.com/@reedgeo100?source=post_page-----9b783e564e65----------------------)
 
 <img src="https://miro.medium.com/max/1400/1*yssEGFAPwgWEPFBSe-HlyA.jpeg" alt="provide an image tag"/>
 

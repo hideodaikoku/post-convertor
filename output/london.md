@@ -1,9 +1,8 @@
-Anyone can publish on Medium per our [Policies](https://help.medium.com/hc/en-us/categories/201931128-Policies-Safety?source=post_page-----94e41bc4e78----------------------), but we don’t fact-check every story. For more info about the coronavirus, see [cdc.gov](https://www.cdc.gov/coronavirus/2019-nCoV?source=post_page-----94e41bc4e78----------------------).
-
 London Parks, Space, and Pandemic
 =================================
 
-[![Alfie Long](https://miro.medium.com/fit/c/96/96/2*jDsrQ0cy_rUt8-dYeBNqiQ.jpeg)](https://medium.com/@aclong?source=post_page-----94e41bc4e78----------------------)[Alfie Long](https://medium.com/@aclong?source=post_page-----94e41bc4e78----------------------)Follow[Apr 20](https://medium.com/post-quarantine-urbanism/london-parks-space-and-pandemic-94e41bc4e78?source=post_page-----94e41bc4e78----------------------) · 5 min read
+[![Alfie Long](https://miro.medium.com/fit/c/96/96/2*jDsrQ0cy_rUt8-dYeBNqiQ.jpeg)](https://medium.com/@aclong?source=post_page-----94e41bc4e78----------------------)
+[Alfie Long](https://medium.com/@aclong?source=post_page-----94e41bc4e78----------------------)
 
 <img src="https://miro.medium.com/max/1400/1*uo7Ad4ujSHFf-WONhIcOpg.jpeg" alt="provide an image tag"/>
 
