@@ -4,6 +4,7 @@ const path = "./output/";
 const data = require("./data/quarantine.json");
 
 const convert_page =(_url, slug)=>{
+    console.log(`converting ${slug}`)
     mediumToMarkdown.convertFromUrl(_url)
     .then( markdown => {
         fs.writeFile(path+slug+".md", markdown, (err) => {
@@ -15,6 +16,11 @@ const convert_page =(_url, slug)=>{
 
 data.forEach(element => {
     if(!element.converted){
-        convert_page(element.medium, element.img)
+        try {  
+            convert_page(element.medium, element.slug)
+        } catch (err){
+            return
+        }
+        element.converted = true
     }
-});
+})
