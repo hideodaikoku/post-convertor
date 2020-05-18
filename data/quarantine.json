@@ -98,5 +98,20 @@
         "slug" : "valencia",
         "medium": "https://medium.com/post-quarantine-urbanism/de-densifying-spanish-cities-d3e216ee976a",
         "converted": true
+    },
+    {
+        "slug" : "madrid",
+        "medium": "https://medium.com/post-quarantine-urbanism/madrid-breaking-the-silence-by-reconquering-streets-and-parks-bf63e2e445d1",
+        "converted": false
+    },
+    {
+        "slug" : "cairo",
+        "medium": "https://medium.com/post-quarantine-urbanism/urban-scenarios-after-the-pandemic-fa4a726a4c30",
+        "converted": false
+    },
+    {
+        "slug" : "stockholm",
+        "medium": "https://medium.com/post-quarantine-urbanism/take-it-lagom-sweden-s-controversial-covid-19-strategy-and-potentials-9ed38c43393d",
+        "converted": false
     }
 ]
