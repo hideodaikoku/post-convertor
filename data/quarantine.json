@@ -102,16 +102,51 @@
     {
         "slug" : "madrid",
         "medium": "https://medium.com/post-quarantine-urbanism/madrid-breaking-the-silence-by-reconquering-streets-and-parks-bf63e2e445d1",
-        "converted": false
+        "converted": true
     },
     {
         "slug" : "cairo",
         "medium": "https://medium.com/post-quarantine-urbanism/urban-scenarios-after-the-pandemic-fa4a726a4c30",
-        "converted": false
+        "converted": true
     },
     {
         "slug" : "stockholm",
         "medium": "https://medium.com/post-quarantine-urbanism/take-it-lagom-sweden-s-controversial-covid-19-strategy-and-potentials-9ed38c43393d",
-        "converted": false
+        "converted": true
+    },
+    {
+        "slug" : "london-particpatory-design",
+        "medium": "https://medium.com/post-quarantine-urbanism/participatory-design-and-more-social-infrastructure-london-should-start-its-post-pandemic-7d9e0cd5856b",
+        "converted": true
+    },
+    {
+        "slug" : "berlin-neighbourhood",
+        "medium": "https://medium.com/post-quarantine-urbanism/threshold-observations-berlin-neighbourhood-shifts-thru-a-pandemic-20b230e375c0",
+        "converted": true
+    },
+    {
+        "slug" : "hyderabad",
+        "medium": "https://medium.com/post-quarantine-urbanism/on-walking-while-in-lockdown-e03ace64e863",
+        "converted": true
+    },
+    {
+        "slug" : "italy",
+        "medium": "https://medium.com/post-quarantine-urbanism/drive-in-to-the-post-quarantine-urbanism-the-future-of-italian-socially-distanced-cinema-f327c9df22c2",
+        "converted": true
+    },
+    {
+        "slug" : "venice-rising",
+        "medium": "https://medium.com/post-quarantine-urbanism/venice-in-quarantine-the-beauty-of-urban-environment-rises-again-how-can-we-preserve-it-82a21710cd46",
+        "converted": true
+    },
+    {
+        "slug" : "sao-paolo-civic-solidarity",
+        "medium": "https://medium.com/post-quarantine-urbanism/s%C3%A3o-paulo-the-harsh-concrete-jungle-in-a-movement-of-civic-solidarity-during-covid-19-times-ffc989effdba",
+        "converted": true
+    },
+    {
+        "slug" : "berlin-night-time",
+        "medium": "https://medium.com/post-quarantine-urbanism/berlins-kontaktbeschr%C3%A4nkungen-and-the-night-time-culture-shift-a0945b5ef642",
+        "converted": true
     }
 ]
