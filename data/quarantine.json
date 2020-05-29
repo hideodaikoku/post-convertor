@@ -148,5 +148,35 @@
         "slug" : "berlin-night-time",
         "medium": "https://medium.com/post-quarantine-urbanism/berlins-kontaktbeschr%C3%A4nkungen-and-the-night-time-culture-shift-a0945b5ef642",
         "converted": true
+    },
+    {
+        "slug" : "seoul",
+        "medium": "https://medium.com/post-quarantine-urbanism/south-korea-covid-19-and-diversity-7b110072e501",
+        "converted": true
+    },    
+    {
+        "slug" : "amman",
+        "medium": "https://medium.com/post-quarantine-urbanism/a-shift-in-momentum-amman-during-the-covid-19-pandemic-cf6b98f26b32",
+        "converted": true
+    },
+    {
+        "slug" : "singapore-road-to-recovery",
+        "medium": "https://medium.com/post-quarantine-urbanism/not-ordinary-times-ghana-in-the-shadow-of-covid-19-3933f86aad2f",
+        "converted": true
+    },
+    {
+        "slug" : "ghana",
+        "medium": "https://medium.com/post-quarantine-urbanism/not-ordinary-times-ghana-in-the-shadow-of-covid-19-3933f86aad2f",
+        "converted": true
+    },
+    {
+        "slug" : "chaotic-india",
+        "medium": "https://medium.com/post-quarantine-urbanism/india-was-always-chaotic-will-it-find-a-way-out-now-54ad89288618",
+        "converted": true
+    },
+    {
+        "slug" : "madrid-covid",
+        "medium": "https://medium.com/post-quarantine-urbanism/madrid-covid-main-scenario-47f27ce2a9f2",
+        "converted": true
     }
 ]
