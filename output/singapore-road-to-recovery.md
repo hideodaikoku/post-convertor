@@ -1,74 +1,48 @@
-#### Anyone can publish on Medium per our [Policies](https://help.medium.com/hc/en-us/categories/201931128-Policies-Safety?source=post_page-----3933f86aad2f----------------------), but we don’t fact-check every story. For more info about the coronavirus, see [cdc.gov](https://www.cdc.gov/coronavirus/2019-nCoV?source=post_page-----3933f86aad2f----------------------).
+#### Anyone can publish on Medium per our [Policies](https://help.medium.com/hc/en-us/categories/201931128-Policies-Safety?source=post_page-----49d9519c20f----------------------), but we don’t fact-check every story. For more info about the coronavirus, see [cdc.gov](https://www.cdc.gov/coronavirus/2019-nCoV?source=post_page-----49d9519c20f----------------------).
 
-**Not Ordinary Times; Ghana in the Shadow of COVID-19**
-=======================================================
+**Small Steps in the Road to Recovery: Singapore**
+==================================================
 
-[![Mohammed Musah](https://miro.medium.com/fit/c/96/96/2*2XqNsAVvnFIaURQIpYcZvg.jpeg)](https://medium.com/@musahmohammed55?source=post_page-----3933f86aad2f----------------------)[Mohammed Musah](https://medium.com/@musahmohammed55?source=post_page-----3933f86aad2f----------------------)Follow[May 11](https://medium.com/post-quarantine-urbanism/not-ordinary-times-ghana-in-the-shadow-of-covid-19-3933f86aad2f?source=post_page-----3933f86aad2f----------------------) · 5 min read
+[![Archana Kannan](https://miro.medium.com/fit/c/96/96/0*cmiOmSX3I7_I08yo.)](https://medium.com/@archkann?source=post_page-----49d9519c20f----------------------)[Archana Kannan](https://medium.com/@archkann?source=post_page-----49d9519c20f----------------------)Follow[May 28](https://medium.com/post-quarantine-urbanism/small-steps-in-the-road-to-recovery-49d9519c20f?source=post_page-----49d9519c20f----------------------) · 5 min read
 
-<img class="s t u gp ai" src="https://miro.medium.com/max/1210/1\*VqtIRTRdKEFmzcNdj5iZNQ.png" width="605" height="403" srcSet="https://miro.medium.com/max/552/1\*VqtIRTRdKEFmzcNdj5iZNQ.png 276w, https://miro.medium.com/max/1104/1\*VqtIRTRdKEFmzcNdj5iZNQ.png 552w, https://miro.medium.com/max/1210/1\*VqtIRTRdKEFmzcNdj5iZNQ.png 605w" sizes="605px" role="presentation"/>
+<img class="s t u gt ai" src="https://miro.medium.com/max/2160/1\*PU0OopuMsRmkLPoyh21AZw.jpeg" width="1080" height="608" srcSet="https://miro.medium.com/max/552/1\*PU0OopuMsRmkLPoyh21AZw.jpeg 276w, https://miro.medium.com/max/1104/1\*PU0OopuMsRmkLPoyh21AZw.jpeg 552w, https://miro.medium.com/max/1280/1\*PU0OopuMsRmkLPoyh21AZw.jpeg 640w, https://miro.medium.com/max/1400/1\*PU0OopuMsRmkLPoyh21AZw.jpeg 700w" sizes="700px" role="presentation"/>
 
-Independence Arch, Accra \[Source: [www.gbafrica.net](https://www.gbafrica.net/visiting-ghana-here-is-your-tech-guide-for-2020/)\]
+Its mid May, bubble tea shops remain closed, people have settled into the work from home culture and there is no more panic buying (for now, at least). Case numbers continue to be high on a daily basis.
 
-**Situational analysis**
-------------------------
+Months prior, Singapore was receiving praise for their ability to contain and manage the COVID-19 situation without having to enforce an island-wide lockdown or quarantine. Today, we are all asked to stay at home, only go out for essentials (groceries, doctor’s appointments), and always wear a mask.
 
-A visibly worried Health minister flanked by his counterpart for Information and officials from the Ghana Health Service announced the country’s first cases of Covid-19 in the late evening of March 12, 2020 at a press conference. Many Ghanaians had hoped the country would escape this pandemic as it did the Ebola crisis in 2014, but it was not to be. In fact, a WHO preliminary assessment identified the county as “high risk” in Africa. Since the first two cases, which were imported from Norway and Turkey, Covid-19 has now become a true public health crisis for the country.
+**Singapore’s Foreign Worker Community**
 
-<img class="s t u gp ai" src="https://miro.medium.com/max/3634/1\*xYkMxf4KTJT9utOcg2Vm6A.png" width="1817" height="796" srcSet="https://miro.medium.com/max/552/1\*xYkMxf4KTJT9utOcg2Vm6A.png 276w, https://miro.medium.com/max/1104/1\*xYkMxf4KTJT9utOcg2Vm6A.png 552w, https://miro.medium.com/max/1280/1\*xYkMxf4KTJT9utOcg2Vm6A.png 640w, https://miro.medium.com/max/1400/1\*xYkMxf4KTJT9utOcg2Vm6A.png 700w" sizes="700px" role="presentation"/>
+The first infected migrant worker was reported on the 8th of February 2020, giving rise to the meteoric rise of case numbers that has followed since. COVID-19 case numbers have now exceeded 25000 with over 80% of them being migrant workers. This growth in numbers put a spotlight on the poor living conditions that foreign workers face in the country. [With 12 to 20 workers](https://www.scmp.com/week-asia/explained/article/3080466/how-did-migrant-worker-dormitories-become-singapores-biggest) packed into rooms fitted with bunk beds and communal bathrooms for everyone on one floor, the spread of this highly contagious virus was inevitable. In the short term, the government is working to test these workers, isolate the infected and move the uninfected individuals to new living quarters. The question is, what will the government do in the long run to ensure that foreign workers are given sanitary and healthy living quarters.
 
-Covid-19 situation in Ghana as of 10/05/2020 \[Source: [https://ghanahealthservice.org/covid19/](https://www.ghanahealthservice.org/covid19/)\]
+Once this issue gained national attention, several members of the community took action in different ways to attempt to alleviate the hardships faced by migrant workers. Donations are being given to charities to help provide migrant workers with meals during their lockdown. [Marina Bay Sands donated 15,000 Kg of food](https://www.channelnewsasia.com/news/singapore/covid-19-marina-bay-sands-food-donation-12614552). A young woman built a [translation portal](https://www.channelnewsasia.com/news/cnainsider/covid-19-nus-medical-graduate-bengali-translators-workers-12650406) to assist medical teams in communicating with migrant workers. The way in which the community has mobilized has been incredible, but the fact of the matter is that these living conditions must drastically change in the long run to ensure that this cannot happen again.
 
-**National response**
----------------------
+Many people have raised the issue of living in areas of high density (cities), during a pandemic like this. COVID-19 has disrupted and affected cities worldwide, but it will hit marginalized and lower socio-economic groups the hardest. Not only must we reevaluate the way in which cities are structured to accommodate for high density, we must reform how we build for the most marginalized individuals in society — not only for the sake of equality and fair living conditions, but now for public health too.
 
-Since the pandemic broke, the President has addressed the country 8 times in the space of two months. The major steps taken by the government to curb the spread of the virus include;
+I can only imagine the plight of cities that have large homeless populations or issues of overcrowding. This pandemic unfortunately puts those populations at higher risk but hopefully pushes our leaders to think harder about innovative solutions for long-term development.
 
-1.  A 3-week partial ‘lockdown’ was imposed in parts of Accra and Kumasi, the country’s 2 largest cities on March 30 along with closure of the land borders and suspension of domestic and international air travel.
-2.  Schools and universities have been closed until further notice, social functions have been suspended while restaurants, hotels, supermarkets and shopping malls remain open but must observe strict hygiene and social distancing protocols.
-3.  A Covid-19 tracker app has also been launched to aid contact tracing.
+**Community-level Urbanism**
 
-**_Economic and Social Life are worse hit:_** Along with more epidemiological steps to curb the spread, some economic and social interventions have been put in place.
+<img class="s t u gt ai" src="https://miro.medium.com/max/1388/1\*Xk40epMg8I6OBriioz6GTQ.png" width="694" height="756" srcSet="https://miro.medium.com/max/552/1\*Xk40epMg8I6OBriioz6GTQ.png 276w, https://miro.medium.com/max/1104/1\*Xk40epMg8I6OBriioz6GTQ.png 552w, https://miro.medium.com/max/1280/1\*Xk40epMg8I6OBriioz6GTQ.png 640w, https://miro.medium.com/max/1388/1\*Xk40epMg8I6OBriioz6GTQ.png 694w" sizes="694px" role="presentation"/>
 
-The government has received a $1 billion Rapid Credit Facility (RCF) from the World Bank to deal with the economic impact of the crisis. The government has also announced an additional GH¢600 million (app. $105 million)stimulus package for local businesses.
+Looking at [the cases above](https://www.channelnewsasia.com/news/singapore/covid-19-new-cases-25000-may-13-workers-dormitories-citizen-pr-12726762), the worry is that lockdown measures in the city will be relaxed too early based on the low numbers of “community cases.” This could result in a second wave of cases emerging. Before Singapore, and other cities, can ease the quarantine guidelines, we must find innovate planning solutions to make sure public space is provided in a safe manner. Many people have highlighted that the pandemic will result in a more top-down approach to planning, however, I disagree. More grassroots and community-driven initiatives can be incredibly powerful in this time and help build resilience and comfort within neighbourhoods. Moreover, small neighbourhood-scale, community planning interventions can ease people into life outside home before we are ready for country-wide opening up.
 
-Payment of water bills has been suspended for 3 months and electricity has been made free for lifeline consumers for the same period. The Government also spent about GH₵2 million (app. $348,000) per day on a social intervention scheme to provide hot meals for about 400,000 vulnerable people in locked down areas during the 3-week period.
+<img class="s t u gt ai" src="https://miro.medium.com/max/1100/1\*cqhQ-O4IJp-RNeAK-sMvPw.png" width="550" height="366" srcSet="https://miro.medium.com/max/552/1\*cqhQ-O4IJp-RNeAK-sMvPw.png 276w, https://miro.medium.com/max/1100/1\*cqhQ-O4IJp-RNeAK-sMvPw.png 550w" sizes="550px" role="presentation"/>
 
-A Covid-19 funds set up by the government has received financial and material support from private individuals and corporate organizations to ease the economic burden on the state. The private sector has also initiated the construction of an emergency isolation and medical facility in Accra to complement government hospitals.
+[Vilnius,](https://www.euronews.com/2020/05/04/vilnius-becomes-giant-open-air-cafe-to-support-bars-and-restaurants) the capital of Lithuania, has allowed restaurants and bars to spill out and use large public spaces. By using streets and plazas to seat restaurant-goers, people can sit spaced out and there is no worry of adequate ventilation. This allows people to go back and experience having a meal outside with friends and family, rather than being cooped up at home. Of course, this solution needs other considerations for different weather, but it is a good way to bring people outside and allow them to physically socialise without being in cramped spaces.
 
-In one of his addresses, the Ghanaian President made a profound statement that summarizes the object of a response to such pandemics from governments, his statement was widely shared by other world leaders and social media users.
+<img class="s t u gt ai" src="https://miro.medium.com/max/552/1\*DhP37U4ieMWjeZ4vA\_UWfQ.png" width="276" height="276" role="presentation"/>
 
-<img class="s t u gp ai" src="https://miro.medium.com/max/1488/1\*QNjnkwSbtkeQt4qHFIiVsA.png" width="744" height="741" srcSet="https://miro.medium.com/max/552/1\*QNjnkwSbtkeQt4qHFIiVsA.png 276w, https://miro.medium.com/max/1104/1\*QNjnkwSbtkeQt4qHFIiVsA.png 552w, https://miro.medium.com/max/1280/1\*QNjnkwSbtkeQt4qHFIiVsA.png 640w, https://miro.medium.com/max/1400/1\*QNjnkwSbtkeQt4qHFIiVsA.png 700w" sizes="700px" role="presentation"/>
+<img class="s t u gt ai" src="https://miro.medium.com/max/552/1\*YUjzSA9\_CzDM5aJAJitc-g.png" width="276" height="276" role="presentation"/>
 
-Twitter capture: WHO Head retweets the statement by Ghana’s President
+Furthermore, we have seen small-scale built solutions to help assist in bringing some sense of normalcy to this time.
 
-**Implications for the future — a blessing in disguise?**
----------------------------------------------------------
+As seen above, these dividers in gyms can help people feel safer. This, spacing out machines and consistent disinfecting can allow people to return to use these spaces earlier than we imagined.
 
-The lockdown was lifted on April 20 but some restrictions remain in place. The pandemic has affected several aspects of the Ghanaian society. This is how the pandemic could change Ghana:
+<img class="s t u gt ai" src="https://miro.medium.com/max/1872/1\*bGy22XxbVTCKRu-EJcGYgA.png" width="936" height="592" srcSet="https://miro.medium.com/max/552/1\*bGy22XxbVTCKRu-EJcGYgA.png 276w, https://miro.medium.com/max/1104/1\*bGy22XxbVTCKRu-EJcGYgA.png 552w, https://miro.medium.com/max/1280/1\*bGy22XxbVTCKRu-EJcGYgA.png 640w, https://miro.medium.com/max/1456/1\*bGy22XxbVTCKRu-EJcGYgA.png 728w, https://miro.medium.com/max/1632/1\*bGy22XxbVTCKRu-EJcGYgA.png 816w, https://miro.medium.com/max/1808/1\*bGy22XxbVTCKRu-EJcGYgA.png 904w, https://miro.medium.com/max/1872/1\*bGy22XxbVTCKRu-EJcGYgA.png 936w" sizes="936px" role="presentation"/>
 
-**_Economy_** — the pandemic has shown how we are connected as a world in terms of production systems but it has also exposed how ‘dangerously’ dependent countries like Ghana are on imports to meet their most basic of needs. This pandemic could see the county accelerate its industrialization drive to reduce dependence on imports and create a vibrant manufacturing base.
+In addition, this Amsterdam restaurant has added these [‘greenhouses’](https://www.washingtonpost.com/travel/2020/05/08/this-restaurant-amsterdam-is-redefining-pandemic-dining-with-private-greenhouses/) to allow people to dine out and remain safe and distanced from others.
 
-**_Digital Revolution_** — Ghana is already recognized as one of the countries that is leading Africa into the information age. It has a dynamic digital ecosystem that is becoming ever more competitive and currently hosts Google’s AI Africa center. The government has also been championing a digitization agenda and post Covid-19 could see the development of new digital innovations, emergence of remote working among others.
+Small interventions such as the ones highlighted above will be important in the road to recovery. There is a lot of power in them because they will allow people to start to venture out into their own communities and return to somewhat regular routines which will do volumes for mental health. This will also allow for incremental movement towards being able to freely move around again. As it will take a long time to return to regular work, commuting and travel, community-level interventions will be useful.
 
-**_Social life_** — one of the most difficult things for Ghanaians during this period is observing ‘alien’ protocols like social distancing; we are accustomed to physical social interactions and attending large congregational social and religious functions, so a reduction in these will be a bitter pill we may not be prepared to swallow. However, this pandemic could leave a psychological ‘hangover’ and some people especially in Accra and other urban centers will adapt to what is becoming the ‘new normal’ and of course, the digital space will greatly benefit from this.
-
-**_Increased Health Investments_** — this pandemic has also exposed the inadequate preparedness level of the health system to respond to global health emergencies. The country could invest more in new hospitals, equip existing ones as well as invest in medical research. The President has already promised to construct 90 new hospitals across the country and scientists from [Kwame Nkrumah University of Science and Technology (KNUST)](https://www.knust.edu.gh/)  have also developed Covid-19 test kits locally.
-
-<img class="s t u gp ai" src="https://miro.medium.com/max/2016/1\*BgaQbJK37qyQrGeXUx6\_og.jpeg" width="1008" height="756" srcSet="https://miro.medium.com/max/552/1\*BgaQbJK37qyQrGeXUx6\_og.jpeg 276w, https://miro.medium.com/max/1104/1\*BgaQbJK37qyQrGeXUx6\_og.jpeg 552w, https://miro.medium.com/max/1280/1\*BgaQbJK37qyQrGeXUx6\_og.jpeg 640w, https://miro.medium.com/max/1400/1\*BgaQbJK37qyQrGeXUx6\_og.jpeg 700w" sizes="700px" role="presentation"/>
-
-Ghana now makes its own Personal Protective Equipment (PPE) \[ [Citynewsroom](https://citinewsroom.com/2020/04/covid-19-local-production-of-ppe-begins-in-ghana-photos/)\]
-
-**Urban planning and lifestyle changes: The way forward**
----------------------------------------------------------
-
-A post Covid-19 urban lifestyle context will be most observed in the capital Accra, which is the most sophisticated urban area in the country.
-
-Remote working could be become a viable option for companies especially those working in service and tech-based activities. A reduction in physical social interaction could change the ‘collectivist’ urban social lifestyle towards a more individualistic and reclusive one which could mean a bigger market for virtual services and entertainment.
-
-For city planners in Accra, they would need to provide support for the development of smart infrastructure while improving existing traditional urban infrastructure to transform the city into a ‘smart metropolis’ so as to benefit from the post Covid-19 global economy. The pandemic has also once again highlighted the plight of the urban poor. A more effective poverty mapping strategy is key to identify and craft sustainable interventions to address urban poverty and inequality in the city.
-
-<img class="s t u gp ai" src="https://miro.medium.com/max/2700/1\*dtEaJ\_IlfFVRnTJIKXW9Ag.png" width="1350" height="629" srcSet="https://miro.medium.com/max/552/1\*dtEaJ\_IlfFVRnTJIKXW9Ag.png 276w, https://miro.medium.com/max/1104/1\*dtEaJ\_IlfFVRnTJIKXW9Ag.png 552w, https://miro.medium.com/max/1280/1\*dtEaJ\_IlfFVRnTJIKXW9Ag.png 640w, https://miro.medium.com/max/1400/1\*dtEaJ\_IlfFVRnTJIKXW9Ag.png 700w" sizes="700px" role="presentation"/>
-
-Life is slowly resuming with stricter safety protocols but new cases pose further risk \[Credit: Reuters\]
-
-Overall, the Covid-19 could go down in history as the worse crisis the world has faced in the 21st Century but it could also prove to be the trigger for profound changes that will shape economic, social and environmental processes in Ghana and the rest of the world for the better. As Winston Churchill [once said](https://realbusiness.co.uk/as-said-by-winston-churchill-never-waste-a-good-crisis/), we should never waste a good crisis. Perhaps this is our “good crisis” though a painful one, there are definitely many reasons to be optimistic about our future!
+Government-level planning is important in enforcing safe distancing laws and public health policy, while community-level planning will assist in alleviating mental health issues during this time of social isolation. Both large-scale development and local interventions need to work together in navigating a way out of this pandemic.
