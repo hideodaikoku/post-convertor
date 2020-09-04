@@ -7,7 +7,7 @@ U.A.E: How are the Dreamers keeping their visions alive?
 
 Abu Dhabi & Dubai — United Arab Emirates
 
-<img class="s t u hm ai" src="https://miro.medium.com/max/1600/1\*UMuFjIZA0PTc3gmQ6uWooA.jpeg" width="800" height="533" srcSet="https://miro.medium.com/max/552/1\*UMuFjIZA0PTc3gmQ6uWooA.jpeg 276w, https://miro.medium.com/max/1104/1\*UMuFjIZA0PTc3gmQ6uWooA.jpeg 552w, https://miro.medium.com/max/1280/1\*UMuFjIZA0PTc3gmQ6uWooA.jpeg 640w, https://miro.medium.com/max/1400/1\*UMuFjIZA0PTc3gmQ6uWooA.jpeg 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/1600/1\*UMuFjIZA0PTc3gmQ6uWooA.jpeg" width="800" height="533" srcSet="https://miro.medium.com/max/552/1\*UMuFjIZA0PTc3gmQ6uWooA.jpeg 276w, https://miro.medium.com/max/1104/1\*UMuFjIZA0PTc3gmQ6uWooA.jpeg 552w, https://miro.medium.com/max/1280/1\*UMuFjIZA0PTc3gmQ6uWooA.jpeg 640w, https://miro.medium.com/max/1400/1\*UMuFjIZA0PTc3gmQ6uWooA.jpeg 700w" sizes="700px"/>
 
 Figure 1 Burj Khalifa Displays #stayhome (source: Arab weekly )
 
@@ -15,7 +15,7 @@ Figure 1 Burj Khalifa Displays #stayhome (source: Arab weekly )
 
 Dubai, known as ‘the land of Dreams’ where Tourism, booming Construction & Oil have the limelight but with this article, I hope to take you through a journey of generosity, resources & perspectives, this land I call home has to offer during these uncertain times. The Nation that continuously strives & thrives on breaking world records, crosses two million in coronavirus mass testing leading them to rank third in the Tests/1Milion Population sub column according to Worldometer. “The UAE acted proactively and transparently in the early days of the outbreak. Notably, it was the first country in the Middle East to report a confirmed case, one of the first countries to begin coronavirus testing and early detection, and among the few countries that are still performing strict testing.” [Stated by Abdul Rahman Bin Mohammed Al Owais, Minister of Health and Prevention](https://www.khaleejtimes.com/coronavirus-pandemic/uae-fights-coronavirus-no-1-in-mass-testing-with-over-2-million-tests). (Khaleej Times, 2020) According to the Deep knowledge Group, [U.A.E ranks #11 out of the Top 20 Most Safe Regions for Covid-19 safety](https://www.forbes.com/sites/johnkoetsier/2020/06/05/the-100-safest-countries-in-the-world-for-covid-19/#625f75ef68c5). (Forbes, 2020)
 
-<img class="s t u hm ai" src="https://miro.medium.com/max/3000/1\*IkrlmPjwIW1\_T7i3IQhOhg.jpeg" width="1500" height="844" srcSet="https://miro.medium.com/max/552/1\*IkrlmPjwIW1\_T7i3IQhOhg.jpeg 276w, https://miro.medium.com/max/1104/1\*IkrlmPjwIW1\_T7i3IQhOhg.jpeg 552w, https://miro.medium.com/max/1280/1\*IkrlmPjwIW1\_T7i3IQhOhg.jpeg 640w, https://miro.medium.com/max/1456/1\*IkrlmPjwIW1\_T7i3IQhOhg.jpeg 728w, https://miro.medium.com/max/1632/1\*IkrlmPjwIW1\_T7i3IQhOhg.jpeg 816w, https://miro.medium.com/max/1808/1\*IkrlmPjwIW1\_T7i3IQhOhg.jpeg 904w, https://miro.medium.com/max/1984/1\*IkrlmPjwIW1\_T7i3IQhOhg.jpeg 992w, https://miro.medium.com/max/2000/1\*IkrlmPjwIW1\_T7i3IQhOhg.jpeg 1000w" sizes="1000px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/3000/1\*IkrlmPjwIW1\_T7i3IQhOhg.jpeg" width="1500" height="844" srcSet="https://miro.medium.com/max/552/1\*IkrlmPjwIW1\_T7i3IQhOhg.jpeg 276w, https://miro.medium.com/max/1104/1\*IkrlmPjwIW1\_T7i3IQhOhg.jpeg 552w, https://miro.medium.com/max/1280/1\*IkrlmPjwIW1\_T7i3IQhOhg.jpeg 640w, https://miro.medium.com/max/1456/1\*IkrlmPjwIW1\_T7i3IQhOhg.jpeg 728w, https://miro.medium.com/max/1632/1\*IkrlmPjwIW1\_T7i3IQhOhg.jpeg 816w, https://miro.medium.com/max/1808/1\*IkrlmPjwIW1\_T7i3IQhOhg.jpeg 904w, https://miro.medium.com/max/1984/1\*IkrlmPjwIW1\_T7i3IQhOhg.jpeg 992w, https://miro.medium.com/max/2000/1\*IkrlmPjwIW1\_T7i3IQhOhg.jpeg 1000w" sizes="1000px"/>
 
 Figure 2 Safety Ranking from [Deep Knowledge Group Website](https://www.dkv.global/covid-19/middle-east-north-africa)
 
@@ -39,7 +39,7 @@ Through the detailed point system analysis for U.A.E, it is understandable that 
 
 · Mar 29th — The First drive-thru COVID-19 testing center open to the public in Abu Dhabi, free of cost however pre-booking was mandatory. [(Gulf News, 2020)](https://gulfnews.com/world/gulf/covid-19-cure-just-a-breath-away-1.1589106333815)
 
-<img class="s t u hm ai" src="https://miro.medium.com/max/1600/1\*GAo0rgvwY5iI\_\_tneBcESg.jpeg" width="800" height="1132" srcSet="https://miro.medium.com/max/552/1\*GAo0rgvwY5iI\_\_tneBcESg.jpeg 276w, https://miro.medium.com/max/1104/1\*GAo0rgvwY5iI\_\_tneBcESg.jpeg 552w, https://miro.medium.com/max/1280/1\*GAo0rgvwY5iI\_\_tneBcESg.jpeg 640w, https://miro.medium.com/max/1400/1\*GAo0rgvwY5iI\_\_tneBcESg.jpeg 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/1600/1\*GAo0rgvwY5iI\_\_tneBcESg.jpeg" width="800" height="1132" srcSet="https://miro.medium.com/max/552/1\*GAo0rgvwY5iI\_\_tneBcESg.jpeg 276w, https://miro.medium.com/max/1104/1\*GAo0rgvwY5iI\_\_tneBcESg.jpeg 552w, https://miro.medium.com/max/1280/1\*GAo0rgvwY5iI\_\_tneBcESg.jpeg 640w, https://miro.medium.com/max/1400/1\*GAo0rgvwY5iI\_\_tneBcESg.jpeg 700w" sizes="700px"/>
 
 Figure 3 Image Source: Gulf News
 
@@ -77,7 +77,7 @@ Apr to May — Ramadan is commonly known as the month for Fasting & Giving, indi
 
 By May end to June beginning — As daily new cases started to drop, restrictions and movement started to ease up with specific occupational capacity limits in accordance with the typology of spaces.
 
-<img class="s t u hm ai" src="https://miro.medium.com/max/6746/1\*Qy4sJk7N2\_Z5GQEFDvaKTg.jpeg" width="3373" height="1820" srcSet="https://miro.medium.com/max/552/1\*Qy4sJk7N2\_Z5GQEFDvaKTg.jpeg 276w, https://miro.medium.com/max/1104/1\*Qy4sJk7N2\_Z5GQEFDvaKTg.jpeg 552w, https://miro.medium.com/max/1280/1\*Qy4sJk7N2\_Z5GQEFDvaKTg.jpeg 640w, https://miro.medium.com/max/1456/1\*Qy4sJk7N2\_Z5GQEFDvaKTg.jpeg 728w, https://miro.medium.com/max/1632/1\*Qy4sJk7N2\_Z5GQEFDvaKTg.jpeg 816w, https://miro.medium.com/max/1808/1\*Qy4sJk7N2\_Z5GQEFDvaKTg.jpeg 904w, https://miro.medium.com/max/1984/1\*Qy4sJk7N2\_Z5GQEFDvaKTg.jpeg 992w, https://miro.medium.com/max/2000/1\*Qy4sJk7N2\_Z5GQEFDvaKTg.jpeg 1000w" sizes="1000px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/6746/1\*Qy4sJk7N2\_Z5GQEFDvaKTg.jpeg" width="3373" height="1820" srcSet="https://miro.medium.com/max/552/1\*Qy4sJk7N2\_Z5GQEFDvaKTg.jpeg 276w, https://miro.medium.com/max/1104/1\*Qy4sJk7N2\_Z5GQEFDvaKTg.jpeg 552w, https://miro.medium.com/max/1280/1\*Qy4sJk7N2\_Z5GQEFDvaKTg.jpeg 640w, https://miro.medium.com/max/1456/1\*Qy4sJk7N2\_Z5GQEFDvaKTg.jpeg 728w, https://miro.medium.com/max/1632/1\*Qy4sJk7N2\_Z5GQEFDvaKTg.jpeg 816w, https://miro.medium.com/max/1808/1\*Qy4sJk7N2\_Z5GQEFDvaKTg.jpeg 904w, https://miro.medium.com/max/1984/1\*Qy4sJk7N2\_Z5GQEFDvaKTg.jpeg 992w, https://miro.medium.com/max/2000/1\*Qy4sJk7N2\_Z5GQEFDvaKTg.jpeg 1000w" sizes="1000px"/>
 
 Figure 4 World Map of recovered patients by the [Department of Health](https://doh.saal.ai/)
 
@@ -85,7 +85,7 @@ Certainly, these are difficult and challenging times, but the map makes me feel 
 
 **THE FUTURE IMPLICATIONS & PROSPECTS: CONQUERING THE PLUNGE**
 
-<img class="s t u hm ai" src="https://miro.medium.com/max/2272/1\*wMWvpINonC7N4J5RPsxJgA.jpeg" width="1136" height="568" srcSet="https://miro.medium.com/max/552/1\*wMWvpINonC7N4J5RPsxJgA.jpeg 276w, https://miro.medium.com/max/1104/1\*wMWvpINonC7N4J5RPsxJgA.jpeg 552w, https://miro.medium.com/max/1280/1\*wMWvpINonC7N4J5RPsxJgA.jpeg 640w, https://miro.medium.com/max/1400/1\*wMWvpINonC7N4J5RPsxJgA.jpeg 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/2272/1\*wMWvpINonC7N4J5RPsxJgA.jpeg" width="1136" height="568" srcSet="https://miro.medium.com/max/552/1\*wMWvpINonC7N4J5RPsxJgA.jpeg 276w, https://miro.medium.com/max/1104/1\*wMWvpINonC7N4J5RPsxJgA.jpeg 552w, https://miro.medium.com/max/1280/1\*wMWvpINonC7N4J5RPsxJgA.jpeg 640w, https://miro.medium.com/max/1400/1\*wMWvpINonC7N4J5RPsxJgA.jpeg 700w" sizes="700px"/>
 
 Figure 5 Rapid Urbanization of Dubai
 

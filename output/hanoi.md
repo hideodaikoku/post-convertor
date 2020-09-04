@@ -5,7 +5,7 @@ Breathing again in the public spaces of Hanoi
 
 [![Clément Coquillat](https://miro.medium.com/fit/c/96/96/1*y2jL_isMyKSice-cRbcMMg.jpeg)](https://medium.com/@clement.coquillat?source=post_page-----b042b45d3684----------------------)[Clément Coquillat](https://medium.com/@clement.coquillat?source=post_page-----b042b45d3684----------------------)Follow[Jun 10](https://medium.com/post-quarantine-urbanism/breathing-again-in-the-public-spaces-of-hanoi-b042b45d3684?source=post_page-----b042b45d3684----------------------) · 7 min read
 
-<img class="s t u gt ai" src="https://miro.medium.com/max/4096/1\*DcZ4WQFhfMJHhFly35f8Rg.jpeg" width="2048" height="1536" srcSet="https://miro.medium.com/max/552/1\*DcZ4WQFhfMJHhFly35f8Rg.jpeg 276w, https://miro.medium.com/max/1104/1\*DcZ4WQFhfMJHhFly35f8Rg.jpeg 552w, https://miro.medium.com/max/1280/1\*DcZ4WQFhfMJHhFly35f8Rg.jpeg 640w, https://miro.medium.com/max/1400/1\*DcZ4WQFhfMJHhFly35f8Rg.jpeg 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/4096/1\*DcZ4WQFhfMJHhFly35f8Rg.jpeg" width="2048" height="1536" srcSet="https://miro.medium.com/max/552/1\*DcZ4WQFhfMJHhFly35f8Rg.jpeg 276w, https://miro.medium.com/max/1104/1\*DcZ4WQFhfMJHhFly35f8Rg.jpeg 552w, https://miro.medium.com/max/1280/1\*DcZ4WQFhfMJHhFly35f8Rg.jpeg 640w, https://miro.medium.com/max/1400/1\*DcZ4WQFhfMJHhFly35f8Rg.jpeg 700w" sizes="700px"/>
 
 View from an island in Long Bien bridge © C. Coquillat
 
@@ -13,7 +13,7 @@ Walking in the charming streets of Hanoi’s Old Quarter, the usually overcrowde
 
 A few months ago, foreigners were feared and avoided in the capital city, epicentre of the health crisis in Vietnam (especially with the second wave and Case number 17), but the situation has now totally reversed and the very few foreigners remaining, like me, are treated with the most respectful and welcoming attitude, as the economy dependant on tourism tries to keep the head above the water. If the situation seems now under control and going “back as normal”, the strong restrictions on the use of public space and social distancing, even for a few weeks, might have a permanent impact on the relationships of Hanoians with public space. In any case, this is an opportunity to observe some new behaviours from the population who question us about new urban policies to redesign the capital city.
 
-<img class="s t u gt ai" src="https://miro.medium.com/max/4096/1\*UkevwVwd6aFVpkKQ5i3FPw.jpeg" width="2048" height="1536" srcSet="https://miro.medium.com/max/552/1\*UkevwVwd6aFVpkKQ5i3FPw.jpeg 276w, https://miro.medium.com/max/1104/1\*UkevwVwd6aFVpkKQ5i3FPw.jpeg 552w, https://miro.medium.com/max/1280/1\*UkevwVwd6aFVpkKQ5i3FPw.jpeg 640w, https://miro.medium.com/max/1400/1\*UkevwVwd6aFVpkKQ5i3FPw.jpeg 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/4096/1\*UkevwVwd6aFVpkKQ5i3FPw.jpeg" width="2048" height="1536" srcSet="https://miro.medium.com/max/552/1\*UkevwVwd6aFVpkKQ5i3FPw.jpeg 276w, https://miro.medium.com/max/1104/1\*UkevwVwd6aFVpkKQ5i3FPw.jpeg 552w, https://miro.medium.com/max/1280/1\*UkevwVwd6aFVpkKQ5i3FPw.jpeg 640w, https://miro.medium.com/max/1400/1\*UkevwVwd6aFVpkKQ5i3FPw.jpeg 700w" sizes="700px"/>
 
 Untypical empty streets in Old Quarter © C. Coquillat
 
@@ -24,7 +24,7 @@ With 331 cases and no death reported today, we can say that Vietnam, the communi
 
 Vietnam’s response to the crisis can be summarized by quick, serious and cost-effective, with a small dose of propaganda. The effects on urban public space were quite impressive especially during the lockdown with empty streets and roads, some neighbourhoods completely put in quarantine and the use of patriotic spirit of the Vietnamese people with slogans like “_to stay at home is to love your country_” or “_working together to fight against COVID-19_”. With a long history of war, the analogy is often made with pride to explain the victory over the virus. Like during war times, this is the result of a collective effort from the whole population, including all social classes, to stick together, help each other and strictly respect the rules.
 
-<img class="s t u gt ai" src="https://miro.medium.com/max/2880/1\*GEfkQBBJ7mnCSxIuBoW8Dg.jpeg" width="1440" height="907" srcSet="https://miro.medium.com/max/552/1\*GEfkQBBJ7mnCSxIuBoW8Dg.jpeg 276w, https://miro.medium.com/max/1104/1\*GEfkQBBJ7mnCSxIuBoW8Dg.jpeg 552w, https://miro.medium.com/max/1280/1\*GEfkQBBJ7mnCSxIuBoW8Dg.jpeg 640w, https://miro.medium.com/max/1400/1\*GEfkQBBJ7mnCSxIuBoW8Dg.jpeg 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/2880/1\*GEfkQBBJ7mnCSxIuBoW8Dg.jpeg" width="1440" height="907" srcSet="https://miro.medium.com/max/552/1\*GEfkQBBJ7mnCSxIuBoW8Dg.jpeg 276w, https://miro.medium.com/max/1104/1\*GEfkQBBJ7mnCSxIuBoW8Dg.jpeg 552w, https://miro.medium.com/max/1280/1\*GEfkQBBJ7mnCSxIuBoW8Dg.jpeg 640w, https://miro.medium.com/max/1400/1\*GEfkQBBJ7mnCSxIuBoW8Dg.jpeg 700w" sizes="700px"/>
 
 Propaganda in the streets of Hanoi © [https://vietnaminsider.vn](https://vietnaminsider.vn/vietnam-may-have-the-most-effective-response-to-coronavirus/)
 
@@ -35,7 +35,7 @@ In the crowded and fast-growing city of Hanoi, populated by 8 million inhabitant
 
 Therefore, there is a serious demand coming from the citizens for public space to be used for social and recreational activities, resulting in informal use of the sidewalks and empty spaces, creating conflicts between different users. The classic example of these uses is the omnipresence of street vendors and use of the sidewalks for many sport activities like badminton. Despite the charms of this little chaos, creation of more attractive, accessible and safe public spaces could be a good urban development action, especially to allow people to breathe in the busy city and prevent health crises.
 
-<img class="s t u gt ai" src="https://miro.medium.com/max/4096/1\*KW1pQGm\_Ljbdc8IoEY3Wfw.jpeg" width="2048" height="1536" srcSet="https://miro.medium.com/max/552/1\*KW1pQGm\_Ljbdc8IoEY3Wfw.jpeg 276w, https://miro.medium.com/max/1104/1\*KW1pQGm\_Ljbdc8IoEY3Wfw.jpeg 552w, https://miro.medium.com/max/1280/1\*KW1pQGm\_Ljbdc8IoEY3Wfw.jpeg 640w, https://miro.medium.com/max/1400/1\*KW1pQGm\_Ljbdc8IoEY3Wfw.jpeg 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/4096/1\*KW1pQGm\_Ljbdc8IoEY3Wfw.jpeg" width="2048" height="1536" srcSet="https://miro.medium.com/max/552/1\*KW1pQGm\_Ljbdc8IoEY3Wfw.jpeg 276w, https://miro.medium.com/max/1104/1\*KW1pQGm\_Ljbdc8IoEY3Wfw.jpeg 552w, https://miro.medium.com/max/1280/1\*KW1pQGm\_Ljbdc8IoEY3Wfw.jpeg 640w, https://miro.medium.com/max/1400/1\*KW1pQGm\_Ljbdc8IoEY3Wfw.jpeg 700w" sizes="700px"/>
 
 Women playing badminton in the sidewalk © C. Coquillat
 
@@ -46,7 +46,7 @@ The presence everywhere in Hanoi of street vendors and local markets — far mor
 
 Although it comes from good intentions, the problem is that many inhabitants rely on this hidden economy, especially lower classes, because of more affordable prices on a daily demand. On top of that, street vending is in the centre of community life, providing social links as well as fresh and healthy food for all citizens. During the lockdown, many vendors were forced to decide between the risk of being exposed to the virus and or the risk not being able to provide for their family. The _COVID-19_ crisis, emptying the streets during the lockdown and increasing vulnerability of poor people, emphasizes even more than before the importance to preserve this urban tradition.
 
-<img class="s t u gt ai" src="https://miro.medium.com/max/4096/1\*Iuamol2s-gA3PwnxCGI0Yw.jpeg" width="2048" height="1536" srcSet="https://miro.medium.com/max/552/1\*Iuamol2s-gA3PwnxCGI0Yw.jpeg 276w, https://miro.medium.com/max/1104/1\*Iuamol2s-gA3PwnxCGI0Yw.jpeg 552w, https://miro.medium.com/max/1280/1\*Iuamol2s-gA3PwnxCGI0Yw.jpeg 640w, https://miro.medium.com/max/1400/1\*Iuamol2s-gA3PwnxCGI0Yw.jpeg 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/4096/1\*Iuamol2s-gA3PwnxCGI0Yw.jpeg" width="2048" height="1536" srcSet="https://miro.medium.com/max/552/1\*Iuamol2s-gA3PwnxCGI0Yw.jpeg 276w, https://miro.medium.com/max/1104/1\*Iuamol2s-gA3PwnxCGI0Yw.jpeg 552w, https://miro.medium.com/max/1280/1\*Iuamol2s-gA3PwnxCGI0Yw.jpeg 640w, https://miro.medium.com/max/1400/1\*Iuamol2s-gA3PwnxCGI0Yw.jpeg 700w" sizes="700px"/>
 
 Informal street vending keeps the city alive © C. Coquillat
 
@@ -59,7 +59,7 @@ This impressive decrease is the consequence of the shutdown of many manufacturin
 
 The urgent need to improve the public transportation system to invert the tendency is an important matter for the local government for ages, but projects take more time than planned to materialize. Two metro lines were supposed to be constructed already 10 years ago (and 6 more in planning), but were postponed every year because of financial and procedural issues. Inhabitants of Hanoi started to think that the projects will never see the daylight. Nevertheless, these concerns are now more serious than ever with climate change. Alarming numbers show that an estimated 50,232 Vietnamese people died because of air pollution during the year 2017 alone. In this country, people don’t die because of viruses, but of air pollution and Hanoians were used to wearing facemasks for a while before the pandemic.
 
-<img class="s t u gt ai" src="https://miro.medium.com/max/4096/1\*FYDX1YW--vdPNe2CUJRCWw.jpeg" width="2048" height="1536" srcSet="https://miro.medium.com/max/552/1\*FYDX1YW--vdPNe2CUJRCWw.jpeg 276w, https://miro.medium.com/max/1104/1\*FYDX1YW--vdPNe2CUJRCWw.jpeg 552w, https://miro.medium.com/max/1280/1\*FYDX1YW--vdPNe2CUJRCWw.jpeg 640w, https://miro.medium.com/max/1400/1\*FYDX1YW--vdPNe2CUJRCWw.jpeg 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/4096/1\*FYDX1YW--vdPNe2CUJRCWw.jpeg" width="2048" height="1536" srcSet="https://miro.medium.com/max/552/1\*FYDX1YW--vdPNe2CUJRCWw.jpeg 276w, https://miro.medium.com/max/1104/1\*FYDX1YW--vdPNe2CUJRCWw.jpeg 552w, https://miro.medium.com/max/1280/1\*FYDX1YW--vdPNe2CUJRCWw.jpeg 640w, https://miro.medium.com/max/1400/1\*FYDX1YW--vdPNe2CUJRCWw.jpeg 700w" sizes="700px"/>
 
 The most used transportation mean in Hanoi has two wheels © C. Coquillat
 

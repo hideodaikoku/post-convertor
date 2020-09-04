@@ -3,7 +3,7 @@ New life unfolding Milan’s streets
 
 [![Camilla Piccolo](https://miro.medium.com/fit/c/96/96/1*uheNW1JwRR-8sTy40AprDw.jpeg)](https://medium.com/@CamillaPiccolo?source=post_page-----b5b32aef5bb9----------------------)[Camilla Piccolo](https://medium.com/@CamillaPiccolo?source=post_page-----b5b32aef5bb9----------------------)Follow[Jun 9](https://medium.com/post-quarantine-urbanism/new-life-unfolding-milans-streets-b5b32aef5bb9?source=post_page-----b5b32aef5bb9----------------------) · 6 min read
 
-<img class="s t u gk ai" src="https://miro.medium.com/max/1260/1\*HA1I56K2C6cjXyvCHjjGqg.jpeg" width="630" height="420" srcSet="https://miro.medium.com/max/552/1\*HA1I56K2C6cjXyvCHjjGqg.jpeg 276w, https://miro.medium.com/max/1104/1\*HA1I56K2C6cjXyvCHjjGqg.jpeg 552w, https://miro.medium.com/max/1260/1\*HA1I56K2C6cjXyvCHjjGqg.jpeg 630w" sizes="630px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/1260/1\*HA1I56K2C6cjXyvCHjjGqg.jpeg" width="630" height="420" srcSet="https://miro.medium.com/max/552/1\*HA1I56K2C6cjXyvCHjjGqg.jpeg 276w, https://miro.medium.com/max/1104/1\*HA1I56K2C6cjXyvCHjjGqg.jpeg 552w, https://miro.medium.com/max/1260/1\*HA1I56K2C6cjXyvCHjjGqg.jpeg 630w" sizes="630px"/>
 
 _Ph. Garage Island Crew — Source Abitare.it_
 
@@ -11,7 +11,7 @@ Milan is the second-largest city in Italy and one of the densest in Europe. As a
 
 But it was also traffic — a lot of traffic. It was noise, life at high speed, busy roads, and pollution — Lombardy, the region where Milan sits, is among the most polluted areas in Europe. Car use is still predominant in Milan, with only [55% of its 1.4 million](https://www.theguardian.com/world/2020/apr/21/milan-seeks-to-prevent-post-crisis-return-of-traffic-pollution?CMP=share_btn_fb&fbclid=IwAR3jl7iG_JwA_ZA-tUtjcQAHHgvSrJMx8lNvuAggQ5fLwHl3DYbEnCx2sQ4) residents using public transport to commute to work. And according to research published in the journal [Science of the Total Environment](https://www.sciencedirect.com/science/article/pii/S0048969720321215), air pollution may have been an important contributor to Covid-19 fatalities. Up until early June, Lombardy recorded [16,300](http://www.salute.gov.it/imgs/C_17_notizie_4870_0_file.pdf) Covid-19 deaths, while more than [90,000](http://www.salute.gov.it/imgs/C_17_notizie_4870_0_file.pdf) people had tested positive to the virus.
 
-<img class="s t u gk ai" src="https://miro.medium.com/max/1960/1\*9PkjW8aYbeAOCK2N9C1BhQ.jpeg" width="980" height="653" srcSet="https://miro.medium.com/max/552/1\*9PkjW8aYbeAOCK2N9C1BhQ.jpeg 276w, https://miro.medium.com/max/1104/1\*9PkjW8aYbeAOCK2N9C1BhQ.jpeg 552w, https://miro.medium.com/max/1280/1\*9PkjW8aYbeAOCK2N9C1BhQ.jpeg 640w, https://miro.medium.com/max/1400/1\*9PkjW8aYbeAOCK2N9C1BhQ.jpeg 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/1960/1\*9PkjW8aYbeAOCK2N9C1BhQ.jpeg" width="980" height="653" srcSet="https://miro.medium.com/max/552/1\*9PkjW8aYbeAOCK2N9C1BhQ.jpeg 276w, https://miro.medium.com/max/1104/1\*9PkjW8aYbeAOCK2N9C1BhQ.jpeg 552w, https://miro.medium.com/max/1280/1\*9PkjW8aYbeAOCK2N9C1BhQ.jpeg 640w, https://miro.medium.com/max/1400/1\*9PkjW8aYbeAOCK2N9C1BhQ.jpeg 700w" sizes="700px"/>
 
 _Ph. Paolo Salmoirago — Source: Ansa_
 
@@ -21,7 +21,7 @@ It became silent abruptly, birds were audible singing outside our windows, and p
 
 When you’re forced to stay home, most of the time wearing pajamas or sport suits and only occasionally a nice t-shirt for a video call, isolated from the world, you lose the ties to the community, your networks — and your identity as part of something. The reasons that made people Milanese, like AC Milan, aperitivo, or the vibrant life that made them choose to migrate here, vanished. Milan became one of those ghost towns with no sign of street life.
 
-<img class="s t u gk ai" src="https://miro.medium.com/max/2640/1\*tw48i5Y4jWHdW8yQKi1RMA.jpeg" width="1320" height="742" srcSet="https://miro.medium.com/max/552/1\*tw48i5Y4jWHdW8yQKi1RMA.jpeg 276w, https://miro.medium.com/max/1104/1\*tw48i5Y4jWHdW8yQKi1RMA.jpeg 552w, https://miro.medium.com/max/1280/1\*tw48i5Y4jWHdW8yQKi1RMA.jpeg 640w, https://miro.medium.com/max/1400/1\*tw48i5Y4jWHdW8yQKi1RMA.jpeg 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/2640/1\*tw48i5Y4jWHdW8yQKi1RMA.jpeg" width="1320" height="742" srcSet="https://miro.medium.com/max/552/1\*tw48i5Y4jWHdW8yQKi1RMA.jpeg 276w, https://miro.medium.com/max/1104/1\*tw48i5Y4jWHdW8yQKi1RMA.jpeg 552w, https://miro.medium.com/max/1280/1\*tw48i5Y4jWHdW8yQKi1RMA.jpeg 640w, https://miro.medium.com/max/1400/1\*tw48i5Y4jWHdW8yQKi1RMA.jpeg 700w" sizes="700px"/>
 
 Source: Il Giorno (Imagoeconomico)
 
@@ -31,17 +31,17 @@ Suddenly, streets and public space became the places we were craving the most. W
 
 On April 30, the Milan municipality announced one of the most ambitious urban programs in Europe to tackle the Coronavirus crisis. It lays out the reallocation of street space from cars to cycling and pedestrians.
 
-<img class="s t u gk ai" src="https://miro.medium.com/max/1600/1\*P3\_2-l79BZi7gLte6hqeeQ.png" width="800" height="400" srcSet="https://miro.medium.com/max/552/1\*P3\_2-l79BZi7gLte6hqeeQ.png 276w, https://miro.medium.com/max/1104/1\*P3\_2-l79BZi7gLte6hqeeQ.png 552w, https://miro.medium.com/max/1280/1\*P3\_2-l79BZi7gLte6hqeeQ.png 640w, https://miro.medium.com/max/1400/1\*P3\_2-l79BZi7gLte6hqeeQ.png 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/1600/1\*P3\_2-l79BZi7gLte6hqeeQ.png" width="800" height="400" srcSet="https://miro.medium.com/max/552/1\*P3\_2-l79BZi7gLte6hqeeQ.png 276w, https://miro.medium.com/max/1104/1\*P3\_2-l79BZi7gLte6hqeeQ.png 552w, https://miro.medium.com/max/1280/1\*P3\_2-l79BZi7gLte6hqeeQ.png 640w, https://miro.medium.com/max/1400/1\*P3\_2-l79BZi7gLte6hqeeQ.png 700w" sizes="700px"/>
 
 Strade Aperte Program — Source: Comune di Milano
 
 The program, called [Strade Aperte](https://www.comune.milano.it/-/quartieri.-con-strade-aperte-nuove-aree-pedonali-ciclabili-zone-30-e-spazi-pubblici) (“Open Streets”), aimed to turn 35km of streets into cycling and walking space over the summer. As more and more residents perceived public transport as unsafe, the program aimed to reduce car use by opening up the city to alternative greenways to move. Milan is small and dense, with the average commute standing at 4km, making the switch from cars possible and relatively easy.
 
-<img class="s t u gk ai" src="https://miro.medium.com/max/1240/1\*bvnwKAk7lpw-gFuLMunykw.gif" width="620" height="521" srcSet="https://miro.medium.com/max/552/1\*bvnwKAk7lpw-gFuLMunykw.gif 276w, https://miro.medium.com/max/1104/1\*bvnwKAk7lpw-gFuLMunykw.gif 552w, https://miro.medium.com/max/1240/1\*bvnwKAk7lpw-gFuLMunykw.gif 620w" sizes="620px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/1240/1\*bvnwKAk7lpw-gFuLMunykw.gif" width="620" height="521" srcSet="https://miro.medium.com/max/552/1\*bvnwKAk7lpw-gFuLMunykw.gif 276w, https://miro.medium.com/max/1104/1\*bvnwKAk7lpw-gFuLMunykw.gif 552w, https://miro.medium.com/max/1240/1\*bvnwKAk7lpw-gFuLMunykw.gif 620w" sizes="620px"/>
 
 35km cycle lane plan — Source: Comune di Milano
 
-<img class="s t u gk ai" src="https://miro.medium.com/max/1120/1\*4p02gqOdPRlyLulvQkVl3g.jpeg" width="560" height="315" srcSet="https://miro.medium.com/max/552/1\*4p02gqOdPRlyLulvQkVl3g.jpeg 276w, https://miro.medium.com/max/1104/1\*4p02gqOdPRlyLulvQkVl3g.jpeg 552w, https://miro.medium.com/max/1120/1\*4p02gqOdPRlyLulvQkVl3g.jpeg 560w" sizes="560px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/1120/1\*4p02gqOdPRlyLulvQkVl3g.jpeg" width="560" height="315" srcSet="https://miro.medium.com/max/552/1\*4p02gqOdPRlyLulvQkVl3g.jpeg 276w, https://miro.medium.com/max/1104/1\*4p02gqOdPRlyLulvQkVl3g.jpeg 552w, https://miro.medium.com/max/1120/1\*4p02gqOdPRlyLulvQkVl3g.jpeg 560w" sizes="560px"/>
 
 _Ph. Pierfrancesco Maran — Source: La Repubblica_
 
@@ -59,7 +59,7 @@ This was something we all felt during the pandemic — we were all lonely to som
 
 Balconies became a symbol of Italians’ attempt to bridge this social distance and to give space to social relationships.
 
-<img class="s t u gk ai" src="https://miro.medium.com/max/2400/1\*rObKG5Aul8EO9aETC5xRiA.jpeg" width="1200" height="726" srcSet="https://miro.medium.com/max/552/1\*rObKG5Aul8EO9aETC5xRiA.jpeg 276w, https://miro.medium.com/max/1104/1\*rObKG5Aul8EO9aETC5xRiA.jpeg 552w, https://miro.medium.com/max/1280/1\*rObKG5Aul8EO9aETC5xRiA.jpeg 640w, https://miro.medium.com/max/1400/1\*rObKG5Aul8EO9aETC5xRiA.jpeg 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/2400/1\*rObKG5Aul8EO9aETC5xRiA.jpeg" width="1200" height="726" srcSet="https://miro.medium.com/max/552/1\*rObKG5Aul8EO9aETC5xRiA.jpeg 276w, https://miro.medium.com/max/1104/1\*rObKG5Aul8EO9aETC5xRiA.jpeg 552w, https://miro.medium.com/max/1280/1\*rObKG5Aul8EO9aETC5xRiA.jpeg 640w, https://miro.medium.com/max/1400/1\*rObKG5Aul8EO9aETC5xRiA.jpeg 700w" sizes="700px"/>
 
 Ph. Alberto Lingria — Reuters
 
@@ -69,6 +69,6 @@ At the time of writing, Milan reopened its streets and fear has started to wane 
 
 And Milan could rediscover a new identity founded on new values such as mobility, time and community. As _Monocle Magazine’s_ [The Urbanist](https://monocle.com/radio/shows/the-urbanist/) puts it, “Cities are cities because they have got people in them, and people need to come together to make cities come alive.” We need to come back together one day, and in Milan, we hope we will do it unfolding streets of new lives and encounters.
 
-<img class="s t u gk ai" src="https://miro.medium.com/max/6528/1\*EgbsOZK4iEvq8TRrIKDv3w.jpeg" width="3264" height="2448" srcSet="https://miro.medium.com/max/552/1\*EgbsOZK4iEvq8TRrIKDv3w.jpeg 276w, https://miro.medium.com/max/1104/1\*EgbsOZK4iEvq8TRrIKDv3w.jpeg 552w, https://miro.medium.com/max/1280/1\*EgbsOZK4iEvq8TRrIKDv3w.jpeg 640w, https://miro.medium.com/max/1400/1\*EgbsOZK4iEvq8TRrIKDv3w.jpeg 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/6528/1\*EgbsOZK4iEvq8TRrIKDv3w.jpeg" width="3264" height="2448" srcSet="https://miro.medium.com/max/552/1\*EgbsOZK4iEvq8TRrIKDv3w.jpeg 276w, https://miro.medium.com/max/1104/1\*EgbsOZK4iEvq8TRrIKDv3w.jpeg 552w, https://miro.medium.com/max/1280/1\*EgbsOZK4iEvq8TRrIKDv3w.jpeg 640w, https://miro.medium.com/max/1400/1\*EgbsOZK4iEvq8TRrIKDv3w.jpeg 700w" sizes="700px"/>
 
 Piazza Duomo before Covid-19

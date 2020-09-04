@@ -7,7 +7,7 @@ Indonesia: The Test of Our Social Life
 
 There is something different from previous Eid Al-Fitr in the country with the largest Muslim population in the world. After a month of fasting, muslims carried away in an atmosphere of victory. Hundreds, even thousands of people used to gather at fields or mosques for Eid prayers and celebrating this special event with family and friends. The holiday is the perfect time to enjoy this beautiful and diverse country’s attractions. However, the unprecedented crisis hit all aspects, even the spiritual aspect.
 
-<img class="s t u hi ai" src="https://miro.medium.com/max/1400/1\*gqwPv\_lRAerEat0pVEtwsA.jpeg" width="700" height="393" srcSet="https://miro.medium.com/max/552/1\*gqwPv\_lRAerEat0pVEtwsA.jpeg 276w, https://miro.medium.com/max/1104/1\*gqwPv\_lRAerEat0pVEtwsA.jpeg 552w, https://miro.medium.com/max/1280/1\*gqwPv\_lRAerEat0pVEtwsA.jpeg 640w, https://miro.medium.com/max/1400/1\*gqwPv\_lRAerEat0pVEtwsA.jpeg 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/1400/1\*gqwPv\_lRAerEat0pVEtwsA.jpeg" width="700" height="393" srcSet="https://miro.medium.com/max/552/1\*gqwPv\_lRAerEat0pVEtwsA.jpeg 276w, https://miro.medium.com/max/1104/1\*gqwPv\_lRAerEat0pVEtwsA.jpeg 552w, https://miro.medium.com/max/1280/1\*gqwPv\_lRAerEat0pVEtwsA.jpeg 640w, https://miro.medium.com/max/1400/1\*gqwPv\_lRAerEat0pVEtwsA.jpeg 700w" sizes="700px"/>
 
 Eid Al-Fitr prayer in a normal condition (Source: tribunnews)
 
@@ -27,7 +27,7 @@ Even though the number of confirmed cases still increasing nationally, govt plan
 
 Social power is the result of social networking meets social solidarity. In Indonesia, the role of the community is very crucial during this pandemic. The community helps the vulnerable one by give them food directly on the street. However, community support should be more fair and effective, if there is intervention by creating systems and involving government networks at the lowest levels so that the database of the most vulnerable is relevant. In addition to strengthening the community, education about COVID-19 is also urgently needed to facilitate the implementation of protocols after easing PSBB.
 
-<img class="s t u hi ai" src="https://miro.medium.com/max/1596/1\*4AL5d8OmQBshemYnbv-BDQ.jpeg" width="798" height="449" srcSet="https://miro.medium.com/max/552/1\*4AL5d8OmQBshemYnbv-BDQ.jpeg 276w, https://miro.medium.com/max/1104/1\*4AL5d8OmQBshemYnbv-BDQ.jpeg 552w, https://miro.medium.com/max/1280/1\*4AL5d8OmQBshemYnbv-BDQ.jpeg 640w, https://miro.medium.com/max/1400/1\*4AL5d8OmQBshemYnbv-BDQ.jpeg 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/1596/1\*4AL5d8OmQBshemYnbv-BDQ.jpeg" width="798" height="449" srcSet="https://miro.medium.com/max/552/1\*4AL5d8OmQBshemYnbv-BDQ.jpeg 276w, https://miro.medium.com/max/1104/1\*4AL5d8OmQBshemYnbv-BDQ.jpeg 552w, https://miro.medium.com/max/1280/1\*4AL5d8OmQBshemYnbv-BDQ.jpeg 640w, https://miro.medium.com/max/1400/1\*4AL5d8OmQBshemYnbv-BDQ.jpeg 700w" sizes="700px"/>
 
 sharing food on the street is common view (Source: Investor Daily Indonesia)
 

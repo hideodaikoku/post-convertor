@@ -5,7 +5,7 @@
 
 [![Archana Kannan](https://miro.medium.com/fit/c/96/96/0*cmiOmSX3I7_I08yo.)](https://medium.com/@archkann?source=post_page-----49d9519c20f----------------------)[Archana Kannan](https://medium.com/@archkann?source=post_page-----49d9519c20f----------------------)Follow[May 28](https://medium.com/post-quarantine-urbanism/small-steps-in-the-road-to-recovery-49d9519c20f?source=post_page-----49d9519c20f----------------------) · 5 min read
 
-<img class="s t u gt ai" src="https://miro.medium.com/max/2160/1\*PU0OopuMsRmkLPoyh21AZw.jpeg" width="1080" height="608" srcSet="https://miro.medium.com/max/552/1\*PU0OopuMsRmkLPoyh21AZw.jpeg 276w, https://miro.medium.com/max/1104/1\*PU0OopuMsRmkLPoyh21AZw.jpeg 552w, https://miro.medium.com/max/1280/1\*PU0OopuMsRmkLPoyh21AZw.jpeg 640w, https://miro.medium.com/max/1400/1\*PU0OopuMsRmkLPoyh21AZw.jpeg 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ch ai" src="https://miro.medium.com/max/2160/1\*PU0OopuMsRmkLPoyh21AZw.jpeg" width="1080" height="608" srcSet="https://miro.medium.com/max/552/1\*PU0OopuMsRmkLPoyh21AZw.jpeg 276w, https://miro.medium.com/max/1104/1\*PU0OopuMsRmkLPoyh21AZw.jpeg 552w, https://miro.medium.com/max/1280/1\*PU0OopuMsRmkLPoyh21AZw.jpeg 640w, https://miro.medium.com/max/1400/1\*PU0OopuMsRmkLPoyh21AZw.jpeg 700w" sizes="700px"/>
 
 Its mid May, bubble tea shops remain closed, people have settled into the work from home culture and there is no more panic buying (for now, at least). Case numbers continue to be high on a daily basis.
 
@@ -23,23 +23,23 @@ I can only imagine the plight of cities that have large homeless populations or 
 
 **Community-level Urbanism**
 
-<img class="s t u gt ai" src="https://miro.medium.com/max/1388/1\*Xk40epMg8I6OBriioz6GTQ.png" width="694" height="756" srcSet="https://miro.medium.com/max/552/1\*Xk40epMg8I6OBriioz6GTQ.png 276w, https://miro.medium.com/max/1104/1\*Xk40epMg8I6OBriioz6GTQ.png 552w, https://miro.medium.com/max/1280/1\*Xk40epMg8I6OBriioz6GTQ.png 640w, https://miro.medium.com/max/1388/1\*Xk40epMg8I6OBriioz6GTQ.png 694w" sizes="694px" role="presentation"/>
+<img alt="Image for post" class="s t u ch ai" src="https://miro.medium.com/max/1388/1\*Xk40epMg8I6OBriioz6GTQ.png" width="694" height="756" srcSet="https://miro.medium.com/max/552/1\*Xk40epMg8I6OBriioz6GTQ.png 276w, https://miro.medium.com/max/1104/1\*Xk40epMg8I6OBriioz6GTQ.png 552w, https://miro.medium.com/max/1280/1\*Xk40epMg8I6OBriioz6GTQ.png 640w, https://miro.medium.com/max/1388/1\*Xk40epMg8I6OBriioz6GTQ.png 694w" sizes="694px"/>
 
 Looking at [the cases above](https://www.channelnewsasia.com/news/singapore/covid-19-new-cases-25000-may-13-workers-dormitories-citizen-pr-12726762), the worry is that lockdown measures in the city will be relaxed too early based on the low numbers of “community cases.” This could result in a second wave of cases emerging. Before Singapore, and other cities, can ease the quarantine guidelines, we must find innovate planning solutions to make sure public space is provided in a safe manner. Many people have highlighted that the pandemic will result in a more top-down approach to planning, however, I disagree. More grassroots and community-driven initiatives can be incredibly powerful in this time and help build resilience and comfort within neighbourhoods. Moreover, small neighbourhood-scale, community planning interventions can ease people into life outside home before we are ready for country-wide opening up.
 
-<img class="s t u gt ai" src="https://miro.medium.com/max/1100/1\*cqhQ-O4IJp-RNeAK-sMvPw.png" width="550" height="366" srcSet="https://miro.medium.com/max/552/1\*cqhQ-O4IJp-RNeAK-sMvPw.png 276w, https://miro.medium.com/max/1100/1\*cqhQ-O4IJp-RNeAK-sMvPw.png 550w" sizes="550px" role="presentation"/>
+<img alt="Image for post" class="s t u ch ai" src="https://miro.medium.com/max/1100/1\*cqhQ-O4IJp-RNeAK-sMvPw.png" width="550" height="366" srcSet="https://miro.medium.com/max/552/1\*cqhQ-O4IJp-RNeAK-sMvPw.png 276w, https://miro.medium.com/max/1100/1\*cqhQ-O4IJp-RNeAK-sMvPw.png 550w" sizes="550px"/>
 
 [Vilnius,](https://www.euronews.com/2020/05/04/vilnius-becomes-giant-open-air-cafe-to-support-bars-and-restaurants) the capital of Lithuania, has allowed restaurants and bars to spill out and use large public spaces. By using streets and plazas to seat restaurant-goers, people can sit spaced out and there is no worry of adequate ventilation. This allows people to go back and experience having a meal outside with friends and family, rather than being cooped up at home. Of course, this solution needs other considerations for different weather, but it is a good way to bring people outside and allow them to physically socialise without being in cramped spaces.
 
-<img class="s t u gt ai" src="https://miro.medium.com/max/552/1\*DhP37U4ieMWjeZ4vA\_UWfQ.png" width="276" height="276" role="presentation"/>
+<img alt="Image for post" class="s t u ch ai" src="https://miro.medium.com/max/552/1\*DhP37U4ieMWjeZ4vA\_UWfQ.png" width="276" height="276"/>
 
-<img class="s t u gt ai" src="https://miro.medium.com/max/552/1\*YUjzSA9\_CzDM5aJAJitc-g.png" width="276" height="276" role="presentation"/>
+<img alt="Image for post" class="s t u ch ai" src="https://miro.medium.com/max/552/1\*YUjzSA9\_CzDM5aJAJitc-g.png" width="276" height="276"/>
 
 Furthermore, we have seen small-scale built solutions to help assist in bringing some sense of normalcy to this time.
 
 As seen above, these dividers in gyms can help people feel safer. This, spacing out machines and consistent disinfecting can allow people to return to use these spaces earlier than we imagined.
 
-<img class="s t u gt ai" src="https://miro.medium.com/max/1872/1\*bGy22XxbVTCKRu-EJcGYgA.png" width="936" height="592" srcSet="https://miro.medium.com/max/552/1\*bGy22XxbVTCKRu-EJcGYgA.png 276w, https://miro.medium.com/max/1104/1\*bGy22XxbVTCKRu-EJcGYgA.png 552w, https://miro.medium.com/max/1280/1\*bGy22XxbVTCKRu-EJcGYgA.png 640w, https://miro.medium.com/max/1456/1\*bGy22XxbVTCKRu-EJcGYgA.png 728w, https://miro.medium.com/max/1632/1\*bGy22XxbVTCKRu-EJcGYgA.png 816w, https://miro.medium.com/max/1808/1\*bGy22XxbVTCKRu-EJcGYgA.png 904w, https://miro.medium.com/max/1872/1\*bGy22XxbVTCKRu-EJcGYgA.png 936w" sizes="936px" role="presentation"/>
+<img alt="Image for post" class="s t u ch ai" src="https://miro.medium.com/max/1872/1\*bGy22XxbVTCKRu-EJcGYgA.png" width="936" height="592" srcSet="https://miro.medium.com/max/552/1\*bGy22XxbVTCKRu-EJcGYgA.png 276w, https://miro.medium.com/max/1104/1\*bGy22XxbVTCKRu-EJcGYgA.png 552w, https://miro.medium.com/max/1280/1\*bGy22XxbVTCKRu-EJcGYgA.png 640w, https://miro.medium.com/max/1456/1\*bGy22XxbVTCKRu-EJcGYgA.png 728w, https://miro.medium.com/max/1632/1\*bGy22XxbVTCKRu-EJcGYgA.png 816w, https://miro.medium.com/max/1808/1\*bGy22XxbVTCKRu-EJcGYgA.png 904w, https://miro.medium.com/max/1872/1\*bGy22XxbVTCKRu-EJcGYgA.png 936w" sizes="936px"/>
 
 In addition, this Amsterdam restaurant has added these [‘greenhouses’](https://www.washingtonpost.com/travel/2020/05/08/this-restaurant-amsterdam-is-redefining-pandemic-dining-with-private-greenhouses/) to allow people to dine out and remain safe and distanced from others.
 

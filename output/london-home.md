@@ -5,7 +5,7 @@
 
 [![Helen Tartaglia](https://miro.medium.com/fit/c/96/96/1*dnc9lexrLm_P_-Q5hCnlYw.jpeg)](https://medium.com/@helentartaglia1?source=post_page-----372b1e9a6cea----------------------)[Helen Tartaglia](https://medium.com/@helentartaglia1?source=post_page-----372b1e9a6cea----------------------)Follow[Jun 9](https://medium.com/post-quarantine-urbanism/save-a-life-sit-on-your-sofa-coronavirus-and-the-evolution-of-home-372b1e9a6cea?source=post_page-----372b1e9a6cea----------------------) · 5 min read
 
-<img class="s t u gp ai" src="https://miro.medium.com/max/848/1\*wLm59le\_EtEWGgB8fUfFVA.jpeg" width="424" height="600" srcSet="https://miro.medium.com/max/552/1\*wLm59le\_EtEWGgB8fUfFVA.jpeg 276w, https://miro.medium.com/max/848/1\*wLm59le\_EtEWGgB8fUfFVA.jpeg 424w" sizes="424px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/848/1\*wLm59le\_EtEWGgB8fUfFVA.jpeg" width="424" height="600" srcSet="https://miro.medium.com/max/552/1\*wLm59le\_EtEWGgB8fUfFVA.jpeg 276w, https://miro.medium.com/max/848/1\*wLm59le\_EtEWGgB8fUfFVA.jpeg 424w" sizes="424px"/>
 
 Fasey, Gordon and Hellström (2020), ‘Pandemic Posters’.
 
@@ -17,7 +17,7 @@ Days later the ‘work from home’ initiative was finally upgraded to ‘stay a
 
 Since then, for many people, ‘home’ has become the epicentre of lockdown life. Spaces that were once only occupied in the evenings and weekends are now being used to maximum capacity. Kitchen tables have morphed into work desks, sofas are used for partaking in virtual pub quizzes and any left over floor space is now a gymnasium. The daily commute is taken around the estate, eating out requires ordering in and sadly many important life events such as funerals are now attended via a zoom link and paying your respects is done through a screen.
 
-<img class="s t u gp ai" src="https://miro.medium.com/max/2240/1\*TZiM\_q0t8F72JoAfu-07gQ.jpeg" width="1120" height="525" srcSet="https://miro.medium.com/max/552/1\*TZiM\_q0t8F72JoAfu-07gQ.jpeg 276w, https://miro.medium.com/max/1104/1\*TZiM\_q0t8F72JoAfu-07gQ.jpeg 552w, https://miro.medium.com/max/1280/1\*TZiM\_q0t8F72JoAfu-07gQ.jpeg 640w, https://miro.medium.com/max/1400/1\*TZiM\_q0t8F72JoAfu-07gQ.jpeg 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/2240/1\*TZiM\_q0t8F72JoAfu-07gQ.jpeg" width="1120" height="525" srcSet="https://miro.medium.com/max/552/1\*TZiM\_q0t8F72JoAfu-07gQ.jpeg 276w, https://miro.medium.com/max/1104/1\*TZiM\_q0t8F72JoAfu-07gQ.jpeg 552w, https://miro.medium.com/max/1280/1\*TZiM\_q0t8F72JoAfu-07gQ.jpeg 640w, https://miro.medium.com/max/1400/1\*TZiM\_q0t8F72JoAfu-07gQ.jpeg 700w" sizes="700px"/>
 
 Fasey, Gordon and Hellström (2020), ‘Pandemic Posters’.
 
@@ -25,7 +25,7 @@ But, it is internationally agreed staying at home is vital in the fight against 
 
 Despite our sofas having life saving abilities, Londoners still have a fragile and somewhat complex relationship with their homes. On average rent costs 30% of pre-tax pay (Trust for London, 2019), with London’s poorest spending up to 56% of their total income on rent (London’s Poverty Profile, 2020). Boroughs in the centre of London, where the highest concentration of jobs are, have the highest rents. Whilst, on average housing furthest away from ‘the city’ costs the least. Unsurprisingly therefore the second greatest household cost after rent is transport.
 
-<img class="s t u gp ai" src="https://miro.medium.com/max/8064/1\*Zsd2zvo86t7rRbpU2GSOzg.jpeg" width="4032" height="3024" srcSet="https://miro.medium.com/max/552/1\*Zsd2zvo86t7rRbpU2GSOzg.jpeg 276w, https://miro.medium.com/max/1104/1\*Zsd2zvo86t7rRbpU2GSOzg.jpeg 552w, https://miro.medium.com/max/1280/1\*Zsd2zvo86t7rRbpU2GSOzg.jpeg 640w, https://miro.medium.com/max/1400/1\*Zsd2zvo86t7rRbpU2GSOzg.jpeg 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/8064/1\*Zsd2zvo86t7rRbpU2GSOzg.jpeg" width="4032" height="3024" srcSet="https://miro.medium.com/max/552/1\*Zsd2zvo86t7rRbpU2GSOzg.jpeg 276w, https://miro.medium.com/max/1104/1\*Zsd2zvo86t7rRbpU2GSOzg.jpeg 552w, https://miro.medium.com/max/1280/1\*Zsd2zvo86t7rRbpU2GSOzg.jpeg 640w, https://miro.medium.com/max/1400/1\*Zsd2zvo86t7rRbpU2GSOzg.jpeg 700w" sizes="700px"/>
 
 Helen Tartaglia (2018), ‘House?’, Island Gardens London
 
@@ -35,7 +35,7 @@ In essence shielding from the virus by staying home has become a luxury only for
 
 Further more many citizens have struggled to access adequate green space which allows for social distancing and is within walking distance of their homes. Whilst the London Plan aims for every Londoner to have a green space within 400 meters of their home, it did not take into account an even spread of green space per resident across London (Eco Systems Knowledge Network, 2020). As a result parks and public spaces had to temporarily close due to over crowding, including East London’s largest green space, Victoria Park.
 
-<img class="s t u gp ai" src="https://miro.medium.com/max/2400/1\*xcFuIcTWPxw2zmn1CVLmpA.jpeg" width="1200" height="912" srcSet="https://miro.medium.com/max/552/1\*xcFuIcTWPxw2zmn1CVLmpA.jpeg 276w, https://miro.medium.com/max/1104/1\*xcFuIcTWPxw2zmn1CVLmpA.jpeg 552w, https://miro.medium.com/max/1280/1\*xcFuIcTWPxw2zmn1CVLmpA.jpeg 640w, https://miro.medium.com/max/1400/1\*xcFuIcTWPxw2zmn1CVLmpA.jpeg 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/2400/1\*xcFuIcTWPxw2zmn1CVLmpA.jpeg" width="1200" height="912" srcSet="https://miro.medium.com/max/552/1\*xcFuIcTWPxw2zmn1CVLmpA.jpeg 276w, https://miro.medium.com/max/1104/1\*xcFuIcTWPxw2zmn1CVLmpA.jpeg 552w, https://miro.medium.com/max/1280/1\*xcFuIcTWPxw2zmn1CVLmpA.jpeg 640w, https://miro.medium.com/max/1400/1\*xcFuIcTWPxw2zmn1CVLmpA.jpeg 700w" sizes="700px"/>
 
 Liam Dargan (2020), Streatham Common London
 

@@ -32,7 +32,7 @@
     {
         "slug": "melbourne",
         "medium": "https://medium.com/post-quarantine-urbanism/post-pandemic-urbanism-australia-the-merge-scenario-9b783e564e65",
-        "converted": true
+        "converted": false
     },
     {
         "slug": "tokyo",
@@ -162,7 +162,7 @@
     {
         "slug" : "singapore-road-to-recovery",
         "medium": "https://medium.com/post-quarantine-urbanism/small-steps-in-the-road-to-recovery-49d9519c20f",
-        "converted": false
+        "converted": true
     },
     {
         "slug" : "ghana",
@@ -182,111 +182,111 @@
     {
         "slug" : "london-lockdown",
         "medium": "https://medium.com/post-quarantine-urbanism/london-under-lockdown-active-travel-and-behaviour-change-d862a0f6663a",
-        "converted": false
+        "converted": true
     },
     {
         "slug" : "singapore-landscapes",
         "medium": "https://medium.com/post-quarantine-urbanism/singapore-repurposing-landscapes-for-covid-19-41c75caa80",
-        "converted": false
+        "converted": true
     },
     {
         "slug" : "india-public-places",
         "medium": "https://medium.com/post-quarantine-urbanism/covid19-impact-post-pandemic-public-spaces-a-case-of-indian-cities-3a6eab5f08aa",
-        "converted": false
+        "converted": true
     },
     {
         "slug" : "copenhagen",
         "medium": "https://medium.com/post-quarantine-urbanism/sidelining-public-life-in-copenhagen-8ee7b3c52ed5",
-        "converted": false
+        "converted": true
     },
     {
         "slug" : "brexit",
         "medium": "https://medium.com/post-quarantine-urbanism/mutual-aid-and-communities-of-place-in-brexit-britain-58afa992f59c",
-        "converted": false
+        "converted": true
     },
     {
         "slug" : "melbourne-fair-space",
         "medium": "https://medium.com/post-quarantine-urbanism/melbourne-lets-talk-about-actualising-fairer-urban-spaces-e092f5a43453",
-        "converted": false
+        "converted": true
     },
     {
         "slug" : "singapore-whats-next",
         "medium": "https://medium.com/post-quarantine-urbanism/what-next-singapores-risen-fallen-and-plateaued-relationship-with-covid-19-d2c896039123",
-        "converted": false
+        "converted": true
     },
     {
         "slug" : "france",
         "medium": "https://medium.com/post-quarantine-urbanism/what-should-we-expect-for-our-post-corona-cities-49b6b971e545",
-        "converted": false
+        "converted": true
     },
     {
         "slug" : "mexico",
         "medium": "https://medium.com/post-quarantine-urbanism/flashing-a-light-on-social-inequities-covid-19-in-mexico-7d809c0faba1",
-        "converted": false
+        "converted": true
     },
     {
         "slug" : "montreal",
         "medium": "https://medium.com/post-quarantine-urbanism/%C3%A7a-va-bien-aller-5c988485f60c",
-        "converted": false
+        "converted": true
     },
     {
         "slug" : "indonesia",
         "medium": "https://medium.com/post-quarantine-urbanism/indonesia-the-test-of-our-social-life-71384ae93645",
-        "converted": false
+        "converted": true
     },
     {
         "slug" : "brussels",
         "medium": "https://medium.com/post-quarantine-urbanism/towards-greener-post-pandemic-cities-the-case-of-brussels-and-transport-cd0956d2e5c",
-        "converted": false
+        "converted": true
     },
     {
         "slug" : "manilla",
         "medium": "https://medium.com/post-quarantine-urbanism/towards-a-better-normal-will-metro-manila-become-a-humanised-city-post-quarantine-76a6ace2d163",
-        "converted": false
+        "converted": true
     },
     {
         "slug" : "ankara",
         "medium": "https://medium.com/post-quarantine-urbanism/reinterpretation-of-urban-public-spaces-after-covid-19-experiences-from-ankara-turkey-79fc6cb7b2dc",
-        "converted": false
+        "converted": true
     },
     {
         "slug" : "london-social-distancing",
         "medium": "https://medium.com/post-quarantine-urbanism/london-social-distancing-green-spaces-post-quarantine-urbanism-a21d2dc2d2a0",
-        "converted": false
+        "converted": true
     },
     {
         "slug" : "dubai",
         "medium": "https://medium.com/post-quarantine-urbanism/dubai-an-urban-spectacle-fallen-lackluster-for-now-930b7fbd354a",
-        "converted": false
+        "converted": true
     },
     {
         "slug" : "milan",
         "medium": "https://medium.com/post-quarantine-urbanism/new-life-unfolding-milans-streets-b5b32aef5bb9",
-        "converted": false
+        "converted": true
     },
     {
         "slug" : "mexico-city",
         "medium": "https://medium.com/post-quarantine-urbanism/mexico-the-informality-that-kills-4e8211d55cf1",
-        "converted": false
+        "converted": true
     },
     {
         "slug" : "london-home",
         "medium": "https://medium.com/post-quarantine-urbanism/save-a-life-sit-on-your-sofa-coronavirus-and-the-evolution-of-home-372b1e9a6cea",
-        "converted": false
+        "converted": true
     },
     {
         "slug" : "hanoi",
         "medium": "https://medium.com/post-quarantine-urbanism/breathing-again-in-the-public-spaces-of-hanoi-b042b45d3684",
-        "converted": false
+        "converted": true
     },
     {
         "slug" : "hanoi",
         "medium": "https://medium.com/post-quarantine-urbanism/breathing-again-in-the-public-spaces-of-hanoi-b042b45d3684",
-        "converted": false
+        "converted": true
     },
     {
         "slug" : "dubai-dreamers",
         "medium": "https://medium.com/post-quarantine-urbanism/u-a-e-how-are-the-dreamers-keeping-their-visions-alive-411c932e3e7d",
-        "converted": false
+        "converted": true
     }
 ]

@@ -14,7 +14,7 @@ The organic spread of mutual aid groups has been remarkable in its scope and ing
 
 In most places an organic organisational structure has emerged to facilitate this, with voluntary officers providing flexible support over pragmatic operations, such as establishing a centralised phone number for people to ask for help, or applying for grants to expand operations. Remarkably, these groups have also formed a national ‘trans-local’ network of Mutual Aid groups. Websites like mutualaid.co.uk and covidmutualaid.org serve not only as a catalogue of groups across the country, but as nodes of communication between them, where knowledge, ideas, and best practice can be shared and exchanged.
 
-<img class="s t u if ai" src="https://miro.medium.com/max/1248/1\*bTqi5YrmAeFAuzexcuK\_zA.jpeg" width="624" height="351" srcSet="https://miro.medium.com/max/552/1\*bTqi5YrmAeFAuzexcuK\_zA.jpeg 276w, https://miro.medium.com/max/1104/1\*bTqi5YrmAeFAuzexcuK\_zA.jpeg 552w, https://miro.medium.com/max/1248/1\*bTqi5YrmAeFAuzexcuK\_zA.jpeg 624w" sizes="624px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/1248/1\*bTqi5YrmAeFAuzexcuK\_zA.jpeg" width="624" height="351" srcSet="https://miro.medium.com/max/552/1\*bTqi5YrmAeFAuzexcuK\_zA.jpeg 276w, https://miro.medium.com/max/1104/1\*bTqi5YrmAeFAuzexcuK\_zA.jpeg 552w, https://miro.medium.com/max/1248/1\*bTqi5YrmAeFAuzexcuK\_zA.jpeg 624w" sizes="624px"/>
 
 Mutual Aid flyer. Credit: rethinkingpoverty.org
 
@@ -24,7 +24,7 @@ For years, Britain has been divided by the vicious, tribal politics of Brexit �
 
 As well as placing community organisation at the forefront of people’s minds, the pandemic has also illustrated how powerful a force it can be. When the national lockdown was introduced on March 23rd, the government promised to recruit “an army of NHS volunteers”. By the time the government volunteering app launched, Mutual Aid groups had already been established for weeks. The government’s centralised approach was cumbersome and ineffective. To date, two thirds of volunteers that have signed up have not been given a single task by the centralised server. Conversely, Mutual Aid groups are a hive of activity. This undoubtedly illustrates that communities need not, and indeed rarely do, wait for leadership in a time of crisis — they lead themselves, and aided by the internet, do so remarkably effectively.
 
-<img class="s t u if ai" src="https://miro.medium.com/max/1988/1\*s\_TffSDQEF04FxoIqWdZQQ.png" width="994" height="552" srcSet="https://miro.medium.com/max/552/1\*s\_TffSDQEF04FxoIqWdZQQ.png 276w, https://miro.medium.com/max/1104/1\*s\_TffSDQEF04FxoIqWdZQQ.png 552w, https://miro.medium.com/max/1280/1\*s\_TffSDQEF04FxoIqWdZQQ.png 640w, https://miro.medium.com/max/1400/1\*s\_TffSDQEF04FxoIqWdZQQ.png 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/1988/1\*s\_TffSDQEF04FxoIqWdZQQ.png" width="994" height="552" srcSet="https://miro.medium.com/max/552/1\*s\_TffSDQEF04FxoIqWdZQQ.png 276w, https://miro.medium.com/max/1104/1\*s\_TffSDQEF04FxoIqWdZQQ.png 552w, https://miro.medium.com/max/1280/1\*s\_TffSDQEF04FxoIqWdZQQ.png 640w, https://miro.medium.com/max/1400/1\*s\_TffSDQEF04FxoIqWdZQQ.png 700w" sizes="700px"/>
 
 Mutual Aid Groups in London as of March 25th, just two days after lockdown. Credit: covidmutualaid.org
 

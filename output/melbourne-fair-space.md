@@ -13,7 +13,7 @@ As an urban researcher, the COVID-19 pandemic continues to unfold like a dystopi
 
 [
 
-<img alt="An empty De Graves Lane due to COVID-19 fears" class="s t u ht ai" src="https://miro.medium.com/max/1720/1\*r\_jnOzgIwfKrq4XKrvOOpw.jpeg" width="860" height="600" srcSet="https://miro.medium.com/max/552/1\*r\_jnOzgIwfKrq4XKrvOOpw.jpeg 276w, https://miro.medium.com/max/1104/1\*r\_jnOzgIwfKrq4XKrvOOpw.jpeg 552w, https://miro.medium.com/max/1280/1\*r\_jnOzgIwfKrq4XKrvOOpw.jpeg 640w, https://miro.medium.com/max/1400/1\*r\_jnOzgIwfKrq4XKrvOOpw.jpeg 700w" sizes="700px"/>
+<img alt="An empty De Graves Lane due to COVID-19 fears" class="s t u ci ai" src="https://miro.medium.com/max/1720/1\*r\_jnOzgIwfKrq4XKrvOOpw.jpeg" width="860" height="600" srcSet="https://miro.medium.com/max/552/1\*r\_jnOzgIwfKrq4XKrvOOpw.jpeg 276w, https://miro.medium.com/max/1104/1\*r\_jnOzgIwfKrq4XKrvOOpw.jpeg 552w, https://miro.medium.com/max/1280/1\*r\_jnOzgIwfKrq4XKrvOOpw.jpeg 640w, https://miro.medium.com/max/1400/1\*r\_jnOzgIwfKrq4XKrvOOpw.jpeg 700w" sizes="700px"/>
 
 ](https://www.broadsheet.com.au/melbourne/city-file/article/city-holding-its-breath-melbourne-captured-time-coronavirus)A deserted Centre Place, Melbourne. Photograph by Pete Dillon (Broadsheet).
 
@@ -21,7 +21,7 @@ At 1663 confirmed cases, 1563 recoveries and 19 deaths, the Australian State of 
 
 [
 
-<img alt="A graph showing that Victorians received the most fines in Australia for breaching COVID-19 restrictions" class="s t u ht ai" src="https://miro.medium.com/max/3300/1\*ZMS24M-d4Te62jhFN1CSZg.png" width="1650" height="1072" srcSet="https://miro.medium.com/max/552/1\*ZMS24M-d4Te62jhFN1CSZg.png 276w, https://miro.medium.com/max/1104/1\*ZMS24M-d4Te62jhFN1CSZg.png 552w, https://miro.medium.com/max/1280/1\*ZMS24M-d4Te62jhFN1CSZg.png 640w, https://miro.medium.com/max/1400/1\*ZMS24M-d4Te62jhFN1CSZg.png 700w" sizes="700px"/>
+<img alt="A graph showing that Victorians received the most fines in Australia for breaching COVID-19 restrictions" class="s t u ci ai" src="https://miro.medium.com/max/3300/1\*ZMS24M-d4Te62jhFN1CSZg.png" width="1650" height="1072" srcSet="https://miro.medium.com/max/552/1\*ZMS24M-d4Te62jhFN1CSZg.png 276w, https://miro.medium.com/max/1104/1\*ZMS24M-d4Te62jhFN1CSZg.png 552w, https://miro.medium.com/max/1280/1\*ZMS24M-d4Te62jhFN1CSZg.png 640w, https://miro.medium.com/max/1400/1\*ZMS24M-d4Te62jhFN1CSZg.png 700w" sizes="700px"/>
 
 ](https://www.theage.com.au/national/victoria/ahead-on-penalties-victoria-leads-nation-on-covid-19-lockdown-fines-20200527-p54x0d.html)Victorians have received more fines than all other states combined (The Age).
 
@@ -29,7 +29,7 @@ As restrictions ease, active and public transport initiatives are being position
 
 [
 
-<img class="s t u ht ai" src="https://miro.medium.com/max/2400/1\*qH2WLB1DRJX369-pZPMDMA.jpeg" width="1200" height="800" srcSet="https://miro.medium.com/max/552/1\*qH2WLB1DRJX369-pZPMDMA.jpeg 276w, https://miro.medium.com/max/1104/1\*qH2WLB1DRJX369-pZPMDMA.jpeg 552w, https://miro.medium.com/max/1280/1\*qH2WLB1DRJX369-pZPMDMA.jpeg 640w, https://miro.medium.com/max/1400/1\*qH2WLB1DRJX369-pZPMDMA.jpeg 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/2400/1\*qH2WLB1DRJX369-pZPMDMA.jpeg" width="1200" height="800" srcSet="https://miro.medium.com/max/552/1\*qH2WLB1DRJX369-pZPMDMA.jpeg 276w, https://miro.medium.com/max/1104/1\*qH2WLB1DRJX369-pZPMDMA.jpeg 552w, https://miro.medium.com/max/1280/1\*qH2WLB1DRJX369-pZPMDMA.jpeg 640w, https://miro.medium.com/max/1400/1\*qH2WLB1DRJX369-pZPMDMA.jpeg 700w" sizes="700px"/>
 
 ](https://www.bicyclenetwork.com.au/newsroom/2020/05/08/pop-up-bike-lanes-for-melbourne/)Bicycle Network’s pop-up bike lanes in 2017 (Bicycle Network Australia).
 
@@ -42,7 +42,7 @@ Such initiatives are appealing. After all, social interaction — the lifeblood 
 
 [
 
-<img class="s t u ht ai" src="https://miro.medium.com/max/5248/1\*KjkHTCfvwgdBd3MXAAybhA.jpeg" width="2624" height="1122" srcSet="https://miro.medium.com/max/552/1\*KjkHTCfvwgdBd3MXAAybhA.jpeg 276w, https://miro.medium.com/max/1104/1\*KjkHTCfvwgdBd3MXAAybhA.jpeg 552w, https://miro.medium.com/max/1280/1\*KjkHTCfvwgdBd3MXAAybhA.jpeg 640w, https://miro.medium.com/max/1456/1\*KjkHTCfvwgdBd3MXAAybhA.jpeg 728w, https://miro.medium.com/max/1632/1\*KjkHTCfvwgdBd3MXAAybhA.jpeg 816w, https://miro.medium.com/max/1808/1\*KjkHTCfvwgdBd3MXAAybhA.jpeg 904w, https://miro.medium.com/max/1984/1\*KjkHTCfvwgdBd3MXAAybhA.jpeg 992w, https://miro.medium.com/max/2000/1\*KjkHTCfvwgdBd3MXAAybhA.jpeg 1000w" sizes="1000px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/5248/1\*KjkHTCfvwgdBd3MXAAybhA.jpeg" width="2624" height="1122" srcSet="https://miro.medium.com/max/552/1\*KjkHTCfvwgdBd3MXAAybhA.jpeg 276w, https://miro.medium.com/max/1104/1\*KjkHTCfvwgdBd3MXAAybhA.jpeg 552w, https://miro.medium.com/max/1280/1\*KjkHTCfvwgdBd3MXAAybhA.jpeg 640w, https://miro.medium.com/max/1456/1\*KjkHTCfvwgdBd3MXAAybhA.jpeg 728w, https://miro.medium.com/max/1632/1\*KjkHTCfvwgdBd3MXAAybhA.jpeg 816w, https://miro.medium.com/max/1808/1\*KjkHTCfvwgdBd3MXAAybhA.jpeg 904w, https://miro.medium.com/max/1984/1\*KjkHTCfvwgdBd3MXAAybhA.jpeg 992w, https://miro.medium.com/max/2000/1\*KjkHTCfvwgdBd3MXAAybhA.jpeg 1000w" sizes="1000px"/>
 
 ](https://www.launchhousing.org.au/ending-homelessness/research-hub/australian-homelessness-monitor)Key Findings from Launch Housing’s Australian Homelessness Monitor 2018 (Launch Housing).
 
@@ -61,7 +61,7 @@ The Victorian government recently announced the approval of 780 social housing u
 
 The Housing Peaks Alliance recently published ‘[Make Social Housing Work](https://chp.org.au/wp-content/uploads/2020/05/Make-Social-Housing-Work.pdf)’, a proposed framework which builds on and suggests improvements to the Victorian government’s ‘Homes for Victorians’ Strategy and ‘Victoria’s homelessness and rough sleeping action plan’. Chiefly, the framework suggests improvements to Victoria’s planning, regulatory and fiscal frameworks, in order to increase social and affordable housing stock, and to provide more support services to people who are most vulnerable to housing insecurity¹⁵.
 
-<img class="s t u ht ai" src="https://miro.medium.com/max/5458/1\*phX44bJ4zG3Zbueu-xtNAg.png" width="2729" height="1517" srcSet="https://miro.medium.com/max/552/1\*phX44bJ4zG3Zbueu-xtNAg.png 276w, https://miro.medium.com/max/1104/1\*phX44bJ4zG3Zbueu-xtNAg.png 552w, https://miro.medium.com/max/1280/1\*phX44bJ4zG3Zbueu-xtNAg.png 640w, https://miro.medium.com/max/1456/1\*phX44bJ4zG3Zbueu-xtNAg.png 728w, https://miro.medium.com/max/1632/1\*phX44bJ4zG3Zbueu-xtNAg.png 816w, https://miro.medium.com/max/1808/1\*phX44bJ4zG3Zbueu-xtNAg.png 904w, https://miro.medium.com/max/1984/1\*phX44bJ4zG3Zbueu-xtNAg.png 992w, https://miro.medium.com/max/2000/1\*phX44bJ4zG3Zbueu-xtNAg.png 1000w" sizes="1000px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/5458/1\*phX44bJ4zG3Zbueu-xtNAg.png" width="2729" height="1517" srcSet="https://miro.medium.com/max/552/1\*phX44bJ4zG3Zbueu-xtNAg.png 276w, https://miro.medium.com/max/1104/1\*phX44bJ4zG3Zbueu-xtNAg.png 552w, https://miro.medium.com/max/1280/1\*phX44bJ4zG3Zbueu-xtNAg.png 640w, https://miro.medium.com/max/1456/1\*phX44bJ4zG3Zbueu-xtNAg.png 728w, https://miro.medium.com/max/1632/1\*phX44bJ4zG3Zbueu-xtNAg.png 816w, https://miro.medium.com/max/1808/1\*phX44bJ4zG3Zbueu-xtNAg.png 904w, https://miro.medium.com/max/1984/1\*phX44bJ4zG3Zbueu-xtNAg.png 992w, https://miro.medium.com/max/2000/1\*phX44bJ4zG3Zbueu-xtNAg.png 1000w" sizes="1000px"/>
 
 Author’s summary of ‘Make Social Housing Work’ (Housing Peaks Alliance).
 
@@ -84,7 +84,7 @@ Conversely, c_ohealth_, a not-for-profit community health organisation focused o
 
 [
 
-<img class="s t u ht ai" src="https://miro.medium.com/max/1872/1\*8FoVLju0usmLjtqBQoTltQ.jpeg" width="936" height="576" srcSet="https://miro.medium.com/max/552/1\*8FoVLju0usmLjtqBQoTltQ.jpeg 276w, https://miro.medium.com/max/1104/1\*8FoVLju0usmLjtqBQoTltQ.jpeg 552w, https://miro.medium.com/max/1280/1\*8FoVLju0usmLjtqBQoTltQ.jpeg 640w, https://miro.medium.com/max/1400/1\*8FoVLju0usmLjtqBQoTltQ.jpeg 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/1872/1\*8FoVLju0usmLjtqBQoTltQ.jpeg" width="936" height="576" srcSet="https://miro.medium.com/max/552/1\*8FoVLju0usmLjtqBQoTltQ.jpeg 276w, https://miro.medium.com/max/1104/1\*8FoVLju0usmLjtqBQoTltQ.jpeg 552w, https://miro.medium.com/max/1280/1\*8FoVLju0usmLjtqBQoTltQ.jpeg 640w, https://miro.medium.com/max/1400/1\*8FoVLju0usmLjtqBQoTltQ.jpeg 700w" sizes="700px"/>
 
 ](https://socialworkhelper.com/2019/08/02/the-history-of-stereotyping-homelessness-in-australia/)
 
@@ -92,7 +92,7 @@ Additionally, stereotype-busting campaigns, which humanise people experiencing h
 
 * * *
 
-<img class="s t u ht ai" src="https://miro.medium.com/max/3694/1\*nEujvQ1R38QFeq55s\_d1fQ.jpeg" width="1847" height="1385" srcSet="https://miro.medium.com/max/552/1\*nEujvQ1R38QFeq55s\_d1fQ.jpeg 276w, https://miro.medium.com/max/1104/1\*nEujvQ1R38QFeq55s\_d1fQ.jpeg 552w, https://miro.medium.com/max/1280/1\*nEujvQ1R38QFeq55s\_d1fQ.jpeg 640w, https://miro.medium.com/max/1400/1\*nEujvQ1R38QFeq55s\_d1fQ.jpeg 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/3694/1\*nEujvQ1R38QFeq55s\_d1fQ.jpeg" width="1847" height="1385" srcSet="https://miro.medium.com/max/552/1\*nEujvQ1R38QFeq55s\_d1fQ.jpeg 276w, https://miro.medium.com/max/1104/1\*nEujvQ1R38QFeq55s\_d1fQ.jpeg 552w, https://miro.medium.com/max/1280/1\*nEujvQ1R38QFeq55s\_d1fQ.jpeg 640w, https://miro.medium.com/max/1400/1\*nEujvQ1R38QFeq55s\_d1fQ.jpeg 700w" sizes="700px"/>
 
 Hostile Design on Brunswick Street, Fitzroy. Photo by Author.
 

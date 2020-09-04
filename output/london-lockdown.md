@@ -15,7 +15,7 @@ After many years of improving London’s public transport capacity and infrastru
 
 Under lockdown, cycling and walking around London has surged in popularity as locals follow Government guidelines. Some London bike shops have reported a fivefold surge in online sales since the start of April. I have also observed multiple bike repair shops with queues of customers who are bringing out old bicycles for a service or seeking to buy their first bike. TfL recently stated that cycling trips could increase tenfold, and walking trips to increase by five times the normal amount in post-quarantine London. Now with lockdown restrictions slowly easing, Londoners are being encouraged to continue getting around in this way to ensure infection rates don’t cause a second spike.
 
-<img class="s t u hn ai" src="https://miro.medium.com/max/2262/1\*mLNsyP93gVLDIS1kNeu2Pw.jpeg" width="1131" height="991" srcSet="https://miro.medium.com/max/552/1\*mLNsyP93gVLDIS1kNeu2Pw.jpeg 276w, https://miro.medium.com/max/1104/1\*mLNsyP93gVLDIS1kNeu2Pw.jpeg 552w, https://miro.medium.com/max/1280/1\*mLNsyP93gVLDIS1kNeu2Pw.jpeg 640w, https://miro.medium.com/max/1400/1\*mLNsyP93gVLDIS1kNeu2Pw.jpeg 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/2262/1\*mLNsyP93gVLDIS1kNeu2Pw.jpeg" width="1131" height="991" srcSet="https://miro.medium.com/max/552/1\*mLNsyP93gVLDIS1kNeu2Pw.jpeg 276w, https://miro.medium.com/max/1104/1\*mLNsyP93gVLDIS1kNeu2Pw.jpeg 552w, https://miro.medium.com/max/1280/1\*mLNsyP93gVLDIS1kNeu2Pw.jpeg 640w, https://miro.medium.com/max/1400/1\*mLNsyP93gVLDIS1kNeu2Pw.jpeg 700w" sizes="700px"/>
 
 Socially distanced crowd outside of Hackney Cycles, London (May 2020)
 
@@ -37,7 +37,7 @@ In early May, the Department for Transport announced a new £250 million emergen
 
 Many London boroughs have taken action by providing temporary interventions that allow for safer pedestrian and cyclist movements throughout London. Pedestrianised streets and widened pavements allow for all-abilities access while socially distancing. Temporary road closures and separated cycle lanes now support the rise in cycling activity. Although temporary, providing these opportunities to the public is an essential step in creating long-term behaviour change, and ensuring everyone within these communities are able to have access to safe travel without breaking restriction rules or exposing themselves to risk of infection. Not just under the current circumstances, but also well into a post-coronavirus future.
 
-<img class="s t u hn ai" src="https://miro.medium.com/max/1868/1\*8Iga7ibfjxLhXpq4TpOV4g.png" width="934" height="558" srcSet="https://miro.medium.com/max/552/1\*8Iga7ibfjxLhXpq4TpOV4g.png 276w, https://miro.medium.com/max/1104/1\*8Iga7ibfjxLhXpq4TpOV4g.png 552w, https://miro.medium.com/max/1280/1\*8Iga7ibfjxLhXpq4TpOV4g.png 640w, https://miro.medium.com/max/1400/1\*8Iga7ibfjxLhXpq4TpOV4g.png 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/1868/1\*8Iga7ibfjxLhXpq4TpOV4g.png" width="934" height="558" srcSet="https://miro.medium.com/max/552/1\*8Iga7ibfjxLhXpq4TpOV4g.png 276w, https://miro.medium.com/max/1104/1\*8Iga7ibfjxLhXpq4TpOV4g.png 552w, https://miro.medium.com/max/1280/1\*8Iga7ibfjxLhXpq4TpOV4g.png 640w, https://miro.medium.com/max/1400/1\*8Iga7ibfjxLhXpq4TpOV4g.png 700w" sizes="700px"/>
 
 New temporary cycle lanes in London (Credit: Nigel Howard)
 
@@ -45,7 +45,7 @@ While the COVID-19 pandemic has been devastating worldwide, it is also providing
 
 The Transtheoretical Model of behaviour change (Prochaska and DiClemente, 1983) devises a model in which the ‘states of change’ occur. Under normal circumstances, Precontemplation, Contemplation, Preparation and Action take time and come in slow sociocultural shifts. However, under current circumstances there has been significant uptake of active travel in London within the period of lockdown. Now that these behaviours have been embraced, it is important to maintain them by way of providing supporting infrastructure in order to prevent relapse (the return to reliance on private car travel).
 
-<img class="s t u hn ai" src="https://miro.medium.com/max/5994/1\*vqZ4Dmt3x\_NMJBLCXTPL4Q.png" width="2997" height="2125" srcSet="https://miro.medium.com/max/552/1\*vqZ4Dmt3x\_NMJBLCXTPL4Q.png 276w, https://miro.medium.com/max/1104/1\*vqZ4Dmt3x\_NMJBLCXTPL4Q.png 552w, https://miro.medium.com/max/1280/1\*vqZ4Dmt3x\_NMJBLCXTPL4Q.png 640w, https://miro.medium.com/max/1400/1\*vqZ4Dmt3x\_NMJBLCXTPL4Q.png 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/5994/1\*vqZ4Dmt3x\_NMJBLCXTPL4Q.png" width="2997" height="2125" srcSet="https://miro.medium.com/max/552/1\*vqZ4Dmt3x\_NMJBLCXTPL4Q.png 276w, https://miro.medium.com/max/1104/1\*vqZ4Dmt3x\_NMJBLCXTPL4Q.png 552w, https://miro.medium.com/max/1280/1\*vqZ4Dmt3x\_NMJBLCXTPL4Q.png 640w, https://miro.medium.com/max/1400/1\*vqZ4Dmt3x\_NMJBLCXTPL4Q.png 700w" sizes="700px"/>
 
 Transtheoretical Model (Stages of Change)
 

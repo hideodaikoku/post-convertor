@@ -7,7 +7,7 @@
 
 As we are bombarded daily with news titles regarding the Covid-19 pandemic and its retaliations, some key elements concerning this global phenomenon are being overlooked. While many pin their concerns on the instability of the economy, inequalities among our social structures, which are readily exposed and exacerbated through the pandemic, are disregarded. In Mexico, like many other developing economies around the world, the concept of ‘quarantining at home’ has become evidently a matter of privilege. A fact we cannot ignore. Instead, we need to understand the Covid-19 pandemic as an opportunity to reconsider how our lives are constructed and what is essential for a more equitable future.
 
-<img class="s t u hm ai" src="https://miro.medium.com/max/9792/1\*PwmfR1BFQh0W1qQJJID8Jg.jpeg" width="4896" height="3264" srcSet="https://miro.medium.com/max/552/1\*PwmfR1BFQh0W1qQJJID8Jg.jpeg 276w, https://miro.medium.com/max/1104/1\*PwmfR1BFQh0W1qQJJID8Jg.jpeg 552w, https://miro.medium.com/max/1280/1\*PwmfR1BFQh0W1qQJJID8Jg.jpeg 640w, https://miro.medium.com/max/1400/1\*PwmfR1BFQh0W1qQJJID8Jg.jpeg 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/9792/1\*PwmfR1BFQh0W1qQJJID8Jg.jpeg" width="4896" height="3264" srcSet="https://miro.medium.com/max/552/1\*PwmfR1BFQh0W1qQJJID8Jg.jpeg 276w, https://miro.medium.com/max/1104/1\*PwmfR1BFQh0W1qQJJID8Jg.jpeg 552w, https://miro.medium.com/max/1280/1\*PwmfR1BFQh0W1qQJJID8Jg.jpeg 640w, https://miro.medium.com/max/1400/1\*PwmfR1BFQh0W1qQJJID8Jg.jpeg 700w" sizes="700px"/>
 
 Monterrey, Mexico by Daniel Lozano Valdés
 
@@ -23,7 +23,7 @@ Despite its large economy, around 50% of the economy in Mexico is still informal
 
 All this hints to the idea that countries like Mexico with lower urban development ratio, segmented access to basic services and the distribution of, in this case aid, have a harder time keeping people in-doors and safe. At the same time, vulnerable groups end up being neglected and receiving the short end of the stick during already challenging times.
 
-<img class="s t u hm ai" src="https://miro.medium.com/max/2430/1\*ycDgZQgRi7dsMsFDRKxx\_w.jpeg" width="1215" height="774" srcSet="https://miro.medium.com/max/552/1\*ycDgZQgRi7dsMsFDRKxx\_w.jpeg 276w, https://miro.medium.com/max/1104/1\*ycDgZQgRi7dsMsFDRKxx\_w.jpeg 552w, https://miro.medium.com/max/1280/1\*ycDgZQgRi7dsMsFDRKxx\_w.jpeg 640w, https://miro.medium.com/max/1400/1\*ycDgZQgRi7dsMsFDRKxx\_w.jpeg 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/2430/1\*ycDgZQgRi7dsMsFDRKxx\_w.jpeg" width="1215" height="774" srcSet="https://miro.medium.com/max/552/1\*ycDgZQgRi7dsMsFDRKxx\_w.jpeg 276w, https://miro.medium.com/max/1104/1\*ycDgZQgRi7dsMsFDRKxx\_w.jpeg 552w, https://miro.medium.com/max/1280/1\*ycDgZQgRi7dsMsFDRKxx\_w.jpeg 640w, https://miro.medium.com/max/1400/1\*ycDgZQgRi7dsMsFDRKxx\_w.jpeg 700w" sizes="700px"/>
 
 Santa Fe, Mexico City
 
@@ -35,6 +35,6 @@ The coronavirus has put into question this unhealthy lifestyle, which is engrain
 
 Today, as Mexican citizens, we should look at ourselves and ask: Are our representatives putting our best interest first or their own? Do we want our cities to be healthier, more prosperous, sustainable, innovative and inclusive? We should use this time to shift our human power towards achieving public interests. It is hard to predict when, or if, the Covid-19 pandemic will disappear, and there is no one-for-all solution to mitigate the situation. However, transforming the living conditions of the most vulnerable and improving our urban environments to be more resilient and adaptive to change might be a tool to tackle this and other crises in the long term.
 
-<img class="s t u hm ai" src="https://miro.medium.com/max/11442/1\*\_Pnagyi\_sg2KUvNpiIweuw.jpeg" width="5721" height="3218" srcSet="https://miro.medium.com/max/552/1\*\_Pnagyi\_sg2KUvNpiIweuw.jpeg 276w, https://miro.medium.com/max/1104/1\*\_Pnagyi\_sg2KUvNpiIweuw.jpeg 552w, https://miro.medium.com/max/1280/1\*\_Pnagyi\_sg2KUvNpiIweuw.jpeg 640w, https://miro.medium.com/max/1400/1\*\_Pnagyi\_sg2KUvNpiIweuw.jpeg 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/11442/1\*\_Pnagyi\_sg2KUvNpiIweuw.jpeg" width="5721" height="3218" srcSet="https://miro.medium.com/max/552/1\*\_Pnagyi\_sg2KUvNpiIweuw.jpeg 276w, https://miro.medium.com/max/1104/1\*\_Pnagyi\_sg2KUvNpiIweuw.jpeg 552w, https://miro.medium.com/max/1280/1\*\_Pnagyi\_sg2KUvNpiIweuw.jpeg 640w, https://miro.medium.com/max/1400/1\*\_Pnagyi\_sg2KUvNpiIweuw.jpeg 700w" sizes="700px"/>
 
 Queretaro, Mexico by Dennis Schrader

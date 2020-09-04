@@ -9,7 +9,7 @@ Indoors, and with media as the predominant lens into the world outside, it is ea
 
 In some countries that includes (temporary and permanent) hospitals, clinics, supermarkets and naturally homes. And in Singapore it has also come to comprise a lot more; the country has resorted to progressively repurposing structures for alternative uses beyond their intended design. Spread out across the island, these stopgap measures demonstrate the collective effort of the entire nation in containing the virus.
 
-<img class="s t u hm ai" src="https://miro.medium.com/max/2400/1\*BvpuEHxTlNEW4KT-S-fdSw.jpeg" width="1200" height="800" srcSet="https://miro.medium.com/max/552/1\*BvpuEHxTlNEW4KT-S-fdSw.jpeg 276w, https://miro.medium.com/max/1104/1\*BvpuEHxTlNEW4KT-S-fdSw.jpeg 552w, https://miro.medium.com/max/1280/1\*BvpuEHxTlNEW4KT-S-fdSw.jpeg 640w, https://miro.medium.com/max/1400/1\*BvpuEHxTlNEW4KT-S-fdSw.jpeg 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/2400/1\*BvpuEHxTlNEW4KT-S-fdSw.jpeg" width="1200" height="800" srcSet="https://miro.medium.com/max/552/1\*BvpuEHxTlNEW4KT-S-fdSw.jpeg 276w, https://miro.medium.com/max/1104/1\*BvpuEHxTlNEW4KT-S-fdSw.jpeg 552w, https://miro.medium.com/max/1280/1\*BvpuEHxTlNEW4KT-S-fdSw.jpeg 640w, https://miro.medium.com/max/1400/1\*BvpuEHxTlNEW4KT-S-fdSw.jpeg 700w" sizes="700px"/>
 
 Outside Toa Payoh Library, 10:15am May 5, 2020. (Source: Benjamin Seetor / The Straits Times)
 
@@ -17,7 +17,7 @@ Outside Toa Payoh Library, 10:15am May 5, 2020. (Source: Benjamin Seetor / The S
 
 Following the initial cases of COVID-19 in Singapore, the immediate response was to establish designated Government Quarantine Facilities (GQFs) to isolate those who had been identified as suspected cases due to recent contact with confirmed cases. Building on past experiences with epidemics such as SARS and H1N1, these GQFs started off with chalets before expanding to include university student hostels and the Outward Bound campus on Pulau Ubin, an offshore island.
 
-<img class="s t u hm ai" src="https://miro.medium.com/max/1560/1\*7Yt4d1vTl1Da\_Gv7ST3kGA.jpeg" width="780" height="520" srcSet="https://miro.medium.com/max/552/1\*7Yt4d1vTl1Da\_Gv7ST3kGA.jpeg 276w, https://miro.medium.com/max/1104/1\*7Yt4d1vTl1Da\_Gv7ST3kGA.jpeg 552w, https://miro.medium.com/max/1280/1\*7Yt4d1vTl1Da\_Gv7ST3kGA.jpeg 640w, https://miro.medium.com/max/1400/1\*7Yt4d1vTl1Da\_Gv7ST3kGA.jpeg 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/1560/1\*7Yt4d1vTl1Da\_Gv7ST3kGA.jpeg" width="780" height="520" srcSet="https://miro.medium.com/max/552/1\*7Yt4d1vTl1Da\_Gv7ST3kGA.jpeg 276w, https://miro.medium.com/max/1104/1\*7Yt4d1vTl1Da\_Gv7ST3kGA.jpeg 552w, https://miro.medium.com/max/1280/1\*7Yt4d1vTl1Da\_Gv7ST3kGA.jpeg 640w, https://miro.medium.com/max/1400/1\*7Yt4d1vTl1Da\_Gv7ST3kGA.jpeg 700w" sizes="700px"/>
 
 Treehouse Villas @ Changi, a GQF. (Source: Ariffin Jamar/The Straits Times)
 
@@ -25,13 +25,13 @@ Treehouse Villas @ Changi, a GQF. (Source: Ariffin Jamar/The Straits Times)
 
 As more countries imposed travel restrictions, airlines reduced flights and educational institutions shifted to online learning, overseas-based Singaporean students were encouraged and advised to come back as soon as possible. Initially, returnees were required to observe the 14-day Stay-Home Notice (SHN), a policy that had already been implemented to buttress the former quarantine orders. But in a matter of days, the increase in new cases warranted heightened measures. Taking advantage of the capacity of empty rooms, back of house facilities and crews of experienced service staff of hard-hit hotels, select tourist accommodations became the makeshift liminal spaces for returnees to safely segregate themselves from the rest of society while ensuring that they were sufficiently provided for. With the need to continue with online learning and remote work across geographical boundaries, these hotels became a mishmash of confined spaces operating at different time zones and with varying functions condensed into one; all while hotel staff worked to cater to the needs of their new clientele and to respond to evolving safety requirements at GMT +8.
 
-<img class="s t u hm ai" src="https://miro.medium.com/max/1560/1\*rPQBdUN-QiyRFk7GB\_K\_MQ.jpeg" width="780" height="520" srcSet="https://miro.medium.com/max/552/1\*rPQBdUN-QiyRFk7GB\_K\_MQ.jpeg 276w, https://miro.medium.com/max/1104/1\*rPQBdUN-QiyRFk7GB\_K\_MQ.jpeg 552w, https://miro.medium.com/max/1280/1\*rPQBdUN-QiyRFk7GB\_K\_MQ.jpeg 640w, https://miro.medium.com/max/1400/1\*rPQBdUN-QiyRFk7GB\_K\_MQ.jpeg 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/1560/1\*rPQBdUN-QiyRFk7GB\_K\_MQ.jpeg" width="780" height="520" srcSet="https://miro.medium.com/max/552/1\*rPQBdUN-QiyRFk7GB\_K\_MQ.jpeg 276w, https://miro.medium.com/max/1104/1\*rPQBdUN-QiyRFk7GB\_K\_MQ.jpeg 552w, https://miro.medium.com/max/1280/1\*rPQBdUN-QiyRFk7GB\_K\_MQ.jpeg 640w, https://miro.medium.com/max/1400/1\*rPQBdUN-QiyRFk7GB\_K\_MQ.jpeg 700w" sizes="700px"/>
 
 Village Hotel Sentosa, a hotel for SHN. (Source: Alphonsus Chern/The Straits Times)
 
 **_Re-housing migrant workers: Apartments, Carparks, Cruise ships, Floating hotels, Hotels, Hostels, Military camps, Outdoor education campus, Primary school, Public housing blocks, Sports halls_**
 
-<img class="s t u hm ai" src="https://miro.medium.com/max/2778/1\*-LE5Lth4wtG6u-3IPTJBcw.png" width="1389" height="801" srcSet="https://miro.medium.com/max/552/1\*-LE5Lth4wtG6u-3IPTJBcw.png 276w, https://miro.medium.com/max/1104/1\*-LE5Lth4wtG6u-3IPTJBcw.png 552w, https://miro.medium.com/max/1280/1\*-LE5Lth4wtG6u-3IPTJBcw.png 640w, https://miro.medium.com/max/1400/1\*-LE5Lth4wtG6u-3IPTJBcw.png 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/2778/1\*-LE5Lth4wtG6u-3IPTJBcw.png" width="1389" height="801" srcSet="https://miro.medium.com/max/552/1\*-LE5Lth4wtG6u-3IPTJBcw.png 276w, https://miro.medium.com/max/1104/1\*-LE5Lth4wtG6u-3IPTJBcw.png 552w, https://miro.medium.com/max/1280/1\*-LE5Lth4wtG6u-3IPTJBcw.png 640w, https://miro.medium.com/max/1400/1\*-LE5Lth4wtG6u-3IPTJBcw.png 700w" sizes="700px"/>
 
 Map of COVID-19 cases at migrant worker dormitories and construction sites, as of 11:00pm May 16, 2020. (Source: Channel New Asia)
 
@@ -39,7 +39,7 @@ Previously praised for its efficient emergency coordination to make the aforemen
 
 Consequently, the state has had to source for alternative accommodation for uninfected migrant workers in addition to active testing and quarantines of those infected. This growing list of deployed structures include military camps, multi-storey parking structures and [void decks at public housing](https://medium.com/post-quarantine-urbanism/singapores-trusty-partner-the-void-deck-15fde8ce8ca1) construction sites, an exhibition centre, floating hotels, a primary school, an outdoor education campus, a student hostel, a sports hall, hotels, public housing blocks, cruise ships and previously decommissioned apartment compounds. While it is unlikely that such living arrangements would remain viable in the long run (and the migrant worker community should surely be promised improved permanent accommodation), the unprecedented repurposing of these buildings would hopefully serve as a continued advocacy for the possibility for better housing conditions post-pandemic.
 
-<img class="s t u hm ai" src="https://miro.medium.com/max/1340/1\*g1smYu3Dr952AL\_iIXYgVA.jpeg" width="670" height="377" srcSet="https://miro.medium.com/max/552/1\*g1smYu3Dr952AL\_iIXYgVA.jpeg 276w, https://miro.medium.com/max/1104/1\*g1smYu3Dr952AL\_iIXYgVA.jpeg 552w, https://miro.medium.com/max/1280/1\*g1smYu3Dr952AL\_iIXYgVA.jpeg 640w, https://miro.medium.com/max/1340/1\*g1smYu3Dr952AL\_iIXYgVA.jpeg 670w" sizes="670px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/1340/1\*g1smYu3Dr952AL\_iIXYgVA.jpeg" width="670" height="377" srcSet="https://miro.medium.com/max/552/1\*g1smYu3Dr952AL\_iIXYgVA.jpeg 276w, https://miro.medium.com/max/1104/1\*g1smYu3Dr952AL\_iIXYgVA.jpeg 552w, https://miro.medium.com/max/1280/1\*g1smYu3Dr952AL\_iIXYgVA.jpeg 640w, https://miro.medium.com/max/1340/1\*g1smYu3Dr952AL\_iIXYgVA.jpeg 670w" sizes="670px"/>
 
 Screenshots from a video showing migrant workers relocated to unused multi-storey parking structures, an alternative accommodation. (Source: Channel New Asia)
 
@@ -47,7 +47,7 @@ Screenshots from a video showing migrant workers relocated to unused multi-store
 
 On the medical front, the sharp rise in new cases has also challenged the limited beds and space at dedicated hospitals and medical facilities. Prioritising more severe cases at hospitals, exhibition centres and expo convention halls made vacant by cancelled large-scale events have been converted into Community Care Facilities (CCFs) to nurse COVID-19 patients with lower risk factors or mild symptoms. At the same time, other chalets, military camps, racecourse facilities, recreation centres and emptied workers’ dormitories have taken on supporting functions as Community Recovery Facilities (CRFs) for asymptomatic cases as well as Swab and Dorm Isolation Facilities (SIFs and DIFs). Their decentralised locations and expansive spaces proving to aptly fit the medical and public health needs to respond to the widespread yet spatially sensitive nature of the virus.
 
-<img class="s t u hm ai" src="https://miro.medium.com/max/2048/1\*UeQwXykB91uGDAh\_ntAgow.jpeg" width="1024" height="683" srcSet="https://miro.medium.com/max/552/1\*UeQwXykB91uGDAh\_ntAgow.jpeg 276w, https://miro.medium.com/max/1104/1\*UeQwXykB91uGDAh\_ntAgow.jpeg 552w, https://miro.medium.com/max/1280/1\*UeQwXykB91uGDAh\_ntAgow.jpeg 640w, https://miro.medium.com/max/1400/1\*UeQwXykB91uGDAh\_ntAgow.jpeg 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/2048/1\*UeQwXykB91uGDAh\_ntAgow.jpeg" width="1024" height="683" srcSet="https://miro.medium.com/max/552/1\*UeQwXykB91uGDAh\_ntAgow.jpeg 276w, https://miro.medium.com/max/1104/1\*UeQwXykB91uGDAh\_ntAgow.jpeg 552w, https://miro.medium.com/max/1280/1\*UeQwXykB91uGDAh\_ntAgow.jpeg 640w, https://miro.medium.com/max/1400/1\*UeQwXykB91uGDAh\_ntAgow.jpeg 700w" sizes="700px"/>
 
 Changi Exhibition Centre, a CCF. (Source: Raj Nadarajan / TODAY)
 
@@ -57,13 +57,13 @@ Aside from the increase in activity at these newly re-commissioned front lines, 
 
 Launched in mid-March, TraceTogether, a contact tracing phone application also utilises Bluetooth to engage the public in the state’s efforts to collect data on recent encounters. Maps with live information on the crowd levels of shopping malls and parks encourage people to make informed and responsible decisions before heading out to grab essential items and food or to exercise. Unlike instant messaging government communication which clearly demonstrates the extrapolation of frontline response to the digital realm with its daily pings, TraceTogether and crowd level maps represent the digital shadows of what remains of our reduced physical activity.
 
-<img class="s t u hm ai" src="https://miro.medium.com/max/800/1\*d-B4LQNzl4mF1cetPRQsIQ.jpeg" width="400" height="506" srcSet="https://miro.medium.com/max/552/1\*d-B4LQNzl4mF1cetPRQsIQ.jpeg 276w, https://miro.medium.com/max/800/1\*d-B4LQNzl4mF1cetPRQsIQ.jpeg 400w" sizes="400px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/800/1\*d-B4LQNzl4mF1cetPRQsIQ.jpeg" width="400" height="506" srcSet="https://miro.medium.com/max/552/1\*d-B4LQNzl4mF1cetPRQsIQ.jpeg 276w, https://miro.medium.com/max/800/1\*d-B4LQNzl4mF1cetPRQsIQ.jpeg 400w" sizes="400px"/>
 
 Gov.sg Whatsapp service, a digital frontline at 8:30pm Mar 11, 2020. (Source: Gov.sg)
 
 **_Repurposing landscapes_**
 
-<img class="s t u hm ai" src="https://miro.medium.com/max/2970/1\*IyoN9pv7AovvmEGEKfy0Kw.gif" width="1485" height="825" srcSet="https://miro.medium.com/max/552/1\*IyoN9pv7AovvmEGEKfy0Kw.gif 276w, https://miro.medium.com/max/1104/1\*IyoN9pv7AovvmEGEKfy0Kw.gif 552w, https://miro.medium.com/max/1280/1\*IyoN9pv7AovvmEGEKfy0Kw.gif 640w, https://miro.medium.com/max/1400/1\*IyoN9pv7AovvmEGEKfy0Kw.gif 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/2970/1\*IyoN9pv7AovvmEGEKfy0Kw.gif" width="1485" height="825" srcSet="https://miro.medium.com/max/552/1\*IyoN9pv7AovvmEGEKfy0Kw.gif 276w, https://miro.medium.com/max/1104/1\*IyoN9pv7AovvmEGEKfy0Kw.gif 552w, https://miro.medium.com/max/1280/1\*IyoN9pv7AovvmEGEKfy0Kw.gif 640w, https://miro.medium.com/max/1400/1\*IyoN9pv7AovvmEGEKfy0Kw.gif 700w" sizes="700px"/>
 
 Singapore’s dynamic landscape of repurposing, as of May 17, 2020. (Author’s own)
 

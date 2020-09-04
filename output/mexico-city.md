@@ -7,19 +7,19 @@
 
 On the 28th of February of 2020, the first two cases of COVID-19 are confirmed in Mexico City and Sinaloa (Salud, 2020). Fear begins to take over the population due to 11 years ago, Mexico became the epicenter of the influenza A/H1N1 pandemic. Mexicans knew what that meant, it was the beginning of the chaos, where the closings of schools, restaurants, shops, and social distancing, was imminent. Nevertheless, the new pandemic appears under different circumstances.
 
-<img alt="Social distancing sign in the metro of Mexico City (Torres de Santiago, 2020)" class="s t u hi ai" src="https://miro.medium.com/max/1920/1\*AzSz2nb2a12DkT76Wc\_-0g.jpeg" width="960" height="1280" srcSet="https://miro.medium.com/max/552/1\*AzSz2nb2a12DkT76Wc\_-0g.jpeg 276w, https://miro.medium.com/max/1104/1\*AzSz2nb2a12DkT76Wc\_-0g.jpeg 552w, https://miro.medium.com/max/1280/1\*AzSz2nb2a12DkT76Wc\_-0g.jpeg 640w, https://miro.medium.com/max/1400/1\*AzSz2nb2a12DkT76Wc\_-0g.jpeg 700w" sizes="700px"/>
+<img alt="Social distancing sign in the metro of Mexico City (Torres de Santiago, 2020)" class="s t u ci ai" src="https://miro.medium.com/max/1920/1\*AzSz2nb2a12DkT76Wc\_-0g.jpeg" width="960" height="1280" srcSet="https://miro.medium.com/max/552/1\*AzSz2nb2a12DkT76Wc\_-0g.jpeg 276w, https://miro.medium.com/max/1104/1\*AzSz2nb2a12DkT76Wc\_-0g.jpeg 552w, https://miro.medium.com/max/1280/1\*AzSz2nb2a12DkT76Wc\_-0g.jpeg 640w, https://miro.medium.com/max/1400/1\*AzSz2nb2a12DkT76Wc\_-0g.jpeg 700w" sizes="700px"/>
 
 _Social distancing sign in the metro of Mexico City (Torres de Santiago, 2020)_
 
 In 2009 all schools, universities, restaurants, bars, and industries closed immediately after the confirmation of the presence of a new virus. However, on this occasion, the measures taken are different due to the Undersecretary of Prevention and Health promotion, Lopez-Gatell, who decided maintaining the normal functioning of the country. The undersecretary commented that this time the transit for international passengers was going to be allowed, not as it happened in 2009 since this caused millionaire losses for the tourism sector in Mexico (Nájar, 2020).
 
-<img alt="Temperature checkpoint at the International Airport of Mexico City (Rodríguez, 2020)" class="s t u hi ai" src="https://miro.medium.com/max/2048/1\*3dnPQlxCJ6Epx1TUTJ3DVQ.jpeg" width="1024" height="714" srcSet="https://miro.medium.com/max/552/1\*3dnPQlxCJ6Epx1TUTJ3DVQ.jpeg 276w, https://miro.medium.com/max/1104/1\*3dnPQlxCJ6Epx1TUTJ3DVQ.jpeg 552w, https://miro.medium.com/max/1280/1\*3dnPQlxCJ6Epx1TUTJ3DVQ.jpeg 640w, https://miro.medium.com/max/1400/1\*3dnPQlxCJ6Epx1TUTJ3DVQ.jpeg 700w" sizes="700px"/>
+<img alt="Temperature checkpoint at the International Airport of Mexico City (Rodríguez, 2020)" class="s t u ci ai" src="https://miro.medium.com/max/2048/1\*3dnPQlxCJ6Epx1TUTJ3DVQ.jpeg" width="1024" height="714" srcSet="https://miro.medium.com/max/552/1\*3dnPQlxCJ6Epx1TUTJ3DVQ.jpeg 276w, https://miro.medium.com/max/1104/1\*3dnPQlxCJ6Epx1TUTJ3DVQ.jpeg 552w, https://miro.medium.com/max/1280/1\*3dnPQlxCJ6Epx1TUTJ3DVQ.jpeg 640w, https://miro.medium.com/max/1400/1\*3dnPQlxCJ6Epx1TUTJ3DVQ.jpeg 700w" sizes="700px"/>
 
 _Temperature checkpoint at the International Airport of Mexico City (Rodríguez, 2020)_
 
 The surveillance of information is one of the most important measures taken since 2009 (Nájar, 2020). The Sentinel Surveillance system inspects 474 monitoring stations installed in hospitals and health centers across the country, which created in 2009 to combat the AH1N1 virus (Expansión Política, 2020). In these centers, a group of personnel was trained to use the system and detect infectious cases. Therefore, it locates, and measures the expansion of the coronavirus in statistical terms, by helping to identify the number of cases that could be asymptomatic or non-serious that are not registered in hospitals(Expansión Política, 2020).
 
-<img class="s t u hi ai" src="https://miro.medium.com/max/1200/1\*oWCGIgcx8LUPV6RmexPA3A.jpeg" width="600" height="400" srcSet="https://miro.medium.com/max/552/1\*oWCGIgcx8LUPV6RmexPA3A.jpeg 276w, https://miro.medium.com/max/1104/1\*oWCGIgcx8LUPV6RmexPA3A.jpeg 552w, https://miro.medium.com/max/1200/1\*oWCGIgcx8LUPV6RmexPA3A.jpeg 600w" sizes="600px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/1200/1\*oWCGIgcx8LUPV6RmexPA3A.jpeg" width="600" height="400" srcSet="https://miro.medium.com/max/552/1\*oWCGIgcx8LUPV6RmexPA3A.jpeg 276w, https://miro.medium.com/max/1104/1\*oWCGIgcx8LUPV6RmexPA3A.jpeg 552w, https://miro.medium.com/max/1200/1\*oWCGIgcx8LUPV6RmexPA3A.jpeg 600w" sizes="600px"/>
 
 _López-Gatell explaining the number of cases based in the Sentinel Surveillance(EFE, 2020)_
 
@@ -29,25 +29,25 @@ _López-Gatell explaining the number of cases based in the Sentinel Surveillance
 
 To prevent the spread of the coronavirus, one of the measures taken at the international level, it is to stay at home as much as possible. However, in Mexico, talking about staying at home is a luxury, due to 56.2% of the Mexican population works in the informal sector (García, 2020). Hence, more than half of the population in Mexico lacks public health services (ISSSTE and IMSS). Therefore, 56.2% of Mexicans are at risk of not being able to be treated in case of contagion by COVID-19.
 
-<img class="s t u hi ai" src="https://miro.medium.com/max/1920/1\*746bASIeabpEVeawJxTPBg.jpeg" width="960" height="1280" srcSet="https://miro.medium.com/max/552/1\*746bASIeabpEVeawJxTPBg.jpeg 276w, https://miro.medium.com/max/1104/1\*746bASIeabpEVeawJxTPBg.jpeg 552w, https://miro.medium.com/max/1280/1\*746bASIeabpEVeawJxTPBg.jpeg 640w, https://miro.medium.com/max/1400/1\*746bASIeabpEVeawJxTPBg.jpeg 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/1920/1\*746bASIeabpEVeawJxTPBg.jpeg" width="960" height="1280" srcSet="https://miro.medium.com/max/552/1\*746bASIeabpEVeawJxTPBg.jpeg 276w, https://miro.medium.com/max/1104/1\*746bASIeabpEVeawJxTPBg.jpeg 552w, https://miro.medium.com/max/1280/1\*746bASIeabpEVeawJxTPBg.jpeg 640w, https://miro.medium.com/max/1400/1\*746bASIeabpEVeawJxTPBg.jpeg 700w" sizes="700px"/>
 
 _Bus stop in Mexico City (Torres de Santiago, 2020)_
 
 However, this situation becomes a vicious circle, due to the most vulnerable group of the population is formed by indigenous women, young people, the elderly, and the act of stopping to work represents to cut their income. Additionally, non-formal workers do not have access to the law benefits, meaning that they do not have coverage to paid holidays and sickness premiums. Furthermore, the non-formal workers earn around $ 260 a month, making it almost impossible to pay for their health care themselves in case of COVID contagion (García,2020).
 
-<img class="s t u hi ai" src="https://miro.medium.com/max/1536/1\*\_XjyWeqKB\_pvbZ-uFGBRpA.jpeg" width="768" height="479" srcSet="https://miro.medium.com/max/552/1\*\_XjyWeqKB\_pvbZ-uFGBRpA.jpeg 276w, https://miro.medium.com/max/1104/1\*\_XjyWeqKB\_pvbZ-uFGBRpA.jpeg 552w, https://miro.medium.com/max/1280/1\*\_XjyWeqKB\_pvbZ-uFGBRpA.jpeg 640w, https://miro.medium.com/max/1400/1\*\_XjyWeqKB\_pvbZ-uFGBRpA.jpeg 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/1536/1\*\_XjyWeqKB\_pvbZ-uFGBRpA.jpeg" width="768" height="479" srcSet="https://miro.medium.com/max/552/1\*\_XjyWeqKB\_pvbZ-uFGBRpA.jpeg 276w, https://miro.medium.com/max/1104/1\*\_XjyWeqKB\_pvbZ-uFGBRpA.jpeg 552w, https://miro.medium.com/max/1280/1\*\_XjyWeqKB\_pvbZ-uFGBRpA.jpeg 640w, https://miro.medium.com/max/1400/1\*\_XjyWeqKB\_pvbZ-uFGBRpA.jpeg 700w" sizes="700px"/>
 
 _Local market in Mexico (Cuartoscuro, 2020)_
 
 The quality of housing is a remarkable issue in Mexico, due to 45% of the houses in Mexico, show material lags in the construction. Hence, this fact affects the social, mental, and economic development of citizens (García,2018). In pandemic times, this issue represents that it is almost impossible to stay at home since living in a house without optimal conditions represents people’s health problems (Báez, 2020).In Mexico, 7.6% of inhabitants do not have piped water at home, which means that 9.5 million people live at a very high risk of coronavirus contagion(García,2018).
 
-<img class="s t u hi ai" src="https://miro.medium.com/max/1920/1\*b3Su8xMRagqHC3fw6i5zfA.jpeg" width="960" height="640" srcSet="https://miro.medium.com/max/552/1\*b3Su8xMRagqHC3fw6i5zfA.jpeg 276w, https://miro.medium.com/max/1104/1\*b3Su8xMRagqHC3fw6i5zfA.jpeg 552w, https://miro.medium.com/max/1280/1\*b3Su8xMRagqHC3fw6i5zfA.jpeg 640w, https://miro.medium.com/max/1400/1\*b3Su8xMRagqHC3fw6i5zfA.jpeg 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/1920/1\*b3Su8xMRagqHC3fw6i5zfA.jpeg" width="960" height="640" srcSet="https://miro.medium.com/max/552/1\*b3Su8xMRagqHC3fw6i5zfA.jpeg 276w, https://miro.medium.com/max/1104/1\*b3Su8xMRagqHC3fw6i5zfA.jpeg 552w, https://miro.medium.com/max/1280/1\*b3Su8xMRagqHC3fw6i5zfA.jpeg 640w, https://miro.medium.com/max/1400/1\*b3Su8xMRagqHC3fw6i5zfA.jpeg 700w" sizes="700px"/>
 
 _Scarcity of water in Ciudad Juarez, Chihuahua (El norte, 2020)._
 
 Another important issue during the COVID pandemic in Mexico is the increase in gender-based violence cases. Since the first day of the COVID contagion in Mexico until the 15th of April of 2020, were registered 188 deaths of women by COVID, while 480 cases of murdered women by femicides (Publimetro, 2020). Nonetheless, the current president, Andres Manuel Lopez Obrador, neglected this issue. He affirmed that gender-based violence decreased during March and April of the current year. Undoubtedly, living in Mexico is a challenge, due to you can either die of gender-based violence, or you die of the COVID infection.
 
-<img class="s t u hi ai" src="https://miro.medium.com/max/2048/1\*naCyMf8UHF-W5Od2WDbrrA.jpeg" width="1024" height="711" srcSet="https://miro.medium.com/max/552/1\*naCyMf8UHF-W5Od2WDbrrA.jpeg 276w, https://miro.medium.com/max/1104/1\*naCyMf8UHF-W5Od2WDbrrA.jpeg 552w, https://miro.medium.com/max/1280/1\*naCyMf8UHF-W5Od2WDbrrA.jpeg 640w, https://miro.medium.com/max/1400/1\*naCyMf8UHF-W5Od2WDbrrA.jpeg 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/2048/1\*naCyMf8UHF-W5Od2WDbrrA.jpeg" width="1024" height="711" srcSet="https://miro.medium.com/max/552/1\*naCyMf8UHF-W5Od2WDbrrA.jpeg 276w, https://miro.medium.com/max/1104/1\*naCyMf8UHF-W5Od2WDbrrA.jpeg 552w, https://miro.medium.com/max/1280/1\*naCyMf8UHF-W5Od2WDbrrA.jpeg 640w, https://miro.medium.com/max/1400/1\*naCyMf8UHF-W5Od2WDbrrA.jpeg 700w" sizes="700px"/>
 
 _Altar for victims of femicides in Mexico (Reporte Indigo, 2020)_
 
@@ -57,19 +57,19 @@ _Altar for victims of femicides in Mexico (Reporte Indigo, 2020)_
 
 Recently, the number of sustainable mobility proposals increased in the country. Mexico City offers a large number of new sustainable micro-mobility initiatives such as bicycle and electric scooter rentals all over the city. These initiatives are widely accepted and used by citizens in Mexico City (Morales, 2020). Unfortunately, due to low demand during the pandemic and mismanagement of policies that apply to micro-mobility, these companies were affected, and only 1 out of 6 companies survived (Morales, 2020).
 
-<img class="s t u hi ai" src="https://miro.medium.com/max/1536/1\*L1S4FpRw0NxBrAE04WDH0g.jpeg" width="768" height="512" srcSet="https://miro.medium.com/max/552/1\*L1S4FpRw0NxBrAE04WDH0g.jpeg 276w, https://miro.medium.com/max/1104/1\*L1S4FpRw0NxBrAE04WDH0g.jpeg 552w, https://miro.medium.com/max/1280/1\*L1S4FpRw0NxBrAE04WDH0g.jpeg 640w, https://miro.medium.com/max/1400/1\*L1S4FpRw0NxBrAE04WDH0g.jpeg 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/1536/1\*L1S4FpRw0NxBrAE04WDH0g.jpeg" width="768" height="512" srcSet="https://miro.medium.com/max/552/1\*L1S4FpRw0NxBrAE04WDH0g.jpeg 276w, https://miro.medium.com/max/1104/1\*L1S4FpRw0NxBrAE04WDH0g.jpeg 552w, https://miro.medium.com/max/1280/1\*L1S4FpRw0NxBrAE04WDH0g.jpeg 640w, https://miro.medium.com/max/1400/1\*L1S4FpRw0NxBrAE04WDH0g.jpeg 700w" sizes="700px"/>
 
 _Bicycle and electric scooter rentals in Mexico city (Cuartoscuro, 2019)_
 
 Although 75% of users have avoided public transport during the pandemic, the use of private cars has increased in different cities of the country (Michel and López, 2020). Moreover, in some parts of Mexico, more stringent measures have been implemented such as checkpoints to verify essential trips. Additionally, the traffic system used in Mexico city to control traffic flows called “No Driving Day” (Hoy no circula), has been applied to several cities, for instance, Hidalgo, Puebla, and Zacatecas (Expansion Politica, 2020).
 
-<img class="s t u hi ai" src="https://miro.medium.com/max/1560/1\*cBPfjCYTCuSdHFE9O9uCZA.jpeg" width="780" height="445" srcSet="https://miro.medium.com/max/552/1\*cBPfjCYTCuSdHFE9O9uCZA.jpeg 276w, https://miro.medium.com/max/1104/1\*cBPfjCYTCuSdHFE9O9uCZA.jpeg 552w, https://miro.medium.com/max/1280/1\*cBPfjCYTCuSdHFE9O9uCZA.jpeg 640w, https://miro.medium.com/max/1400/1\*cBPfjCYTCuSdHFE9O9uCZA.jpeg 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/1560/1\*cBPfjCYTCuSdHFE9O9uCZA.jpeg" width="780" height="445" srcSet="https://miro.medium.com/max/552/1\*cBPfjCYTCuSdHFE9O9uCZA.jpeg 276w, https://miro.medium.com/max/1104/1\*cBPfjCYTCuSdHFE9O9uCZA.jpeg 552w, https://miro.medium.com/max/1280/1\*cBPfjCYTCuSdHFE9O9uCZA.jpeg 640w, https://miro.medium.com/max/1400/1\*cBPfjCYTCuSdHFE9O9uCZA.jpeg 700w" sizes="700px"/>
 
 _Checkpoints in Zacatecas, Mexico (Las noticias ya, 2020)_
 
 According to google mobility charts, there is not a significant difference between mobility before and during the pandemic in Mexico. The chart shows that the mobility trends for places of work have reduced only 28% in the whole country (Google, 2020). Besides, as can be observed in the second graph, the mobility trends for places of residence increased by only 17%. These results illustrate that inhabitants are still going outside to work to cover basic needs, even though the current pandemic.
 
-<img class="s t u hi ai" src="https://miro.medium.com/max/1870/1\*hp-Bz5ccuHP69owRTCmz4Q.png" width="935" height="459" srcSet="https://miro.medium.com/max/552/1\*hp-Bz5ccuHP69owRTCmz4Q.png 276w, https://miro.medium.com/max/1104/1\*hp-Bz5ccuHP69owRTCmz4Q.png 552w, https://miro.medium.com/max/1280/1\*hp-Bz5ccuHP69owRTCmz4Q.png 640w, https://miro.medium.com/max/1400/1\*hp-Bz5ccuHP69owRTCmz4Q.png 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/1870/1\*hp-Bz5ccuHP69owRTCmz4Q.png" width="935" height="459" srcSet="https://miro.medium.com/max/552/1\*hp-Bz5ccuHP69owRTCmz4Q.png 276w, https://miro.medium.com/max/1104/1\*hp-Bz5ccuHP69owRTCmz4Q.png 552w, https://miro.medium.com/max/1280/1\*hp-Bz5ccuHP69owRTCmz4Q.png 640w, https://miro.medium.com/max/1400/1\*hp-Bz5ccuHP69owRTCmz4Q.png 700w" sizes="700px"/>
 
 _Mobility trends for places of work and residence (Google, 2020)_
 
@@ -79,7 +79,7 @@ _Mobility trends for places of work and residence (Google, 2020)_
 
 The current system in Mexico is not sustainable, and the COVID-19 pandemic arrived to emphasize social inequality. The current situation demonstrates that the upper-middle-class can stay at home without any problem, while the rest of the inhabitants are exposed to infection. If that target group does not work, they will not be able to eat or to pay a hospital bill in case of COVID contagion.
 
-<img class="s t u hi ai" src="https://miro.medium.com/max/2560/1\*sEd-KA4RDdd8jnh9Eg4NCQ.jpeg" width="1280" height="960" srcSet="https://miro.medium.com/max/552/1\*sEd-KA4RDdd8jnh9Eg4NCQ.jpeg 276w, https://miro.medium.com/max/1104/1\*sEd-KA4RDdd8jnh9Eg4NCQ.jpeg 552w, https://miro.medium.com/max/1280/1\*sEd-KA4RDdd8jnh9Eg4NCQ.jpeg 640w, https://miro.medium.com/max/1400/1\*sEd-KA4RDdd8jnh9Eg4NCQ.jpeg 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/2560/1\*sEd-KA4RDdd8jnh9Eg4NCQ.jpeg" width="1280" height="960" srcSet="https://miro.medium.com/max/552/1\*sEd-KA4RDdd8jnh9Eg4NCQ.jpeg 276w, https://miro.medium.com/max/1104/1\*sEd-KA4RDdd8jnh9Eg4NCQ.jpeg 552w, https://miro.medium.com/max/1280/1\*sEd-KA4RDdd8jnh9Eg4NCQ.jpeg 640w, https://miro.medium.com/max/1400/1\*sEd-KA4RDdd8jnh9Eg4NCQ.jpeg 700w" sizes="700px"/>
 
 _Subway in Mexico City (Torres de Santiago, 2020)_
 
@@ -99,7 +99,7 @@ Mexico is a rich country in terms of biodiversity, culture, and natural resource
 
 We should never give up to fight for a better future against corruption, impoverished governance, and the inexistence of urban planning. It is time to promote co-creation as an essential and basic element in Mexico’s urban policies, and this cannot be done without professional guidance. This responsibility remains for urban planners, academia, NGOs, and the private sector to re-think the cities based on a bottom-up approach.
 
-<img class="s t u hi ai" src="https://miro.medium.com/max/1200/1\*vpATpQJ7hpXFlZrnYgabfA.jpeg" width="600" height="338" srcSet="https://miro.medium.com/max/552/1\*vpATpQJ7hpXFlZrnYgabfA.jpeg 276w, https://miro.medium.com/max/1104/1\*vpATpQJ7hpXFlZrnYgabfA.jpeg 552w, https://miro.medium.com/max/1200/1\*vpATpQJ7hpXFlZrnYgabfA.jpeg 600w" sizes="600px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/1200/1\*vpATpQJ7hpXFlZrnYgabfA.jpeg" width="600" height="338" srcSet="https://miro.medium.com/max/552/1\*vpATpQJ7hpXFlZrnYgabfA.jpeg 276w, https://miro.medium.com/max/1104/1\*vpATpQJ7hpXFlZrnYgabfA.jpeg 552w, https://miro.medium.com/max/1200/1\*vpATpQJ7hpXFlZrnYgabfA.jpeg 600w" sizes="600px"/>
 
 _The Zocalo empty because of the pandemic, Mexico City (EFE, 2020)_
 

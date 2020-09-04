@@ -1,6 +1,6 @@
 #### Anyone can publish on Medium per our [Policies](https://help.medium.com/hc/en-us/categories/201931128-Policies-Safety?source=post_page-----a21d2dc2d2a0----------------------), but we don’t fact-check every story. For more info about the coronavirus, see [cdc.gov](https://www.cdc.gov/coronavirus/2019-nCoV?source=post_page-----a21d2dc2d2a0----------------------).
 
-<img class="s t u dy ai" src="https://miro.medium.com/max/1936/1\*LamlX3UoDzigZdkByvUqvQ.jpeg" width="968" height="681" srcSet="https://miro.medium.com/max/552/1\*LamlX3UoDzigZdkByvUqvQ.jpeg 276w, https://miro.medium.com/max/1104/1\*LamlX3UoDzigZdkByvUqvQ.jpeg 552w, https://miro.medium.com/max/1280/1\*LamlX3UoDzigZdkByvUqvQ.jpeg 640w, https://miro.medium.com/max/1400/1\*LamlX3UoDzigZdkByvUqvQ.jpeg 700w" sizes="700px" role="presentation"/>
+<img alt="Image for post" class="s t u ci ai" src="https://miro.medium.com/max/1936/1\*LamlX3UoDzigZdkByvUqvQ.jpeg" width="968" height="681" srcSet="https://miro.medium.com/max/552/1\*LamlX3UoDzigZdkByvUqvQ.jpeg 276w, https://miro.medium.com/max/1104/1\*LamlX3UoDzigZdkByvUqvQ.jpeg 552w, https://miro.medium.com/max/1280/1\*LamlX3UoDzigZdkByvUqvQ.jpeg 640w, https://miro.medium.com/max/1400/1\*LamlX3UoDzigZdkByvUqvQ.jpeg 700w" sizes="700px"/>
 
 Green Space Information for Greater London (Gigl.org.uk)
 
@@ -10,7 +10,7 @@ London: Social distancing, green spaces & post-quarantine urbanism
 Perspectives from April, 2020
 -----------------------------
 
-[![Nick Ansell](https://miro.medium.com/fit/c/96/96/1*3k1gTaVSzvFSUSbyhU9BPQ.png)](https://medium.com/@nicholasjansell?source=post_page-----a21d2dc2d2a0----------------------)[Nick Ansell](https://medium.com/@nicholasjansell?source=post_page-----a21d2dc2d2a0----------------------)Follow[Jun 10](https://medium.com/post-quarantine-urbanism/london-social-distancing-green-spaces-post-quarantine-urbanism-a21d2dc2d2a0?source=post_page-----a21d2dc2d2a0----------------------) · 5 min read
+[![Nick Johnansell](https://miro.medium.com/fit/c/96/96/1*3k1gTaVSzvFSUSbyhU9BPQ.png)](https://medium.com/@nicholasjansell?source=post_page-----a21d2dc2d2a0----------------------)[Nick Johnansell](https://medium.com/@nicholasjansell?source=post_page-----a21d2dc2d2a0----------------------)Follow[Jun 10](https://medium.com/post-quarantine-urbanism/london-social-distancing-green-spaces-post-quarantine-urbanism-a21d2dc2d2a0?source=post_page-----a21d2dc2d2a0----------------------) · 5 min read
 
 The World Health Organization has recommended 1.5m as a safe distance for people to be at from one another during the pandemic. In the UK, movement during the lockdown is governed by two-meter social distancing measures. The two-meter distancing policy is re-shaping experiences with our environment for everyone, everywhere across the UK. Under current government guidelines, we can only go out for ‘essential’ work or travel, exercise or for food. For those of us that live in cities, this means that our main interactions with our surroundings are confined to nearby supermarkets and parks where social distancing measures ensure that we may shop and exercise at a safe distance from one another.
 
