@@ -32,7 +32,7 @@
     {
         "slug": "melbourne",
         "medium": "https://medium.com/post-quarantine-urbanism/post-pandemic-urbanism-australia-the-merge-scenario-9b783e564e65",
-        "converted": false
+        "converted": true
     },
     {
         "slug": "tokyo",
@@ -288,5 +288,10 @@
         "slug" : "dubai-dreamers",
         "medium": "https://medium.com/post-quarantine-urbanism/u-a-e-how-are-the-dreamers-keeping-their-visions-alive-411c932e3e7d",
         "converted": true
+    },
+    {
+        "slug": "prague",
+        "medium": "https://medium.com/post-quarantine-urbanism/prague-3c6e077b3c0f",
+        "converted":true
     }
 ]
